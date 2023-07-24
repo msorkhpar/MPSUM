@@ -73,7 +73,7 @@ def predicate_extract(triple):
         extract_file.write(triple)
     
     g = rdflib.Graph()
-    g.load(os.path.join(rdf_preprocess_dict.coredir, 'predicate_extract_temp.nt'), format='nt')
+    g.parse(os.path.join(rdf_preprocess_dict.coredir, 'predicate_extract_temp.nt'), format='nt')
 
     #rdf preprocesser
     for pred in g.predicates():
