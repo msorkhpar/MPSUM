@@ -83,7 +83,7 @@ def data_supplier(subject_uri):
 def form_object_doc_list(filepath):
 
     g = rdflib.Graph()
-    g.load(filepath, format='nt')
+    g.parse(filepath, format='nt')
 
     object_doc_list = []
 

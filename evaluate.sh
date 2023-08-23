@@ -1,8 +1,8 @@
 mkdir -p ESBM-eval
 WORKING_DIR="$(pwd)/ESBM-eval"
-ESBM_VERSION="v1.1"
-ESBM_NAME="ESBM_benchmark_v1.1"
-ESBM_EVAL_JAR_NAME="esummeval_v1.1.jar"
+ESBM_VERSION="v1.2"
+ESBM_NAME="ESBM_benchmark_v1.2"
+ESBM_EVAL_JAR_NAME="esummeval_v1.2.jar"
 
 function to_float() {
   echo "$1" | bc -l
@@ -10,7 +10,7 @@ function to_float() {
 
 function execute_and_move_the_result() {
   rm -rf ./MPSUM_output
-  python core/lda_test_and_output.py
+  python3 core/lda_test_and_output.py
   rm -rf $WORKING_DIR/result
   mv ./MPSUM_output $WORKING_DIR/result
 }
@@ -22,7 +22,7 @@ if [ ! -d "$WORKING_DIR/$ESBM_NAME" ]; then
 fi
 
 if [ ! -f "$WORKING_DIR/eval.jar" ]; then
-  echo "Downloading ESBM esummeval_v1 jar file..."
+  echo "Downloading ESBM esummeval_v1.2 jar file..."
   curl --request GET -sL \
     --url "https://raw.githubusercontent.com/nju-websoft/ESBM/master/$ESBM_VERSION/Evaluator/$ESBM_EVAL_JAR_NAME" \
     --output "$WORKING_DIR/eval.jar"
@@ -30,7 +30,7 @@ fi
 
 echo "dbpedia_5, dbpedia_10, lmdb_5, lmdb_10" >F_measure.csv
 echo "dbpedia_5, dbpedia_10, lmdb_5, lmdb_10" >MAP.csv
-for ((i = 1; i <= 10; i++)); do
+for ((i = 1; i <= 1; i++)); do
   echo "Generating result of the current project [Round $i]"
   execute_and_move_the_result
   result=$(java -jar $WORKING_DIR/eval.jar $WORKING_DIR/$ESBM_NAME $WORKING_DIR/result |

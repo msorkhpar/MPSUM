@@ -18,7 +18,7 @@ predicate_set_lm = set()
 def form_predicate_doc_list(filepath):
     #usr rdflib to construct Graph and extract predicate
     g = rdflib.Graph()
-    g.load(filepath, format='nt')
+    g.parse(filepath, format='nt')
 
     #predicate list in current file
     predicate_doc_list = []

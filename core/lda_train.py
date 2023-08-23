@@ -25,7 +25,7 @@ def apply_lda_model(kb_name, num, n_top_words):
     vectorizer = CountVectorizer()
  
     doc_term_matrix = vectorizer.fit_transform(texts)
-    texts_object = vectorizer.get_feature_names()
+    texts_object = vectorizer.get_feature_names_out()
 
     n_topics = len(rdf_preprocess_predicate.load_predicate_set(kb_name))
     if kb_name == 'db':
