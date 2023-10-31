@@ -2,10 +2,9 @@
 
 mkdir -p ESBM-eval
 WORKING_DIR="$(pwd)/ESBM-eval"
-ESBM_VERSION="v1.1"
-ESBM_NAME="ESBM_benchmark_v1.1"
-ESBM_EVAL_JAR_NAME="esummeval_v1.1.jar"
-
+ESBM_VERSION="v1.0"
+ESBM_NAME="ESBM_benchmark"
+ESBM_EVAL_JAR_NAME="esummeval_v1.0.jar"
 to_float() {
   echo "$1" | bc -l
 }
@@ -23,11 +22,11 @@ if [ ! -d "$WORKING_DIR/$ESBM_NAME" ]; then
     tar -xz -C $WORKING_DIR --strip=2 ESBM-master/$ESBM_VERSION/$ESBM_NAME
 fi
 
-if [ ! -f "$WORKING_DIR/eval.jar" ]; then
-  echo "Downloading ESBM esummeval_v1 jar file..."
+if [ ! -f "$WORKING_DIR/$ESBM_EVAL_JAR_NAME" ]; then
+  echo "Downloading ESBM $ESBM_EVAL_JAR_NAME file..."
   curl --request GET -sL \
-    --url "https://raw.githubusercontent.com/nju-websoft/ESBM/master/v1.1/Evaluator/$ESBM_EVAL_JAR_NAME" \
-    --output "$WORKING_DIR/eval.jar"
+    --url "https://raw.githubusercontent.com/nju-websoft/ESBM/master/v1.0/Evaluator/$ESBM_EVAL_JAR_NAME" \
+    --output "$WORKING_DIR/$ESBM_EVAL_JAR_NAME"
 fi
 
 
@@ -37,8 +36,7 @@ for ((i = 1; i <= 1; i++));
 do
   echo "Generating result of the current project [Round $i]"
   execute_and_move_the_result
-
-  result=$(java -jar $WORKING_DIR/eval.jar $WORKING_DIR/$ESBM_NAME $WORKING_DIR/result |
+  result=$(java -jar $WORKING_DIR/$ESBM_EVAL_JAR_NAME $WORKING_DIR/$ESBM_NAME $WORKING_DIR/result |
     grep -Eo '\((dbpedia|lmdb)@\w+):\s+F-measure=([0-9.]+), MAP=([0-9.]+)' |
     sed -E 's/\((dbpedia|lmdb)@(\w+)\):\s+F-measure=([0-9.]+), MAP=([0-9.]+)/\1@\2,\3,\4/')
 
