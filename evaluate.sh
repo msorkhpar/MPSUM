@@ -1,8 +1,21 @@
+#!/usr/bin/bash
+
 mkdir -p ESBM-eval
 WORKING_DIR="$(pwd)/ESBM-eval"
 ESBM_VERSION="v1.1"
 ESBM_NAME="ESBM_benchmark_v1.1"
 ESBM_EVAL_JAR_NAME="esummeval_v1.1.jar"
+
+to_float() {
+  echo "$1" | bc -l
+}
+
+execute_and_move_the_result() {
+  rm -rf MPSUM_output
+  python3 core/lda_test_and_output.py
+  rm -rf $WORKING_DIR/result
+  mv MPSUM_output $WORKING_DIR/result
+}
 
 if [ ! -d "$WORKING_DIR/$ESBM_NAME" ]; then
   echo "Downloading ESBM benchmark dataset"
@@ -17,18 +30,13 @@ if [ ! -f "$WORKING_DIR/eval.jar" ]; then
     --output "$WORKING_DIR/eval.jar"
 fi
 
-function to_float() {
-  echo "$1" | bc -l
-}
 
 echo "dbpedia_5, dbpedia_10, lmdb_5, lmdb_10" >F_measure.csv
 echo "dbpedia_5, dbpedia_10, lmdb_5, lmdb_10" >MAP.csv
-for ((i = 1; i <= 10; i++)); do
+for ((i = 1; i <= 1; i++));
+do
   echo "Generating result of the current project [Round $i]"
-  rm -rf ./MPSUM_output
-  python core/lda_test_and_output.py
-  rm -rf $WORKING_DIR/result
-  mv ./MPSUM_output $WORKING_DIR/result
+  execute_and_move_the_result
 
   result=$(java -jar $WORKING_DIR/eval.jar $WORKING_DIR/$ESBM_NAME $WORKING_DIR/result |
     grep -Eo '\((dbpedia|lmdb)@\w+):\s+F-measure=([0-9.]+), MAP=([0-9.]+)' |
