@@ -68,11 +68,11 @@ def retrieve_corpus_word(kb_name):
 
 def constructor():
     n_topic_words = 3000
-    form_and_store_corpus_word('db', 100, n_topic_words)
-    form_and_store_corpus_word('lm', 40, n_topic_words)
+    form_and_store_corpus_word('db', 125, n_topic_words)
+    form_and_store_corpus_word('lm', 50, n_topic_words)
 
 
 if __name__ == '__main__':
     n_topic_words = 3000
-    form_and_store_corpus_word('db', 100, n_topic_words)
-    form_and_store_corpus_word('lm', 40, n_topic_words)
+    form_and_store_corpus_word('db', 125, n_topic_words)
+    form_and_store_corpus_word('lm', 50, n_topic_words)

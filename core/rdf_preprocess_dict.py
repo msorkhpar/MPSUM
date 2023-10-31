@@ -16,10 +16,14 @@ lmdbdir = os.path.join(rootdir, 'lmdb')  # lmdb path
 dbpedia_nt_path = []
 for i in range(1, 101):
     dbpedia_nt_path.append(os.path.join(dbpediadir, str(i), str(i) + '_desc.nt'))
+for i in range(141, 166):
+    dbpedia_nt_path.append(os.path.join(dbpediadir, str(i), str(i) + '_desc.nt'))
 
 # paths in lmdb
 lmdb_nt_path = []
 for i in range(101, 141):
+    lmdb_nt_path.append(os.path.join(lmdbdir, str(i), str(i) + '_desc.nt'))
+for i in range(166, 176):
     lmdb_nt_path.append(os.path.join(lmdbdir, str(i), str(i) + '_desc.nt'))
 
 object_corpus_list_db = []
@@ -111,9 +115,10 @@ def form_and_store_object_corpus_list(kb_name='db', kb_nt_path_list=dbpedia_nt_p
 
 
 def constructor():
-    form_and_store_object_corpus_list()
+    form_and_store_object_corpus_list('db', dbpedia_nt_path, 0, 100)
+    form_and_store_object_corpus_list('db', dbpedia_nt_path, 140, 25)
     form_and_store_object_corpus_list('lm', lmdb_nt_path, 100, 40)
-
+    form_and_store_object_corpus_list('lm', lmdb_nt_path, 165, 10)
 
 if __name__ == '__main__':
     constructor()

@@ -94,8 +94,8 @@ def predicate_extract(triple):
 
 
 def constructor():
-    form_predicate_corpus_list(predicate_corpus_list_db, rdf_preprocess_dict.dbpedia_nt_path, 100)
-    form_predicate_corpus_list(predicate_corpus_list_lm, rdf_preprocess_dict.lmdb_nt_path, 40)
+    form_predicate_corpus_list(predicate_corpus_list_db, rdf_preprocess_dict.dbpedia_nt_path, 125)
+    form_predicate_corpus_list(predicate_corpus_list_lm, rdf_preprocess_dict.lmdb_nt_path, 50)
 
     form_and_store_predicate_set(predicate_corpus_list_db, predicate_set_db, 'db')
     form_and_store_predicate_set(predicate_corpus_list_lm, predicate_set_lm, 'lm')

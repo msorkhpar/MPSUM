@@ -2,9 +2,9 @@
 
 mkdir -p ESBM-eval
 WORKING_DIR="$(pwd)/ESBM-eval"
-ESBM_VERSION="v1.1"
-ESBM_NAME="ESBM_benchmark_v1.1"
-ESBM_EVAL_JAR_NAME="esummeval_v1.1.jar"
+ESBM_VERSION="v1.2"
+ESBM_NAME="ESBM_benchmark_v1.2"
+ESBM_EVAL_JAR_NAME="esummeval_v1.2.jar"
 
 to_float() {
   echo "$1" | bc -l
@@ -24,10 +24,10 @@ if [ ! -d "$WORKING_DIR/$ESBM_NAME" ]; then
 fi
 
 if [ ! -f "$WORKING_DIR/eval.jar" ]; then
-  echo "Downloading ESBM esummeval_v1 jar file..."
+  echo "Downloading ESBM $ESBM_EVAL_JAR_NAME jar file..."
   curl --request GET -sL \
     --url "https://raw.githubusercontent.com/nju-websoft/ESBM/master/v1.1/Evaluator/$ESBM_EVAL_JAR_NAME" \
-    --output "$WORKING_DIR/eval.jar"
+    --output "$WORKING_DIR/$ESBM_EVAL_JAR_NAME"
 fi
 
 
@@ -38,27 +38,26 @@ do
   echo "Generating result of the current project [Round $i]"
   execute_and_move_the_result
 
-  result=$(java -jar $WORKING_DIR/eval.jar $WORKING_DIR/$ESBM_NAME $WORKING_DIR/result |
-    grep -Eo '\((dbpedia|lmdb)@\w+):\s+F-measure=([0-9.]+), MAP=([0-9.]+)' |
-    sed -E 's/\((dbpedia|lmdb)@(\w+)\):\s+F-measure=([0-9.]+), MAP=([0-9.]+)/\1@\2,\3,\4/')
-
-  while IFS=',' read -r key f_measure MAP; do
-    echo "$key, $f_measure, $MAP"
+  result=$(java -jar $WORKING_DIR/$ESBM_EVAL_JAR_NAME $WORKING_DIR/$ESBM_NAME $WORKING_DIR/result  |
+    grep -Eo '\((dbpedia|lmdb)@\w+):\s+F-measure=([0-9.]+), NDCG=([0-9.]+)' |
+    sed -E 's/\((dbpedia|lmdb)@(\w+)\):\s+F-measure=([0-9.]+), NDCG=([0-9.]+)/\1@\2,\3,\4/')
+  while IFS=',' read -r key f_measure NDCG; do
+    echo "$key, $f_measure, $NDCG"
     if [[ $key == "dbpedia@top5" ]]; then
       f_measure_dbpedia_5=$(to_float "$f_measure")
-      map_dbpedia_5=$(to_float "$MAP")
+      ndcg_dbpedia_5=$(to_float "$NDCG")
     elif [[ $key == "dbpedia@top10" ]]; then
       f_measure_dbpedia_10=$(to_float "$f_measure")
-      map_dbpedia_10=$(to_float "$MAP")
+      ndcg_dbpedia_10=$(to_float "$NDCG")
     elif [[ $key == "lmdb@top5" ]]; then
       f_measure_lmdb_5=$(to_float "$f_measure")
-      map_lmdb_5=$(to_float "$MAP")
+      ndcg_lmdb_5=$(to_float "$NDCG")
     elif [[ $key == "lmdb@top10" ]]; then
       f_measure_lmdb_10=$(to_float "$f_measure")
-      map_lmdb_10=$(to_float "$MAP")
+      ndcg_lmdb_10=$(to_float "$NDCG")
     fi
   done <<<"$result"
   echo "$f_measure_dbpedia_5, $f_measure_dbpedia_10, $f_measure_lmdb_5, $f_measure_lmdb_10" >>F_measure.csv
-  echo "$map_dbpedia_5, $map_dbpedia_10, $map_lmdb_5, $map_lmdb_10" >>MAP.csv
+  echo "$ndcg_dbpedia_5, $ndcg_dbpedia_10, $ndcg_lmdb_5, $ndcg_lmdb_10" >>NDCG.csv
 
 done
