@@ -148,11 +148,22 @@ def entity_summarization(kb, kb_name, tfidf_flag):
 
     make_es_lda_output_subdir(kb, num, base_num, tfidf_flag)
 
+    if kb == 'dbpedia':
+        num, base_num = 25, 141
+        kb_path = rdf_preprocess_dict.dbpedia_nt_path
+        object_corpus_list = object_corpus_list_db
+        corpus_word = corpus_word_db
+    elif kb == 'lmdb':
+        num, base_num = 10, 166
+        kb_path = rdf_preprocess_dict.lmdb_nt_path
+        object_corpus_list = object_corpus_list_lm
+        corpus_word = corpus_word_lm
+
     for i in range(num):
         matched_total_lines = rank_rdf_triples(i, object_corpus_list, kb_path, corpus_word)
         construct_es_lda_output(kb, i + 1, base_num, matched_total_lines, tfidf_flag)
 
-    return
+    make_es_lda_output_subdir(kb, num, base_num, tfidf_flag)
 
 
 if __name__ == '__main__':
