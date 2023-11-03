@@ -26,7 +26,7 @@ fi
 if [ ! -f "$WORKING_DIR/eval.jar" ]; then
   echo "Downloading ESBM $ESBM_EVAL_JAR_NAME jar file..."
   curl --request GET -sL \
-    --url "https://raw.githubusercontent.com/nju-websoft/ESBM/master/v1.1/Evaluator/$ESBM_EVAL_JAR_NAME" \
+    --url "https://raw.githubusercontent.com/nju-websoft/ESBM/master/$ESBM_VERSION/Evaluator/$ESBM_EVAL_JAR_NAME" \
     --output "$WORKING_DIR/$ESBM_EVAL_JAR_NAME"
 fi
 
