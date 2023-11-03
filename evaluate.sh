@@ -33,7 +33,7 @@ fi
 
 echo "dbpedia_5, dbpedia_10, lmdb_5, lmdb_10" >F_measure.csv
 echo "dbpedia_5, dbpedia_10, lmdb_5, lmdb_10" >MAP.csv
-for ((i = 1; i <= 1; i++));
+for ((i = 1; i <= 10; i++));
 do
   echo "Generating result of the current project [Round $i]"
   execute_and_move_the_result
