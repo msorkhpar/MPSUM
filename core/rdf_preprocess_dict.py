@@ -107,20 +107,21 @@ def form_and_store_object_corpus_list(kb_name='db', kb_nt_path_list=dbpedia_nt_p
     object_corpus_list = []
     for i in range(num):
         object_corpus_list.append(form_object_doc_list(kb_nt_path_list[i]))
-    if append:
-        with open(os.path.join(coredir, 'object_corpus_list_' + kb_name + '.json'), 'a+', encoding='utf-8') as f:
-            json.dump(object_corpus_list, f)
-    else:
-        with open(os.path.join(coredir, 'object_corpus_list_' + kb_name + '.json'), 'w+', encoding='utf-8') as f:
-            json.dump(object_corpus_list, f)
-    return
+    return object_corpus_list
+
+
+def write_object_corpus_list(object_corpus_list, kb_name='db'):
+    with open(os.path.join(coredir, 'object_corpus_list_' + kb_name + '.json'), 'w+', encoding='utf-8') as f:
+        json.dump(object_corpus_list, f)
 
 
 def constructor():
-    form_and_store_object_corpus_list('db', dbpedia_nt_path, 0, 100)
-    form_and_store_object_corpus_list('db', dbpedia_nt_path, 140, 25, True)
-    form_and_store_object_corpus_list('lm', lmdb_nt_path, 100, 40)
-    form_and_store_object_corpus_list('lm', lmdb_nt_path, 165, 10, True)
+    object_corpus_list = form_and_store_object_corpus_list('db', dbpedia_nt_path, 0, 100)
+    object_corpus_list += form_and_store_object_corpus_list('db', dbpedia_nt_path, 140, 25)
+    write_object_corpus_list(object_corpus_list, 'db')
+    object_corpus_list = form_and_store_object_corpus_list('lm', lmdb_nt_path, 100, 40)
+    object_corpus_list += form_and_store_object_corpus_list('lm', lmdb_nt_path, 165, 10)
+    write_object_corpus_list(object_corpus_list, 'lm')
 
 
 if __name__ == '__main__':
