@@ -60,5 +60,5 @@ for ((i = 1; i <= 10; i++)); do
   done <<<"$result"
   echo "$f_measure_dbpedia_5, $f_measure_dbpedia_10, $f_measure_lmdb_5, $f_measure_lmdb_10" >>F_measure.csv
   echo "$ndcg_dbpedia_5, $ndcg_dbpedia_10, $ndcg_lmdb_5, $ndcg_lmdb_10" >>NDCG.csv
-  cp "$WORKING_DIR/result" "$ARCHIVE_DIR/result_$1"
+  cp "$WORKING_DIR/result" "$ARCHIVE_DIR/result_$i"
 done
