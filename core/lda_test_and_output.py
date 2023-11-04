@@ -10,9 +10,9 @@ If you want to supplement data from online database, please checkout our full ed
 or remove all json file and uncomment the following 3 comments.
 Due to the mobility of online database, we can't gurantee the data you supplement are the same as we provide in this branch.
 '''
-#rdf_preprocess_dict.constructor()
-#rdf_preprocess_object.constructor()
-#rdf_preprocess_predicate.constructor()
+rdf_preprocess_dict.constructor()
+rdf_preprocess_object.constructor()
+rdf_preprocess_predicate.constructor()
 
 # train model
 import lda_train
