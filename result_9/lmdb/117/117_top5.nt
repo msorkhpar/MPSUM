@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/70866> <http://www.w3.org/2000/01/rdf-schema#label> "Routine Check Ups 4" .
+<http://data.linkedmdb.org/resource/film/70866> <http://purl.org/dc/terms/title> "Routine Check Ups 4" .
+<http://data.linkedmdb.org/resource/film/70866> <http://purl.org/dc/terms/date> "2006" .
+<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2006" .
+<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/59932> .
