@@ -17,14 +17,10 @@
 <http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/377> .
 <http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/19046> .
 <http://data.linkedmdb.org/resource/film/41006> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000004af166> .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1995" .
 <http://data.linkedmdb.org/resource/film/44846> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1995" .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/filmid> "41006"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/32227> <http://data.linkedmdb.org/resource/movie/performance_film> "The Incredibly True Adventure of Two Girls in Love" .
 <http://data.linkedmdb.org/resource/performance/32228> <http://data.linkedmdb.org/resource/movie/performance_film> "The Incredibly True Adventure of Two Girls in Love" .
 <http://data.linkedmdb.org/resource/performance/48861> <http://data.linkedmdb.org/resource/movie/performance_film> "The Incredibly True Adventure of Two Girls in Love" .
-<http://data.linkedmdb.org/resource/film/41006> <http://purl.org/dc/terms/title> "The Incredibly True Adventure of Two Girls in Love" .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38446> .
 <http://data.linkedmdb.org/resource/actor/38446> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/38446> <http://data.linkedmdb.org/resource/movie/actor_actorid> "38446"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/38446> <http://www.w3.org/2000/01/rdf-schema#label> "Nicole Ari Parker (Actor)" .
@@ -44,7 +40,6 @@
 <http://data.linkedmdb.org/resource/actor/38446> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/82290> .
 <http://data.linkedmdb.org/resource/actor/38446> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000066d5b9> .
 <http://data.linkedmdb.org/resource/actor/38446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/40960> .
 <http://data.linkedmdb.org/resource/actor/40960> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/40960> <http://data.linkedmdb.org/resource/movie/actor_actorid> "40960"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/40960> <http://www.w3.org/2000/01/rdf-schema#label> "Laurel Holloman (Actor)" .
@@ -57,7 +52,6 @@
 <http://data.linkedmdb.org/resource/actor/40960> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/32227> .
 <http://data.linkedmdb.org/resource/actor/40960> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000007efa44> .
 <http://data.linkedmdb.org/resource/actor/40960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/46958> .
 <http://data.linkedmdb.org/resource/actor/46958> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/46958> <http://data.linkedmdb.org/resource/movie/actor_actorid> "46958"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/46958> <http://www.w3.org/2000/01/rdf-schema#label> "Maggie Moore (Actor)" .
@@ -67,18 +61,15 @@
 <http://data.linkedmdb.org/resource/actor/46958> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000d46644> .
 <http://data.linkedmdb.org/resource/actor/46958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/19153> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/13110> .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/13110> .
 <http://data.linkedmdb.org/resource/director/13110> <http://data.linkedmdb.org/resource/movie/director_directorid> "13110"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/director/13110> <http://www.w3.org/2000/01/rdf-schema#label> "Maria Maggenti (Director)" .
 <http://data.linkedmdb.org/resource/director/13110> <http://data.linkedmdb.org/resource/movie/director_name> "Maria Maggenti" .
 <http://data.linkedmdb.org/resource/director/13110> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/19153> .
-<http://data.linkedmdb.org/resource/director/13110> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/41006> .
 <http://data.linkedmdb.org/resource/director/13110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/13110> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000eae50b> .
 <http://data.linkedmdb.org/resource/director/13110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/1073> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/333> .
 <http://data.linkedmdb.org/resource/film/1393> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/333> .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/333> .
 <http://data.linkedmdb.org/resource/film_subject/333> <http://data.linkedmdb.org/resource/movie/film_subject_film_subjectid> "333"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film_subject/333> <http://www.w3.org/2000/01/rdf-schema#label> "Lesbianism (Film Subject)" .
 <http://data.linkedmdb.org/resource/film_subject/333> <http://data.linkedmdb.org/resource/movie/film_subject_name> "Lesbianism" .
@@ -433,7 +424,6 @@
 <http://data.linkedmdb.org/resource/film/40935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/40943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/40972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/41006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/41076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/41086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/4108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1048,55 +1038,41 @@
 <http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5748> .
 <http://data.linkedmdb.org/resource/music_contributor/5748> <http://data.linkedmdb.org/resource/movie/music_contributor_music_contributorid> "5748"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/music_contributor/5748> <http://www.w3.org/2000/01/rdf-schema#label> "Gus Mattox (Music Contributor)" .
 <http://data.linkedmdb.org/resource/music_contributor/5748> <http://data.linkedmdb.org/resource/movie/music_contributor_name> "Gus Mattox" .
 <http://data.linkedmdb.org/resource/music_contributor/5748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/music_contributor> .
 <http://data.linkedmdb.org/resource/music_contributor/5748> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000ea1708> .
-<http://data.linkedmdb.org/resource/actor/40960> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/32227> .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/32227> .
 <http://data.linkedmdb.org/resource/performance/32227> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/32227> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "32227"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/32227> <http://data.linkedmdb.org/resource/movie/performance_actor> "Laurel Holloman" .
-<http://data.linkedmdb.org/resource/performance/32227> <http://data.linkedmdb.org/resource/movie/performance_film> "The Incredibly True Adventure of Two Girls in Love" .
 <http://data.linkedmdb.org/resource/performance/32227> <http://www.w3.org/2000/01/rdf-schema#label> "performance #32227" .
 <http://data.linkedmdb.org/resource/performance/32227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/32227> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000112bb2f> .
-<http://data.linkedmdb.org/resource/actor/46958> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/32228> .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/32228> .
 <http://data.linkedmdb.org/resource/performance/32228> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/32228> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "32228"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/32228> <http://data.linkedmdb.org/resource/movie/performance_actor> "Maggie Moore" .
-<http://data.linkedmdb.org/resource/performance/32228> <http://data.linkedmdb.org/resource/movie/performance_film> "The Incredibly True Adventure of Two Girls in Love" .
 <http://data.linkedmdb.org/resource/performance/32228> <http://www.w3.org/2000/01/rdf-schema#label> "performance #32228" .
 <http://data.linkedmdb.org/resource/performance/32228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/32228> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000112bb34> .
-<http://data.linkedmdb.org/resource/actor/38446> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/48861> .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/48861> .
 <http://data.linkedmdb.org/resource/performance/48861> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/48861> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "48861"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/48861> <http://data.linkedmdb.org/resource/movie/performance_actor> "Nicole Ari Parker" .
-<http://data.linkedmdb.org/resource/performance/48861> <http://data.linkedmdb.org/resource/movie/performance_film> "The Incredibly True Adventure of Two Girls in Love" .
 <http://data.linkedmdb.org/resource/performance/48861> <http://www.w3.org/2000/01/rdf-schema#label> "performance #48861" .
 <http://data.linkedmdb.org/resource/performance/48861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/48861> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000059542bc> .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/13682> .
 <http://data.linkedmdb.org/resource/producer/13682> <http://data.linkedmdb.org/resource/movie/producer_producerid> "13682"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/13682> <http://www.w3.org/2000/01/rdf-schema#label> "Dolly Hall (Producer)" .
 <http://data.linkedmdb.org/resource/producer/13682> <http://data.linkedmdb.org/resource/movie/producer_name> "Dolly Hall" .
 <http://data.linkedmdb.org/resource/producer/13682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/13682> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000005c38a48> .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/377> .
 <http://data.linkedmdb.org/resource/producer/377> <http://data.linkedmdb.org/resource/movie/producer_producerid> "377"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/377> <http://www.w3.org/2000/01/rdf-schema#label> "Dolly Hall (Producer)" .
 <http://data.linkedmdb.org/resource/producer/377> <http://data.linkedmdb.org/resource/movie/producer_name> "Dolly Hall" .
 <http://data.linkedmdb.org/resource/producer/377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/377> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010c3b24> .
-<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/19046> .
 <http://data.linkedmdb.org/resource/writer/19046> <http://data.linkedmdb.org/resource/movie/writer_writerid> "19046"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/19046> <http://www.w3.org/2000/01/rdf-schema#label> "Maria Maggenti (Writer)" .
 <http://data.linkedmdb.org/resource/writer/19046> <http://data.linkedmdb.org/resource/movie/writer_name> "Maria Maggenti" .
 <http://data.linkedmdb.org/resource/writer/19046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/19046> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000eae50b> .
-<http://data.linkedmdb.org/resource/film/41006> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000004af166> .

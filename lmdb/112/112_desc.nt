@@ -34,10 +34,7 @@
 <http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1396> .
 <http://data.linkedmdb.org/resource/film/4501> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000867897> .
 <http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1994-07-09" .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/filmid> "4501"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/runtime> "50" .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/runtime> "50" .
 <http://data.linkedmdb.org/resource/film_cut/881> <http://data.linkedmdb.org/resource/movie/runtime> "50" .
 <http://data.linkedmdb.org/resource/performance/4408> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/performance/4409> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
@@ -49,12 +46,10 @@
 <http://data.linkedmdb.org/resource/performance/4415> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/performance/4416> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/performance/82244> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
-<http://data.linkedmdb.org/resource/film/4501> <http://purl.org/dc/terms/title> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/1545> .
 <http://data.linkedmdb.org/resource/film/2852> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/1545> .
 <http://data.linkedmdb.org/resource/film/3105> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/1545> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/1545> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/1545> .
 <http://data.linkedmdb.org/resource/actor/1545> <http://data.linkedmdb.org/resource/movie/actor_actorid> "1545"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/1545> <http://www.w3.org/2000/01/rdf-schema#label> "Joji Yanami (Actor)" .
 <http://data.linkedmdb.org/resource/actor/1545> <http://data.linkedmdb.org/resource/movie/actor_name> "Joji Yanami" .
@@ -81,7 +76,6 @@
 <http://data.linkedmdb.org/resource/actor/1545> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/8359> .
 <http://data.linkedmdb.org/resource/actor/1545> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010c5f54> .
 <http://data.linkedmdb.org/resource/actor/1545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/33932> .
 <http://data.linkedmdb.org/resource/actor/33932> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/33932> <http://data.linkedmdb.org/resource/movie/actor_actorid> "33932"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/33932> <http://www.w3.org/2000/01/rdf-schema#label> "Miki Ito (Actor)" .
@@ -103,7 +97,6 @@
 <http://data.linkedmdb.org/resource/film/2852> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34160> .
 <http://data.linkedmdb.org/resource/film/3105> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34160> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34160> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34160> .
 <http://data.linkedmdb.org/resource/actor/34160> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/34160> <http://data.linkedmdb.org/resource/movie/actor_actorid> "34160"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/34160> <http://www.w3.org/2000/01/rdf-schema#label> "Takeshi Kusao (Actor)" .
@@ -127,7 +120,6 @@
 <http://data.linkedmdb.org/resource/film/2852> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34497> .
 <http://data.linkedmdb.org/resource/film/3105> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34497> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34497> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34497> .
 <http://data.linkedmdb.org/resource/actor/34497> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/34497> <http://data.linkedmdb.org/resource/movie/actor_actorid> "34497"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/34497> <http://www.w3.org/2000/01/rdf-schema#label> "Mayumi Tanaka (Actor)" .
@@ -168,7 +160,6 @@
 <http://data.linkedmdb.org/resource/film/2852> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35093> .
 <http://data.linkedmdb.org/resource/film/3105> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35093> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35093> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35093> .
 <http://data.linkedmdb.org/resource/actor/35093> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/35093> <http://data.linkedmdb.org/resource/movie/actor_actorid> "35093"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/35093> <http://www.w3.org/2000/01/rdf-schema#label> "Masako Nozawa (Actor)" .
@@ -205,7 +196,6 @@
 <http://data.linkedmdb.org/resource/actor/35093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35096> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35096> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35096> .
 <http://data.linkedmdb.org/resource/actor/35096> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/35096> <http://data.linkedmdb.org/resource/movie/actor_actorid> "35096"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/35096> <http://www.w3.org/2000/01/rdf-schema#label> "Bin Shimada (Actor)" .
@@ -221,7 +211,6 @@
 <http://data.linkedmdb.org/resource/actor/35096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35586> .
 <http://data.linkedmdb.org/resource/film/2852> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35586> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35586> .
 <http://data.linkedmdb.org/resource/actor/35586> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/35586> <http://data.linkedmdb.org/resource/movie/actor_actorid> "35586"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/35586> <http://www.w3.org/2000/01/rdf-schema#label> "Daisuke GÅri (Actor)" .
@@ -254,7 +243,6 @@
 <http://data.linkedmdb.org/resource/film/2852> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/40928> .
 <http://data.linkedmdb.org/resource/film/3105> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/40928> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/40928> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/40928> .
 <http://data.linkedmdb.org/resource/actor/40928> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/40928> <http://data.linkedmdb.org/resource/movie/actor_actorid> "40928"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/40928> <http://www.w3.org/2000/01/rdf-schema#label> "Sean Schemmel (Actor)" .
@@ -277,7 +265,6 @@
 <http://data.linkedmdb.org/resource/actor/40928> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/88003> .
 <http://data.linkedmdb.org/resource/actor/40928> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000007ea42e> .
 <http://data.linkedmdb.org/resource/actor/40928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/42282> .
 <http://data.linkedmdb.org/resource/actor/42282> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/42282> <http://data.linkedmdb.org/resource/movie/actor_actorid> "42282"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/42282> <http://www.w3.org/2000/01/rdf-schema#label> "Naoki Tatsuta (Actor)" .
@@ -302,7 +289,6 @@
 <http://data.linkedmdb.org/resource/actor/42282> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/96529> .
 <http://data.linkedmdb.org/resource/actor/42282> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000008f6dba> .
 <http://data.linkedmdb.org/resource/actor/42282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47808> .
 <http://data.linkedmdb.org/resource/actor/47808> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/47808> <http://data.linkedmdb.org/resource/movie/actor_actorid> "47808"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/47808> <http://www.w3.org/2000/01/rdf-schema#label> "Tomiko Suzuki (Actor)" .
@@ -315,32 +301,24 @@
 <http://data.linkedmdb.org/resource/actor/47808> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000e19860> .
 <http://data.linkedmdb.org/resource/actor/47808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/3105> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/1835> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/1835> .
 <http://data.linkedmdb.org/resource/interlink/135633> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/1835> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/filmid> "1835"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1995-03-04" .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/runtime> "55" .
 <http://data.linkedmdb.org/resource/film/1835> <http://purl.org/dc/terms/title> "Rebirth of Fusion!! GokÅ« and Vegeta!!" .
-<http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/1545> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/2450> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32657> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/33862> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/33870> .
-<http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34160> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34963> .
-<http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35093> .
-<http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35096> .
-<http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35586> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36351> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/3833> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/3834> .
-<http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/40928> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/42158> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/45801> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/46573> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47807> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/3105> .
-<http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/4501> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/2516> .
 <http://data.linkedmdb.org/resource/film/1835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5614> .
@@ -366,22 +344,13 @@
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1396> .
 <http://data.linkedmdb.org/resource/film/1835> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000415b1a> .
 <http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/3887> .
 <http://data.linkedmdb.org/resource/film/2852> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/3887> .
 <http://data.linkedmdb.org/resource/interlink/137396> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/3887> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1994-03-12" .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/filmid> "3887"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/runtime> "50" .
 <http://data.linkedmdb.org/resource/film/3887> <http://purl.org/dc/terms/title> "The Dangerous Duo! Super-Warriors Can't Rest" .
-<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/1545> .
-<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34160> .
-<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34497> .
-<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35093> .
-<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35096> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36351> .
-<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/40928> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/2852> .
-<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/4501> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/1113> .
 <http://data.linkedmdb.org/resource/film/3887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5614> .
@@ -396,8 +365,6 @@
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1396> .
 <http://data.linkedmdb.org/resource/film/3887> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000077acf7> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/881> .
-<http://data.linkedmdb.org/resource/film_cut/881> <http://data.linkedmdb.org/resource/movie/runtime> "50" .
 <http://data.linkedmdb.org/resource/film_cut/881> <http://data.linkedmdb.org/resource/movie/film_cut_film_cutid> "881"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film_cut/881> <http://www.w3.org/2000/01/rdf-schema#label> "Film Cut #881" .
 <http://data.linkedmdb.org/resource/film_cut/881> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film_cut> .
@@ -561,7 +528,6 @@
 <http://data.linkedmdb.org/resource/film/1811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/1824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/1826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/1835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/1848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/1849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/18644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -707,7 +673,6 @@
 <http://data.linkedmdb.org/resource/film/38673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/38818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/38874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/3887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/39000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/39014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/39079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -822,7 +787,6 @@
 <http://data.linkedmdb.org/resource/film/44818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/44846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/44849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/4501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/45096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/45182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/45280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1366,128 +1330,88 @@
 <http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5614> .
 <http://data.linkedmdb.org/resource/film/2852> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5614> .
 <http://data.linkedmdb.org/resource/film/3105> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5614> .
-<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5614> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5614> .
 <http://data.linkedmdb.org/resource/music_contributor/5614> <http://data.linkedmdb.org/resource/movie/music_contributor_music_contributorid> "5614"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/music_contributor/5614> <http://www.w3.org/2000/01/rdf-schema#label> "Shunsuke Kikuchi (Music Contributor)" .
 <http://data.linkedmdb.org/resource/music_contributor/5614> <http://data.linkedmdb.org/resource/movie/music_contributor_name> "Shunsuke Kikuchi" .
 <http://data.linkedmdb.org/resource/music_contributor/5614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/music_contributor> .
 <http://data.linkedmdb.org/resource/music_contributor/5614> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000c83f74> .
-<http://data.linkedmdb.org/resource/actor/35093> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4408> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4408> .
 <http://data.linkedmdb.org/resource/performance/4408> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4408> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4408"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/4408> <http://data.linkedmdb.org/resource/movie/performance_actor> "Masako Nozawa" .
-<http://data.linkedmdb.org/resource/performance/4408> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/performance/4408> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4408" .
 <http://data.linkedmdb.org/resource/performance/4408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4408> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d312e> .
-<http://data.linkedmdb.org/resource/actor/35096> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4409> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4409> .
 <http://data.linkedmdb.org/resource/performance/4409> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4409> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4409"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/4409> <http://data.linkedmdb.org/resource/movie/performance_actor> "Bin Shimada" .
-<http://data.linkedmdb.org/resource/performance/4409> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/performance/4409> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4409" .
 <http://data.linkedmdb.org/resource/performance/4409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4409> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d3133> .
-<http://data.linkedmdb.org/resource/actor/34160> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4410> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4410> .
 <http://data.linkedmdb.org/resource/performance/4410> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4410> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4410"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/4410> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/performance/4410> <http://data.linkedmdb.org/resource/movie/performance_actor> "Takeshi Kusao" .
 <http://data.linkedmdb.org/resource/performance/4410> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4410" .
 <http://data.linkedmdb.org/resource/performance/4410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4410> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d3138> .
-<http://data.linkedmdb.org/resource/actor/33932> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4411> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4411> .
 <http://data.linkedmdb.org/resource/performance/4411> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4411> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4411"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/4411> <http://data.linkedmdb.org/resource/movie/performance_actor> "Miki Ito" .
-<http://data.linkedmdb.org/resource/performance/4411> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/performance/4411> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4411" .
 <http://data.linkedmdb.org/resource/performance/4411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4411> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d313d> .
-<http://data.linkedmdb.org/resource/actor/34497> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4412> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4412> .
 <http://data.linkedmdb.org/resource/performance/4412> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4412> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4412"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/4412> <http://data.linkedmdb.org/resource/movie/performance_actor> "Mayumi Tanaka" .
-<http://data.linkedmdb.org/resource/performance/4412> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/performance/4412> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4412" .
 <http://data.linkedmdb.org/resource/performance/4412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4412> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d3142> .
-<http://data.linkedmdb.org/resource/actor/35586> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4413> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4413> .
 <http://data.linkedmdb.org/resource/performance/4413> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4413> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4413"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/4413> <http://data.linkedmdb.org/resource/movie/performance_actor> "Daisuke GÅri" .
-<http://data.linkedmdb.org/resource/performance/4413> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/performance/4413> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4413" .
 <http://data.linkedmdb.org/resource/performance/4413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4413> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d3147> .
-<http://data.linkedmdb.org/resource/actor/47808> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4414> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4414> .
 <http://data.linkedmdb.org/resource/performance/4414> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4414> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4414"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/4414> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/performance/4414> <http://data.linkedmdb.org/resource/movie/performance_actor> "Tomiko Suzuki" .
 <http://data.linkedmdb.org/resource/performance/4414> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4414" .
 <http://data.linkedmdb.org/resource/performance/4414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4414> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d314c> .
-<http://data.linkedmdb.org/resource/actor/42282> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4415> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4415> .
 <http://data.linkedmdb.org/resource/performance/4415> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4415> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4415"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/4415> <http://data.linkedmdb.org/resource/movie/performance_actor> "Naoki Tatsuta" .
-<http://data.linkedmdb.org/resource/performance/4415> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/performance/4415> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4415" .
 <http://data.linkedmdb.org/resource/performance/4415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4415> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d3151> .
-<http://data.linkedmdb.org/resource/actor/1545> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4416> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4416> .
 <http://data.linkedmdb.org/resource/performance/4416> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4416> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4416"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/4416> <http://data.linkedmdb.org/resource/movie/performance_actor> "Joji Yanami" .
-<http://data.linkedmdb.org/resource/performance/4416> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/performance/4416> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4416" .
 <http://data.linkedmdb.org/resource/performance/4416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4416> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d3156> .
-<http://data.linkedmdb.org/resource/actor/40928> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/82244> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/82244> .
 <http://data.linkedmdb.org/resource/performance/82244> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/82244> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "82244"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/82244> <http://data.linkedmdb.org/resource/movie/performance_actor> "Sean Schemmel" .
-<http://data.linkedmdb.org/resource/performance/82244> <http://data.linkedmdb.org/resource/movie/performance_film> "Super-Warrior Defeat!! I'm the One who'll Win" .
 <http://data.linkedmdb.org/resource/performance/82244> <http://www.w3.org/2000/01/rdf-schema#label> "performance #82244" .
 <http://data.linkedmdb.org/resource/performance/82244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/82244> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070b94dc> .
-<http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13022> .
 <http://data.linkedmdb.org/resource/film/2852> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13022> .
 <http://data.linkedmdb.org/resource/film/3105> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13022> .
-<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13022> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13022> .
 <http://data.linkedmdb.org/resource/writer/13022> <http://data.linkedmdb.org/resource/movie/writer_writerid> "13022"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/13022> <http://www.w3.org/2000/01/rdf-schema#label> "Akira Toriyama (Writer)" .
 <http://data.linkedmdb.org/resource/writer/13022> <http://data.linkedmdb.org/resource/movie/writer_name> "Akira Toriyama" .
 <http://data.linkedmdb.org/resource/writer/13022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/13022> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000008e33> .
-<http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1396> .
 <http://data.linkedmdb.org/resource/film/2852> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1396> .
 <http://data.linkedmdb.org/resource/film/3105> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1396> .
-<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1396> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1396> .
 <http://data.linkedmdb.org/resource/writer/1396> <http://data.linkedmdb.org/resource/movie/writer_writerid> "1396"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/1396> <http://www.w3.org/2000/01/rdf-schema#label> "Takao Koyama (Writer)" .
 <http://data.linkedmdb.org/resource/writer/1396> <http://data.linkedmdb.org/resource/movie/writer_name> "Takao Koyama" .
 <http://data.linkedmdb.org/resource/writer/1396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/1396> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d3124> .
 <http://data.linkedmdb.org/resource/writer/1396> <http://www.w3.org/2000/01/rdf-schema#SeeAlso> <http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Takao+Koyama> .
-<http://data.linkedmdb.org/resource/film/4501> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000867897> .
 <http://data.linkedmdb.org/resource/film/12442> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/12443> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/13386> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
@@ -1502,14 +1426,11 @@
 <http://data.linkedmdb.org/resource/film/17629> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/17630> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/17994> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
-<http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/18783> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/2199> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/2852> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/3105> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/3848> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
-<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
-<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/6623> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/6675> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .

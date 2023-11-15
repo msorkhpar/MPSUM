@@ -33,15 +33,10 @@
 <http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/5089> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0038821> .
 <http://data.linkedmdb.org/resource/film/5089> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Overlanders_(film)> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1946" .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/filmid> "5089"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/runtime> "91" .
 <http://data.linkedmdb.org/resource/film_cut/7327> <http://data.linkedmdb.org/resource/movie/runtime> "91" .
 <http://data.linkedmdb.org/resource/performance/33877> <http://data.linkedmdb.org/resource/movie/performance_film> "The Overlanders" .
 <http://data.linkedmdb.org/resource/performance/33878> <http://data.linkedmdb.org/resource/movie/performance_film> "The Overlanders" .
 <http://data.linkedmdb.org/resource/performance/33879> <http://data.linkedmdb.org/resource/movie/performance_film> "The Overlanders" .
-<http://data.linkedmdb.org/resource/film/5089> <http://purl.org/dc/terms/title> "The Overlanders" .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/40417> .
 <http://data.linkedmdb.org/resource/actor/40417> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/40417> <http://data.linkedmdb.org/resource/movie/actor_actorid> "40417"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/40417> <http://www.w3.org/2000/01/rdf-schema#label> "Chips Rafferty (Actor)" .
@@ -61,7 +56,6 @@
 <http://data.linkedmdb.org/resource/actor/40417> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/68867> .
 <http://data.linkedmdb.org/resource/actor/40417> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000078f97d> .
 <http://data.linkedmdb.org/resource/actor/40417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/7703> .
 <http://data.linkedmdb.org/resource/actor/7703> <http://data.linkedmdb.org/resource/movie/actor_actorid> "7703"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/7703> <http://www.w3.org/2000/01/rdf-schema#label> "John Nugent Hayward (Actor)" .
 <http://data.linkedmdb.org/resource/actor/7703> <http://data.linkedmdb.org/resource/movie/actor_name> "John Nugent Hayward" .
@@ -69,7 +63,6 @@
 <http://data.linkedmdb.org/resource/actor/7703> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33878> .
 <http://data.linkedmdb.org/resource/actor/7703> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001130714> .
 <http://data.linkedmdb.org/resource/actor/7703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/7704> .
 <http://data.linkedmdb.org/resource/actor/7704> <http://data.linkedmdb.org/resource/movie/actor_actorid> "7704"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/7704> <http://www.w3.org/2000/01/rdf-schema#label> "Daphne Campbell (Actor)" .
 <http://data.linkedmdb.org/resource/actor/7704> <http://data.linkedmdb.org/resource/movie/actor_name> "Daphne Campbell" .
@@ -77,7 +70,6 @@
 <http://data.linkedmdb.org/resource/actor/7704> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33879> .
 <http://data.linkedmdb.org/resource/actor/7704> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000113071a> .
 <http://data.linkedmdb.org/resource/actor/7704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/AU> .
 <http://data.linkedmdb.org/resource/country/AU> <http://data.linkedmdb.org/resource/movie/country_population> "20600000" .
 <http://data.linkedmdb.org/resource/country/AU> <http://data.linkedmdb.org/resource/movie/country_iso_numeric> "36" .
 <http://data.linkedmdb.org/resource/country/AU> <http://data.linkedmdb.org/resource/movie/country_id> "51"^^<http://www.w3.org/2001/XMLSchema#int> .
@@ -95,7 +87,6 @@
 <http://data.linkedmdb.org/resource/country/AU> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/2077456/> .
 <http://data.linkedmdb.org/resource/film/12618> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/13995> .
 <http://data.linkedmdb.org/resource/film/48999> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/13995> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/13995> .
 <http://data.linkedmdb.org/resource/film/53100> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/13995> .
 <http://data.linkedmdb.org/resource/film/70714> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/13995> .
 <http://data.linkedmdb.org/resource/director/13995> <http://data.linkedmdb.org/resource/movie/director_directorid> "13995"^^<http://www.w3.org/2001/XMLSchema#int> .
@@ -103,30 +94,24 @@
 <http://data.linkedmdb.org/resource/director/13995> <http://data.linkedmdb.org/resource/movie/director_name> "Harry Watt" .
 <http://data.linkedmdb.org/resource/director/13995> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/12618> .
 <http://data.linkedmdb.org/resource/director/13995> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/48999> .
-<http://data.linkedmdb.org/resource/director/13995> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/5089> .
 <http://data.linkedmdb.org/resource/director/13995> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/53100> .
 <http://data.linkedmdb.org/resource/director/13995> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/70714> .
 <http://data.linkedmdb.org/resource/director/13995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/13995> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000056acdcb> .
 <http://data.linkedmdb.org/resource/director/13995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2486> .
 <http://data.linkedmdb.org/resource/director/2486> <http://data.linkedmdb.org/resource/movie/director_directorid> "2486"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/director/2486> <http://www.w3.org/2000/01/rdf-schema#label> "Harry Watt (Director)" .
 <http://data.linkedmdb.org/resource/director/2486> <http://data.linkedmdb.org/resource/movie/director_name> "Harry Watt" .
-<http://data.linkedmdb.org/resource/director/2486> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/5089> .
 <http://data.linkedmdb.org/resource/director/2486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/2486> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000113070e> .
 <http://data.linkedmdb.org/resource/director/2486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/1456> .
 <http://data.linkedmdb.org/resource/editor/1456> <http://data.linkedmdb.org/resource/movie/editor_editorid> "1456"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/editor/1456> <http://www.w3.org/2000/01/rdf-schema#label> "Inman Hunter (Editor)" .
 <http://data.linkedmdb.org/resource/editor/1456> <http://data.linkedmdb.org/resource/movie/editor_name> "Inman Hunter" .
 <http://data.linkedmdb.org/resource/editor/1456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/editor> .
 <http://data.linkedmdb.org/resource/editor/1456> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001130722> .
 <http://data.linkedmdb.org/resource/editor/1456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/7327> .
 <http://data.linkedmdb.org/resource/film_cut/7327> <http://data.linkedmdb.org/resource/movie/film_cut_film_cutid> "7327"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/film_cut/7327> <http://data.linkedmdb.org/resource/movie/runtime> "91" .
 <http://data.linkedmdb.org/resource/film_cut/7327> <http://www.w3.org/2000/01/rdf-schema#label> "Film Cut #7327" .
 <http://data.linkedmdb.org/resource/film_cut/7327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film_cut> .
 <http://data.linkedmdb.org/resource/film_cut/7327> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000113073d> .
@@ -135,7 +120,6 @@
 <http://data.linkedmdb.org/resource/film/2042> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/465> .
 <http://data.linkedmdb.org/resource/film/2116> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/465> .
 <http://data.linkedmdb.org/resource/film/42230> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/465> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/465> .
 <http://data.linkedmdb.org/resource/film/87696> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/465> .
 <http://data.linkedmdb.org/resource/film_subject/465> <http://data.linkedmdb.org/resource/movie/film_subject_film_subjectid> "465"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film_subject/465> <http://www.w3.org/2000/01/rdf-schema#label> "World War II (Film Subject)" .
@@ -666,7 +650,6 @@
 <http://data.linkedmdb.org/resource/film/50551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/50637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/50896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/5089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/51303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/51351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/51520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1106,52 +1089,39 @@
 <http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/4984> .
 <http://data.linkedmdb.org/resource/music_contributor/4984> <http://data.linkedmdb.org/resource/movie/music_contributor_music_contributorid> "4984"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/music_contributor/4984> <http://www.w3.org/2000/01/rdf-schema#label> "John Ireland (Music Contributor)" .
 <http://data.linkedmdb.org/resource/music_contributor/4984> <http://data.linkedmdb.org/resource/movie/music_contributor_name> "John Ireland" .
 <http://data.linkedmdb.org/resource/music_contributor/4984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/music_contributor> .
 <http://data.linkedmdb.org/resource/music_contributor/4984> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000005305af> .
-<http://data.linkedmdb.org/resource/actor/40417> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33877> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33877> .
 <http://data.linkedmdb.org/resource/performance/33877> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/33877> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "33877"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/33877> <http://data.linkedmdb.org/resource/movie/performance_actor> "Chips Rafferty" .
-<http://data.linkedmdb.org/resource/performance/33877> <http://data.linkedmdb.org/resource/movie/performance_film> "The Overlanders" .
 <http://data.linkedmdb.org/resource/performance/33877> <http://www.w3.org/2000/01/rdf-schema#label> "performance #33877" .
 <http://data.linkedmdb.org/resource/performance/33877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/33877> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000113072b> .
-<http://data.linkedmdb.org/resource/actor/7703> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33878> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33878> .
 <http://data.linkedmdb.org/resource/performance/33878> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/33878> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "33878"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/33878> <http://data.linkedmdb.org/resource/movie/performance_actor> "John Nugent Hayward" .
-<http://data.linkedmdb.org/resource/performance/33878> <http://data.linkedmdb.org/resource/movie/performance_film> "The Overlanders" .
 <http://data.linkedmdb.org/resource/performance/33878> <http://www.w3.org/2000/01/rdf-schema#label> "performance #33878" .
 <http://data.linkedmdb.org/resource/performance/33878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/33878> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001130730> .
-<http://data.linkedmdb.org/resource/actor/7704> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33879> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33879> .
 <http://data.linkedmdb.org/resource/performance/33879> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/33879> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "33879"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/33879> <http://data.linkedmdb.org/resource/movie/performance_actor> "Daphne Campbell" .
-<http://data.linkedmdb.org/resource/performance/33879> <http://data.linkedmdb.org/resource/movie/performance_film> "The Overlanders" .
 <http://data.linkedmdb.org/resource/performance/33879> <http://www.w3.org/2000/01/rdf-schema#label> "performance #33879" .
 <http://data.linkedmdb.org/resource/performance/33879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/33879> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001130735> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/10678> .
 <http://data.linkedmdb.org/resource/producer/10678> <http://data.linkedmdb.org/resource/movie/producer_producerid> "10678"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/10678> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Balcon (Producer)" .
 <http://data.linkedmdb.org/resource/producer/10678> <http://data.linkedmdb.org/resource/movie/producer_name> "Michael Balcon" .
 <http://data.linkedmdb.org/resource/producer/10678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/10678> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000033d83e> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/17201> .
 <http://data.linkedmdb.org/resource/writer/17201> <http://data.linkedmdb.org/resource/movie/writer_writerid> "17201"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/17201> <http://www.w3.org/2000/01/rdf-schema#label> "Ralph Smart (Writer)" .
 <http://data.linkedmdb.org/resource/writer/17201> <http://data.linkedmdb.org/resource/movie/writer_name> "Ralph Smart" .
 <http://data.linkedmdb.org/resource/writer/17201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/17201> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000008829c6> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/5356> .
 <http://data.linkedmdb.org/resource/writer/5356> <http://data.linkedmdb.org/resource/movie/writer_writerid> "5356"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/5356> <http://www.w3.org/2000/01/rdf-schema#label> "Harry Watt (Writer)" .
 <http://data.linkedmdb.org/resource/writer/5356> <http://data.linkedmdb.org/resource/movie/writer_name> "Harry Watt" .
@@ -1159,10 +1129,6 @@
 <http://data.linkedmdb.org/resource/writer/5356> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000113070e> .
 <http://data.linkedmdb.org/resource/writer/5356> <http://www.w3.org/2000/01/rdf-schema#SeeAlso> <http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Harry+Watt> .
 <http://data.linkedmdb.org/resource/interlink/62028> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/2077456/> .
-<http://data.linkedmdb.org/resource/country/AU> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/2077456/> .
-<http://data.linkedmdb.org/resource/film/5089> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2077456/> .
-<http://data.linkedmdb.org/resource/film/5089> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000942ce9> .
-<http://data.linkedmdb.org/resource/film/5089> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0038821> .
 <http://data.linkedmdb.org/resource/film/10232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10289> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10336> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1340,7 +1306,6 @@
 <http://data.linkedmdb.org/resource/film/4995> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/4> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/5167> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/5215> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1558,5 +1523,3 @@
 <http://data.linkedmdb.org/resource/interlink/151035> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/152117> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/152119> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/5089> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0038821> .
-<http://data.linkedmdb.org/resource/film/5089> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Overlanders_(film)> .

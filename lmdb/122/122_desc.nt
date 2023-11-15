@@ -46,190 +46,145 @@
 <http://data.linkedmdb.org/resource/director/10846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000073a82c> .
 <http://data.linkedmdb.org/resource/director/10846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/director/10846> <http://data.linkedmdb.org/resource/movie/director_directorid> "10846"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/director/10846> <http://www.w3.org/2000/01/rdf-schema#label> "Paul Morris (Director)" .
-<http://data.linkedmdb.org/resource/director/10846> <http://data.linkedmdb.org/resource/movie/director_name> "Paul Morris" .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/74508> .
 <http://data.linkedmdb.org/resource/film/74508> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2006" .
 <http://data.linkedmdb.org/resource/film/74508> <http://data.linkedmdb.org/resource/movie/filmid> "74508"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/74508> <http://purl.org/dc/terms/title> "Riding Billy Wild" .
 <http://data.linkedmdb.org/resource/film/74508> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/45623> .
 <http://data.linkedmdb.org/resource/film/74508> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/49757> .
 <http://data.linkedmdb.org/resource/film/74508> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/61795> .
-<http://data.linkedmdb.org/resource/film/74508> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/74508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/74508> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/151583> .
 <http://data.linkedmdb.org/resource/film/74508> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/151584> .
 <http://data.linkedmdb.org/resource/film/74508> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/151585> .
 <http://data.linkedmdb.org/resource/film/74508> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/74508> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000b1321bb> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/83482> .
 <http://data.linkedmdb.org/resource/film/83482> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2008-10-14" .
 <http://data.linkedmdb.org/resource/film/83482> <http://data.linkedmdb.org/resource/movie/filmid> "83482"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/83482> <http://purl.org/dc/terms/title> "Drunk on Cum 5 Director's Cut" .
-<http://data.linkedmdb.org/resource/film/83482> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/83482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/83482> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/83482> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000c451cf4> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/83511> .
 <http://data.linkedmdb.org/resource/film/83511> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2008-08-21" .
 <http://data.linkedmdb.org/resource/film/83511> <http://data.linkedmdb.org/resource/movie/filmid> "83511"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/83511> <http://purl.org/dc/terms/title> "Ass Stretcher 4" .
-<http://data.linkedmdb.org/resource/film/83511> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/83511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/83511> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/83511> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000c452023> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/84411> .
 <http://data.linkedmdb.org/resource/film/84411> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2008-05-01" .
 <http://data.linkedmdb.org/resource/film/84411> <http://data.linkedmdb.org/resource/movie/filmid> "84411"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/84411> <http://purl.org/dc/terms/title> "Slurpinâ Jizz 3" .
-<http://data.linkedmdb.org/resource/film/84411> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/84411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/84411> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/84411> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000c4db23b> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/84412> .
 <http://data.linkedmdb.org/resource/film/84412> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2008-04-16" .
 <http://data.linkedmdb.org/resource/film/84412> <http://data.linkedmdb.org/resource/movie/filmid> "84412"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/84412> <http://purl.org/dc/terms/title> "Bruthaload 3" .
 <http://data.linkedmdb.org/resource/film/84412> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/67866> .
-<http://data.linkedmdb.org/resource/film/84412> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/84412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/84412> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/190435> .
 <http://data.linkedmdb.org/resource/film/84412> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/84412> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000c4db23e> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/84413> .
 <http://data.linkedmdb.org/resource/film/84413> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2008-01-23" .
 <http://data.linkedmdb.org/resource/film/84413> <http://data.linkedmdb.org/resource/movie/filmid> "84413"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/84413> <http://purl.org/dc/terms/title> "Ass Stretcher 3" .
-<http://data.linkedmdb.org/resource/film/84413> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/84413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/84413> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/84413> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000c4db241> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/84414> .
 <http://data.linkedmdb.org/resource/film/84414> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2008-05-21" .
 <http://data.linkedmdb.org/resource/film/84414> <http://data.linkedmdb.org/resource/movie/filmid> "84414"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/84414> <http://purl.org/dc/terms/title> "Damon Blows America 10: Denver" .
 <http://data.linkedmdb.org/resource/film/84414> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/45623> .
-<http://data.linkedmdb.org/resource/film/84414> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/84414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/84414> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/183345> .
 <http://data.linkedmdb.org/resource/film/84414> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/84414> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000c4db244> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/84415> .
 <http://data.linkedmdb.org/resource/film/84415> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2008-01-02" .
 <http://data.linkedmdb.org/resource/film/84415> <http://data.linkedmdb.org/resource/movie/filmid> "84415"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/84415> <http://purl.org/dc/terms/title> "Drunk On Cum 4" .
-<http://data.linkedmdb.org/resource/film/84415> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/84415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/84415> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/84415> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000c4db247> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/84416> .
 <http://data.linkedmdb.org/resource/film/84416> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2008-01-02" .
 <http://data.linkedmdb.org/resource/film/84416> <http://data.linkedmdb.org/resource/movie/filmid> "84416"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/84416> <http://purl.org/dc/terms/title> "Legendary Studs: Jesse O'Toole" .
-<http://data.linkedmdb.org/resource/film/84416> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/84416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/84416> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/84416> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000c4db24a> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/85570> .
 <http://data.linkedmdb.org/resource/film/85570> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2009-10-30" .
 <http://data.linkedmdb.org/resource/film/85570> <http://data.linkedmdb.org/resource/movie/filmid> "85570"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/85570> <http://purl.org/dc/terms/title> "Skull Fuck" .
 <http://data.linkedmdb.org/resource/film/85570> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/45623> .
 <http://data.linkedmdb.org/resource/film/85570> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/59902> .
 <http://data.linkedmdb.org/resource/film/85570> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/66858> .
-<http://data.linkedmdb.org/resource/film/85570> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/85570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/85570> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/183346> .
 <http://data.linkedmdb.org/resource/film/85570> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/183347> .
 <http://data.linkedmdb.org/resource/film/85570> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/183348> .
 <http://data.linkedmdb.org/resource/film/85570> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/85570> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000c5dcc79> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/91121> .
 <http://data.linkedmdb.org/resource/film/91121> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1998-09-01" .
 <http://data.linkedmdb.org/resource/film/91121> <http://data.linkedmdb.org/resource/movie/filmid> "91121"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/91121> <http://purl.org/dc/terms/title> "Raunch Lunch" .
-<http://data.linkedmdb.org/resource/film/91121> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/91121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/91121> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/91121> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000e5dc73e> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/91749> .
 <http://data.linkedmdb.org/resource/film/91749> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1999-12-01" .
 <http://data.linkedmdb.org/resource/film/91749> <http://data.linkedmdb.org/resource/movie/filmid> "91749"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/91749> <http://purl.org/dc/terms/title> "Paddle Tails" .
-<http://data.linkedmdb.org/resource/film/91749> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/91749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/91749> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/1263> .
 <http://data.linkedmdb.org/resource/film/91749> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000e70da1f> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/92047> .
 <http://data.linkedmdb.org/resource/film/92047> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1999-02-01" .
 <http://data.linkedmdb.org/resource/film/92047> <http://data.linkedmdb.org/resource/movie/filmid> "92047"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/92047> <http://purl.org/dc/terms/title> "Raw Shots" .
-<http://data.linkedmdb.org/resource/film/92047> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/92047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/92047> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/92047> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000e70edd6> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/92998> .
 <http://data.linkedmdb.org/resource/film/92998> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2000-12-01" .
 <http://data.linkedmdb.org/resource/film/92998> <http://data.linkedmdb.org/resource/movie/filmid> "92998"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/92998> <http://purl.org/dc/terms/title> "Basic Tit Training" .
-<http://data.linkedmdb.org/resource/film/92998> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/92998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/92998> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/92998> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000efcb64f> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/92999> .
 <http://data.linkedmdb.org/resource/film/92999> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2000-12-01" .
 <http://data.linkedmdb.org/resource/film/92999> <http://data.linkedmdb.org/resource/movie/filmid> "92999"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/92999> <http://purl.org/dc/terms/title> "Bones for Cumpuppy" .
-<http://data.linkedmdb.org/resource/film/92999> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/92999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/92999> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/92999> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000efcb669> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/93000> .
 <http://data.linkedmdb.org/resource/film/93000> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2000-01-01" .
 <http://data.linkedmdb.org/resource/film/93000> <http://data.linkedmdb.org/resource/movie/filmid> "93000"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/93000> <http://purl.org/dc/terms/title> "Breed Me" .
-<http://data.linkedmdb.org/resource/film/93000> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/93000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/93000> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/93000> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000efcb687> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/93001> .
 <http://data.linkedmdb.org/resource/film/93001> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2000-05-01" .
 <http://data.linkedmdb.org/resource/film/93001> <http://data.linkedmdb.org/resource/movie/filmid> "93001"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/93001> <http://purl.org/dc/terms/title> "Snake Bite!" .
-<http://data.linkedmdb.org/resource/film/93001> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/93001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/93001> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/93001> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000efcb694> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/93002> .
 <http://data.linkedmdb.org/resource/film/93002> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2000-02-01" .
 <http://data.linkedmdb.org/resource/film/93002> <http://data.linkedmdb.org/resource/movie/filmid> "93002"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/93002> <http://purl.org/dc/terms/title> "What I Can't See" .
-<http://data.linkedmdb.org/resource/film/93002> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/93002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/93002> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/93002> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000efcb6a3> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/95113> .
 <http://data.linkedmdb.org/resource/film/95113> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2000-11-01" .
 <http://data.linkedmdb.org/resource/film/95113> <http://data.linkedmdb.org/resource/movie/filmid> "95113"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/95113> <http://purl.org/dc/terms/title> "Plowed" .
-<http://data.linkedmdb.org/resource/film/95113> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/95113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/95113> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/95113> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000f86301e> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/95114> .
 <http://data.linkedmdb.org/resource/film/95114> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2001-10-01" .
 <http://data.linkedmdb.org/resource/film/95114> <http://data.linkedmdb.org/resource/movie/filmid> "95114"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/95114> <http://purl.org/dc/terms/title> "Swallow... More" .
-<http://data.linkedmdb.org/resource/film/95114> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/95114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/95114> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/95114> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000f86302e> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/96162> .
 <http://data.linkedmdb.org/resource/film/96162> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2002-05-01" .
 <http://data.linkedmdb.org/resource/film/96162> <http://data.linkedmdb.org/resource/movie/filmid> "96162"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/96162> <http://purl.org/dc/terms/title> "Like Honey" .
-<http://data.linkedmdb.org/resource/film/96162> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10846> .
 <http://data.linkedmdb.org/resource/film/96162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/96162> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/133> .
 <http://data.linkedmdb.org/resource/film/96162> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000fd98b05> .
@@ -258,7 +213,6 @@
 <http://data.linkedmdb.org/resource/director/1074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/10828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/10834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
-<http://data.linkedmdb.org/resource/director/10846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/10902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/11015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/11027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
@@ -556,7 +510,6 @@
 <http://data.linkedmdb.org/resource/director/9975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/9987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/9998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
-<http://data.linkedmdb.org/resource/director/10846> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000073a82c> .
 <http://data.linkedmdb.org/resource/actor/10117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/actor/10229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/actor/10277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
@@ -1038,7 +991,6 @@
 <http://data.linkedmdb.org/resource/director/1074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/director/10828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/director/10834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/director/10846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/director/10902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/director/11015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/director/11027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .

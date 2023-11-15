@@ -25,8 +25,6 @@
 <http://data.linkedmdb.org/resource/film/12710> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000047ba60d> .
 <http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/12710> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Megaville> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/filmid> "12710"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/runtime> "95" .
 <http://data.linkedmdb.org/resource/film_cut/18945> <http://data.linkedmdb.org/resource/movie/runtime> "95" .
 <http://data.linkedmdb.org/resource/performance/43619> <http://data.linkedmdb.org/resource/movie/performance_film> "Megaville" .
 <http://data.linkedmdb.org/resource/performance/52344> <http://data.linkedmdb.org/resource/movie/performance_film> "Megaville" .
@@ -34,8 +32,6 @@
 <http://data.linkedmdb.org/resource/performance/71732> <http://data.linkedmdb.org/resource/movie/performance_film> "Megaville" .
 <http://data.linkedmdb.org/resource/performance/72428> <http://data.linkedmdb.org/resource/movie/performance_film> "Megaville" .
 <http://data.linkedmdb.org/resource/performance/77413> <http://data.linkedmdb.org/resource/movie/performance_film> "Megaville" .
-<http://data.linkedmdb.org/resource/film/12710> <http://purl.org/dc/terms/title> "Megaville" .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/10117> .
 <http://data.linkedmdb.org/resource/film/38211> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/10117> .
 <http://data.linkedmdb.org/resource/actor/10117> <http://data.linkedmdb.org/resource/movie/actor_actorid> "10117"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/10117> <http://www.w3.org/2000/01/rdf-schema#label> "J.C. Quinn (Actor)" .
@@ -54,7 +50,6 @@
 <http://data.linkedmdb.org/resource/actor/10117> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/89648> .
 <http://data.linkedmdb.org/resource/actor/10117> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000047c09bb> .
 <http://data.linkedmdb.org/resource/actor/10117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31700> .
 <http://data.linkedmdb.org/resource/film/17780> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31700> .
 <http://data.linkedmdb.org/resource/film/72> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31700> .
 <http://data.linkedmdb.org/resource/actor/31700> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
@@ -111,7 +106,6 @@
 <http://data.linkedmdb.org/resource/actor/31700> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/97103> .
 <http://data.linkedmdb.org/resource/actor/31700> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000001d738a> .
 <http://data.linkedmdb.org/resource/actor/31700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/42768> .
 <http://data.linkedmdb.org/resource/actor/42768> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/42768> <http://data.linkedmdb.org/resource/movie/actor_actorid> "42768"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/42768> <http://www.w3.org/2000/01/rdf-schema#label> "Grace Zabriskie (Actor)" .
@@ -131,7 +125,6 @@
 <http://data.linkedmdb.org/resource/actor/42768> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/96652> .
 <http://data.linkedmdb.org/resource/actor/42768> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000095a08b> .
 <http://data.linkedmdb.org/resource/actor/42768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/44800> .
 <http://data.linkedmdb.org/resource/actor/44800> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/44800> <http://data.linkedmdb.org/resource/movie/actor_actorid> "44800"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/44800> <http://www.w3.org/2000/01/rdf-schema#label> "Kristen Cloke (Actor)" .
@@ -143,7 +136,6 @@
 <http://data.linkedmdb.org/resource/actor/44800> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/77593> .
 <http://data.linkedmdb.org/resource/actor/44800> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000b316bd> .
 <http://data.linkedmdb.org/resource/actor/44800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/585> .
 <http://data.linkedmdb.org/resource/actor/585> <http://data.linkedmdb.org/resource/movie/actor_actorid> "585"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/585> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel J. Travanti (Actor)" .
 <http://data.linkedmdb.org/resource/actor/585> <http://data.linkedmdb.org/resource/movie/actor_name> "Daniel J. Travanti" .
@@ -159,7 +151,6 @@
 <http://data.linkedmdb.org/resource/actor/585> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000068c019> .
 <http://data.linkedmdb.org/resource/actor/585> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Daniel_J._Travanti> .
 <http://data.linkedmdb.org/resource/actor/585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/589> .
 <http://data.linkedmdb.org/resource/actor/589> <http://data.linkedmdb.org/resource/movie/actor_actorid> "589"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/589> <http://www.w3.org/2000/01/rdf-schema#label> "Raymond O'Connor (Actor)" .
 <http://data.linkedmdb.org/resource/actor/589> <http://data.linkedmdb.org/resource/movie/actor_name> "Raymond O'Connor" .
@@ -172,20 +163,16 @@
 <http://data.linkedmdb.org/resource/actor/589> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/89572> .
 <http://data.linkedmdb.org/resource/actor/589> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000068e150> .
 <http://data.linkedmdb.org/resource/actor/589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/2661> .
 <http://data.linkedmdb.org/resource/editor/2661> <http://data.linkedmdb.org/resource/movie/editor_editorid> "2661"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/editor/2661> <http://www.w3.org/2000/01/rdf-schema#label> "Pietro Scalia (Editor)" .
 <http://data.linkedmdb.org/resource/editor/2661> <http://data.linkedmdb.org/resource/movie/editor_name> "Pietro Scalia" .
 <http://data.linkedmdb.org/resource/editor/2661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/editor> .
 <http://data.linkedmdb.org/resource/editor/2661> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000aa0e0e> .
 <http://data.linkedmdb.org/resource/editor/2661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/18945> .
 <http://data.linkedmdb.org/resource/film_cut/18945> <http://data.linkedmdb.org/resource/movie/film_cut_film_cutid> "18945"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/film_cut/18945> <http://data.linkedmdb.org/resource/movie/runtime> "95" .
 <http://data.linkedmdb.org/resource/film_cut/18945> <http://www.w3.org/2000/01/rdf-schema#label> "Film Cut #18945" .
 <http://data.linkedmdb.org/resource/film_cut/18945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film_cut> .
 <http://data.linkedmdb.org/resource/film_cut/18945> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000072e6a4c> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/film_story_contributor> <http://data.linkedmdb.org/resource/film_story_contributor/255> .
 <http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/film_story_contributor> <http://data.linkedmdb.org/resource/film_story_contributor/255> .
 <http://data.linkedmdb.org/resource/film/38069> <http://data.linkedmdb.org/resource/movie/film_story_contributor> <http://data.linkedmdb.org/resource/film_story_contributor/255> .
 <http://data.linkedmdb.org/resource/film/38231> <http://data.linkedmdb.org/resource/movie/film_story_contributor> <http://data.linkedmdb.org/resource/film_story_contributor/255> .
@@ -245,7 +232,6 @@
 <http://data.linkedmdb.org/resource/film/1253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/1254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/12618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/12710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/12792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/1288> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/12946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1158,61 +1144,42 @@
 <http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/actor/31700> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/43619> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/43619> .
 <http://data.linkedmdb.org/resource/performance/43619> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/43619> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "43619"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/43619> <http://data.linkedmdb.org/resource/movie/performance_actor> "Billy Zane" .
-<http://data.linkedmdb.org/resource/performance/43619> <http://data.linkedmdb.org/resource/movie/performance_film> "Megaville" .
 <http://data.linkedmdb.org/resource/performance/43619> <http://www.w3.org/2000/01/rdf-schema#label> "performance #43619" .
 <http://data.linkedmdb.org/resource/performance/43619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/43619> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000595053e> .
-<http://data.linkedmdb.org/resource/actor/42768> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/52344> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/52344> .
 <http://data.linkedmdb.org/resource/performance/52344> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/52344> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "52344"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/52344> <http://data.linkedmdb.org/resource/movie/performance_actor> "Grace Zabriskie" .
-<http://data.linkedmdb.org/resource/performance/52344> <http://data.linkedmdb.org/resource/movie/performance_film> "Megaville" .
 <http://data.linkedmdb.org/resource/performance/52344> <http://www.w3.org/2000/01/rdf-schema#label> "performance #52344" .
 <http://data.linkedmdb.org/resource/performance/52344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/52344> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000005a52f22> .
-<http://data.linkedmdb.org/resource/actor/44800> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/70367> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/70367> .
 <http://data.linkedmdb.org/resource/performance/70367> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/70367> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "70367"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/70367> <http://data.linkedmdb.org/resource/movie/performance_actor> "Kristen Cloke" .
-<http://data.linkedmdb.org/resource/performance/70367> <http://data.linkedmdb.org/resource/movie/performance_film> "Megaville" .
 <http://data.linkedmdb.org/resource/performance/70367> <http://www.w3.org/2000/01/rdf-schema#label> "performance #70367" .
 <http://data.linkedmdb.org/resource/performance/70367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/70367> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000005a60259> .
-<http://data.linkedmdb.org/resource/actor/10117> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/71732> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/71732> .
 <http://data.linkedmdb.org/resource/performance/71732> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/71732> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "71732"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/71732> <http://data.linkedmdb.org/resource/movie/performance_actor> "J.C. Quinn" .
-<http://data.linkedmdb.org/resource/performance/71732> <http://data.linkedmdb.org/resource/movie/performance_film> "Megaville" .
 <http://data.linkedmdb.org/resource/performance/71732> <http://www.w3.org/2000/01/rdf-schema#label> "performance #71732" .
 <http://data.linkedmdb.org/resource/performance/71732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/71732> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000005a61258> .
-<http://data.linkedmdb.org/resource/actor/585> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/72428> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/72428> .
 <http://data.linkedmdb.org/resource/performance/72428> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/72428> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "72428"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/72428> <http://data.linkedmdb.org/resource/movie/performance_actor> "Daniel J. Travanti" .
-<http://data.linkedmdb.org/resource/performance/72428> <http://data.linkedmdb.org/resource/movie/performance_film> "Megaville" .
 <http://data.linkedmdb.org/resource/performance/72428> <http://www.w3.org/2000/01/rdf-schema#label> "performance #72428" .
 <http://data.linkedmdb.org/resource/performance/72428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/72428> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000005a61a80> .
-<http://data.linkedmdb.org/resource/actor/589> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/77413> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/77413> .
 <http://data.linkedmdb.org/resource/performance/77413> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/77413> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "77413"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/77413> <http://data.linkedmdb.org/resource/movie/performance_film> "Megaville" .
 <http://data.linkedmdb.org/resource/performance/77413> <http://data.linkedmdb.org/resource/movie/performance_actor> "Raymond O'Connor" .
 <http://data.linkedmdb.org/resource/performance/77413> <http://www.w3.org/2000/01/rdf-schema#label> "performance #77413" .
 <http://data.linkedmdb.org/resource/performance/77413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/77413> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070ad947> .
-<http://data.linkedmdb.org/resource/film/12710> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000047ba60d> .
 <http://data.linkedmdb.org/resource/film/10232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10289> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10336> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1240,7 +1207,6 @@
 <http://data.linkedmdb.org/resource/film/1253> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/1254> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/12618> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/1288> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/13147> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/1317> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1609,4 +1575,3 @@
 <http://data.linkedmdb.org/resource/interlink/152117> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/152119> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/42566> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Megaville> .
-<http://data.linkedmdb.org/resource/film/12710> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Megaville> .

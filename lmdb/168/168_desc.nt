@@ -58,8 +58,6 @@
 <http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/3493> .
 <http://data.linkedmdb.org/resource/film/44555> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
 <http://data.linkedmdb.org/resource/film/44555> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000008dd9e3> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2003" .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/filmid> "44555"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/107344> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
 <http://data.linkedmdb.org/resource/performance/18188> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
 <http://data.linkedmdb.org/resource/performance/18189> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
@@ -82,8 +80,6 @@
 <http://data.linkedmdb.org/resource/performance/87999> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
 <http://data.linkedmdb.org/resource/performance/88214> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
 <http://data.linkedmdb.org/resource/performance/88253> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/film/44555> <http://purl.org/dc/terms/title> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31866> .
 <http://data.linkedmdb.org/resource/actor/31866> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/31866> <http://data.linkedmdb.org/resource/movie/actor_actorid> "31866"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/31866> <http://www.w3.org/2000/01/rdf-schema#label> "Rani Mukerji (Actor)" .
@@ -129,7 +125,6 @@
 <http://data.linkedmdb.org/resource/actor/31866> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/6764> .
 <http://data.linkedmdb.org/resource/actor/31866> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000001f5463> .
 <http://data.linkedmdb.org/resource/actor/31866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32234> .
 <http://data.linkedmdb.org/resource/actor/32234> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/32234> <http://data.linkedmdb.org/resource/movie/actor_actorid> "32234"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/32234> <http://www.w3.org/2000/01/rdf-schema#label> "Kareena Kapoor (Actor)" .
@@ -185,7 +180,6 @@
 <http://data.linkedmdb.org/resource/actor/32234> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9230> .
 <http://data.linkedmdb.org/resource/actor/32234> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000002394d0> .
 <http://data.linkedmdb.org/resource/actor/32234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/33140> .
 <http://data.linkedmdb.org/resource/actor/33140> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/33140> <http://data.linkedmdb.org/resource/movie/actor_actorid> "33140"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/33140> <http://www.w3.org/2000/01/rdf-schema#label> "Abhishek Bachchan (Actor)" .
@@ -233,7 +227,6 @@
 <http://data.linkedmdb.org/resource/actor/33140> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/97746> .
 <http://data.linkedmdb.org/resource/actor/33140> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000002df560> .
 <http://data.linkedmdb.org/resource/actor/33140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34357> .
 <http://data.linkedmdb.org/resource/actor/34357> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/34357> <http://data.linkedmdb.org/resource/movie/actor_actorid> "34357"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/34357> <http://www.w3.org/2000/01/rdf-schema#label> "Sanjay Dutt (Actor)" .
@@ -315,7 +308,6 @@
 <http://data.linkedmdb.org/resource/actor/34357> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9902> .
 <http://data.linkedmdb.org/resource/actor/34357> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000003989ae> .
 <http://data.linkedmdb.org/resource/actor/34357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34655> .
 <http://data.linkedmdb.org/resource/actor/34655> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/34655> <http://data.linkedmdb.org/resource/movie/actor_actorid> "34655"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/34655> <http://www.w3.org/2000/01/rdf-schema#label> "Namrata Shirodkar (Actor)" .
@@ -342,7 +334,6 @@
 <http://data.linkedmdb.org/resource/actor/34655> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/96553> .
 <http://data.linkedmdb.org/resource/actor/34655> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000003ca3c1> .
 <http://data.linkedmdb.org/resource/actor/34655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34656> .
 <http://data.linkedmdb.org/resource/actor/34656> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/34656> <http://data.linkedmdb.org/resource/movie/actor_actorid> "34656"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/34656> <http://www.w3.org/2000/01/rdf-schema#label> "Raveena Tandon (Actor)" .
@@ -400,7 +391,6 @@
 <http://data.linkedmdb.org/resource/actor/34656> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/91387> .
 <http://data.linkedmdb.org/resource/actor/34656> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000003ca3f3> .
 <http://data.linkedmdb.org/resource/actor/34656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35028> .
 <http://data.linkedmdb.org/resource/actor/35028> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/35028> <http://data.linkedmdb.org/resource/movie/actor_actorid> "35028"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/35028> <http://www.w3.org/2000/01/rdf-schema#label> "Esha Deol (Actor)" .
@@ -429,7 +419,6 @@
 <http://data.linkedmdb.org/resource/actor/35028> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9713> .
 <http://data.linkedmdb.org/resource/actor/35028> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000406e13> .
 <http://data.linkedmdb.org/resource/actor/35028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35202> .
 <http://data.linkedmdb.org/resource/film/48527> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35202> .
 <http://data.linkedmdb.org/resource/actor/35202> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/35202> <http://data.linkedmdb.org/resource/movie/actor_actorid> "35202"^^<http://www.w3.org/2001/XMLSchema#int> .
@@ -509,7 +498,6 @@
 <http://data.linkedmdb.org/resource/actor/35202> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/86844> .
 <http://data.linkedmdb.org/resource/actor/35202> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000004256d4> .
 <http://data.linkedmdb.org/resource/actor/35202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35203> .
 <http://data.linkedmdb.org/resource/actor/35203> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/35203> <http://data.linkedmdb.org/resource/movie/actor_actorid> "35203"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/35203> <http://www.w3.org/2000/01/rdf-schema#label> "Suniel Shetty (Actor)" .
@@ -588,7 +576,6 @@
 <http://data.linkedmdb.org/resource/actor/35203> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/98872> .
 <http://data.linkedmdb.org/resource/actor/35203> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000004256f9> .
 <http://data.linkedmdb.org/resource/actor/35203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35616> .
 <http://data.linkedmdb.org/resource/actor/35616> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/35616> <http://data.linkedmdb.org/resource/movie/actor_actorid> "35616"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/35616> <http://www.w3.org/2000/01/rdf-schema#label> "Mahima Chaudhry (Actor)" .
@@ -619,7 +606,6 @@
 <http://data.linkedmdb.org/resource/actor/35616> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/95658> .
 <http://data.linkedmdb.org/resource/actor/35616> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000047172c> .
 <http://data.linkedmdb.org/resource/actor/35616> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36969> .
 <http://data.linkedmdb.org/resource/actor/36969> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/36969> <http://data.linkedmdb.org/resource/movie/actor_actorid> "36969"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/36969> <http://www.w3.org/2000/01/rdf-schema#label> "Preeti Jhangiani (Actor)" .
@@ -640,7 +626,6 @@
 <http://data.linkedmdb.org/resource/actor/36969> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/93436> .
 <http://data.linkedmdb.org/resource/actor/36969> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000561f56> .
 <http://data.linkedmdb.org/resource/actor/36969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/37055> .
 <http://data.linkedmdb.org/resource/actor/37055> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/37055> <http://data.linkedmdb.org/resource/movie/actor_actorid> "37055"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/37055> <http://www.w3.org/2000/01/rdf-schema#label> "Saif Ali Khan (Actor)" .
@@ -689,7 +674,6 @@
 <http://data.linkedmdb.org/resource/actor/37055> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9903> .
 <http://data.linkedmdb.org/resource/actor/37055> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000570f18> .
 <http://data.linkedmdb.org/resource/actor/37055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/37687> .
 <http://data.linkedmdb.org/resource/actor/37687> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/37687> <http://data.linkedmdb.org/resource/movie/actor_actorid> "37687"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/37687> <http://www.w3.org/2000/01/rdf-schema#label> "Divya Dutta (Actor)" .
@@ -722,7 +706,6 @@
 <http://data.linkedmdb.org/resource/actor/37687> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/97744> .
 <http://data.linkedmdb.org/resource/actor/37687> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000005e3e6f> .
 <http://data.linkedmdb.org/resource/actor/37687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38110> .
 <http://data.linkedmdb.org/resource/actor/38110> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/38110> <http://data.linkedmdb.org/resource/movie/actor_actorid> "38110"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/38110> <http://www.w3.org/2000/01/rdf-schema#label> "Sanjay Kapoor (Actor)" .
@@ -749,7 +732,6 @@
 <http://data.linkedmdb.org/resource/actor/38110> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000630b19> .
 <http://data.linkedmdb.org/resource/actor/38110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/12792> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38848> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38848> .
 <http://data.linkedmdb.org/resource/film/48538> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38848> .
 <http://data.linkedmdb.org/resource/actor/38848> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/38848> <http://data.linkedmdb.org/resource/movie/actor_actorid> "38848"^^<http://www.w3.org/2001/XMLSchema#int> .
@@ -786,7 +768,6 @@
 <http://data.linkedmdb.org/resource/actor/38848> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/99254> .
 <http://data.linkedmdb.org/resource/actor/38848> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000006aeda6> .
 <http://data.linkedmdb.org/resource/actor/38848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38898> .
 <http://data.linkedmdb.org/resource/actor/38898> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/38898> <http://data.linkedmdb.org/resource/movie/actor_actorid> "38898"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/38898> <http://www.w3.org/2000/01/rdf-schema#label> "Akshaye Khanna (Actor)" .
@@ -825,7 +806,6 @@
 <http://data.linkedmdb.org/resource/actor/38898> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/96787> .
 <http://data.linkedmdb.org/resource/actor/38898> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000006b7380> .
 <http://data.linkedmdb.org/resource/actor/38898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/39854> .
 <http://data.linkedmdb.org/resource/actor/39854> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/39854> <http://data.linkedmdb.org/resource/movie/actor_actorid> "39854"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/39854> <http://www.w3.org/2000/01/rdf-schema#label> "Ishaa Koppikar (Actor)" .
@@ -864,7 +844,6 @@
 <http://data.linkedmdb.org/resource/actor/39854> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9137> .
 <http://data.linkedmdb.org/resource/actor/39854> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000073f024> .
 <http://data.linkedmdb.org/resource/actor/39854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/40768> .
 <http://data.linkedmdb.org/resource/actor/40768> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/40768> <http://data.linkedmdb.org/resource/movie/actor_actorid> "40768"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/40768> <http://www.w3.org/2000/01/rdf-schema#label> "Raj Babbar (Actor)" .
@@ -915,7 +894,6 @@
 <http://data.linkedmdb.org/resource/actor/40768> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/96826> .
 <http://data.linkedmdb.org/resource/actor/40768> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000007c8f88> .
 <http://data.linkedmdb.org/resource/actor/40768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/41401> .
 <http://data.linkedmdb.org/resource/actor/41401> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/41401> <http://data.linkedmdb.org/resource/movie/actor_actorid> "41401"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/41401> <http://www.w3.org/2000/01/rdf-schema#label> "Manoj Bajpai (Actor)" .
@@ -947,7 +925,6 @@
 <http://data.linkedmdb.org/resource/actor/41401> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/85656> .
 <http://data.linkedmdb.org/resource/actor/41401> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000008417ea> .
 <http://data.linkedmdb.org/resource/actor/41401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/41757> .
 <http://data.linkedmdb.org/resource/actor/41757> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/41757> <http://data.linkedmdb.org/resource/movie/actor_actorid> "41757"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/41757> <http://www.w3.org/2000/01/rdf-schema#label> "Mohnish Behl (Actor)" .
@@ -980,7 +957,6 @@
 <http://data.linkedmdb.org/resource/actor/41757> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/99177> .
 <http://data.linkedmdb.org/resource/actor/41757> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000088d4a7> .
 <http://data.linkedmdb.org/resource/actor/41757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/48792> .
 <http://data.linkedmdb.org/resource/actor/48792> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/48792> <http://data.linkedmdb.org/resource/movie/actor_actorid> "48792"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/48792> <http://www.w3.org/2000/01/rdf-schema#label> "Priya Gill (Actor)" .
@@ -995,7 +971,6 @@
 <http://data.linkedmdb.org/resource/actor/48792> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/78520> .
 <http://data.linkedmdb.org/resource/actor/48792> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000f38620> .
 <http://data.linkedmdb.org/resource/actor/48792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/49768> .
 <http://data.linkedmdb.org/resource/actor/49768> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/49768> <http://data.linkedmdb.org/resource/movie/actor_actorid> "49768"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/49768> <http://www.w3.org/2000/01/rdf-schema#label> "Ashutosh Rana (Actor)" .
@@ -1038,7 +1013,6 @@
 <http://data.linkedmdb.org/resource/film/42140> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/IN> .
 <http://data.linkedmdb.org/resource/film/42678> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/IN> .
 <http://data.linkedmdb.org/resource/film/44042> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/IN> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/IN> .
 <http://data.linkedmdb.org/resource/film/44818> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/IN> .
 <http://data.linkedmdb.org/resource/film/45412> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/IN> .
 <http://data.linkedmdb.org/resource/film/46728> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/IN> .
@@ -1107,18 +1081,15 @@
 <http://data.linkedmdb.org/resource/country/IN> <http://data.linkedmdb.org/resource/movie/country_languages> "en-IN,hi,bn,te,mr,ta,ur,gu,ml,kn,or,pa,as,ks,sd,sa,ur-IN" .
 <http://data.linkedmdb.org/resource/country/IN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/country> .
 <http://data.linkedmdb.org/resource/country/IN> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/1723> .
 <http://data.linkedmdb.org/resource/film/7897> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/1723> .
 <http://data.linkedmdb.org/resource/director/1723> <http://data.linkedmdb.org/resource/movie/director_directorid> "1723"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/director/1723> <http://www.w3.org/2000/01/rdf-schema#label> "J.P. Dutta (Director)" .
 <http://data.linkedmdb.org/resource/director/1723> <http://data.linkedmdb.org/resource/movie/director_name> "J.P. Dutta" .
-<http://data.linkedmdb.org/resource/director/1723> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/44555> .
 <http://data.linkedmdb.org/resource/director/1723> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/7897> .
 <http://data.linkedmdb.org/resource/director/1723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/1723> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001100c83> .
 <http://data.linkedmdb.org/resource/director/1723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/21330> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/3011> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/3011> .
 <http://data.linkedmdb.org/resource/film/47393> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/3011> .
 <http://data.linkedmdb.org/resource/film/6975> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/3011> .
 <http://data.linkedmdb.org/resource/film/7897> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/3011> .
@@ -1128,7 +1099,6 @@
 <http://data.linkedmdb.org/resource/director/3011> <http://www.w3.org/2000/01/rdf-schema#label> "J. P. Dutta (Director)" .
 <http://data.linkedmdb.org/resource/director/3011> <http://data.linkedmdb.org/resource/movie/director_name> "J. P. Dutta" .
 <http://data.linkedmdb.org/resource/director/3011> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/21330> .
-<http://data.linkedmdb.org/resource/director/3011> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/44555> .
 <http://data.linkedmdb.org/resource/director/3011> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/47393> .
 <http://data.linkedmdb.org/resource/director/3011> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/6975> .
 <http://data.linkedmdb.org/resource/director/3011> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/7897> .
@@ -1137,7 +1107,6 @@
 <http://data.linkedmdb.org/resource/director/3011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/3011> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000004706b3c> .
 <http://data.linkedmdb.org/resource/director/3011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/684> .
 <http://data.linkedmdb.org/resource/film_subject/684> <http://data.linkedmdb.org/resource/movie/film_subject_film_subjectid> "684"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film_subject/684> <http://www.w3.org/2000/01/rdf-schema#label> "Indo-Pak Wars (Film Subject)" .
 <http://data.linkedmdb.org/resource/film_subject/684> <http://data.linkedmdb.org/resource/movie/film_subject_name> "Indo-Pak Wars" .
@@ -1553,7 +1522,6 @@
 <http://data.linkedmdb.org/resource/film/44377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/4445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/44517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/44555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/44640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/44641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/44657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1751,708 +1719,4 @@
 <http://data.linkedmdb.org/resource/film/59061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/59172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/59445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/59607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/5964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/59726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/59730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/59733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/59735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/59934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/59947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/60656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/60878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/60932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/61205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/61561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/61791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/61816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/61927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/61941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/62301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/62913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/62934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/62972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/62997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/63031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/63080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/63352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/63495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/63785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/63987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/64122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/64450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/64477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/65067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/65437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/65937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/66097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/66439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/66469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/66506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/66622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/66715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/66749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/66870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/66877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/66885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/66992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/67056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/67438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/68087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6852> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70840> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70881> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/71000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/71003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/71004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/71052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/71053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/71059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/71060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/71091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/71277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/72267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/72495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/72591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/72676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/72839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/73281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/73597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/73676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/73677> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/73709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/74095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/74122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/74508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/74931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/75428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/76933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/78395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/78422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/78626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/78974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/80362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/80543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/80665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/81274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/81568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/81675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/81918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/81960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/82264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/82265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/83088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/83452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/83479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/83482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/83511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/83551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/83968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/83977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/84052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/84209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/84411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/84412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/84413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/84414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/84415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/84416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8441> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/84936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/84979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/85082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/85568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/85570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/85702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8649> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8651> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/86660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/87085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/87107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/87136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/87148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/87493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/87571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/87696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/87817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/87891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/88229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/89760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/89937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/8994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/9039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/9051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/90531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/9056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/9082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/91044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/91121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/91405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/91410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/91418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/91749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/92047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/9211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/92131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/92345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/9257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/92998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/92999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/93000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/93001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/93002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/93197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/93208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/93232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/93242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/93319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/93349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/93461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/93768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/93960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/94383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/94441> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/95113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/95114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/9529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/95531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/95541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/95572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/9608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/96162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/96234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/96372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/96426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/96567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/96598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/96746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/96870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/97147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/97265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/97340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/97520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/98014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/98212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/98232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/9876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5926> .
-<http://data.linkedmdb.org/resource/music_contributor/5926> <http://data.linkedmdb.org/resource/movie/music_contributor_music_contributorid> "5926"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/music_contributor/5926> <http://www.w3.org/2000/01/rdf-schema#label> "Anu Malik (Music Contributor)" .
-<http://data.linkedmdb.org/resource/music_contributor/5926> <http://data.linkedmdb.org/resource/movie/music_contributor_name> "Anu Malik" .
-<http://data.linkedmdb.org/resource/music_contributor/5926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/music_contributor> .
-<http://data.linkedmdb.org/resource/music_contributor/5926> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000033f2659> .
-<http://data.linkedmdb.org/resource/actor/38848> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/107344> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/107344> .
-<http://data.linkedmdb.org/resource/performance/107344> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/107344> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "107344"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/107344> <http://data.linkedmdb.org/resource/movie/performance_actor> "Akkineni Nagarjuna" .
-<http://data.linkedmdb.org/resource/performance/107344> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/107344> <http://www.w3.org/2000/01/rdf-schema#label> "performance #107344" .
-<http://data.linkedmdb.org/resource/performance/107344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/107344> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000080b8e45> .
-<http://data.linkedmdb.org/resource/actor/34357> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18188> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18188> .
-<http://data.linkedmdb.org/resource/performance/18188> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/18188> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "18188"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/18188> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/18188> <http://data.linkedmdb.org/resource/movie/performance_actor> "Sanjay Dutt" .
-<http://data.linkedmdb.org/resource/performance/18188> <http://www.w3.org/2000/01/rdf-schema#label> "performance #18188" .
-<http://data.linkedmdb.org/resource/performance/18188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/18188> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001100c98> .
-<http://data.linkedmdb.org/resource/actor/35202> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18189> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18189> .
-<http://data.linkedmdb.org/resource/performance/18189> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/18189> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "18189"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/18189> <http://data.linkedmdb.org/resource/movie/performance_actor> "Ajay Devgan" .
-<http://data.linkedmdb.org/resource/performance/18189> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/18189> <http://www.w3.org/2000/01/rdf-schema#label> "performance #18189" .
-<http://data.linkedmdb.org/resource/performance/18189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/18189> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001100c9d> .
-<http://data.linkedmdb.org/resource/actor/31866> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18190> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18190> .
-<http://data.linkedmdb.org/resource/performance/18190> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/18190> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "18190"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/18190> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/18190> <http://data.linkedmdb.org/resource/movie/performance_actor> "Rani Mukerji" .
-<http://data.linkedmdb.org/resource/performance/18190> <http://www.w3.org/2000/01/rdf-schema#label> "performance #18190" .
-<http://data.linkedmdb.org/resource/performance/18190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/18190> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001100ca2> .
-<http://data.linkedmdb.org/resource/actor/35203> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18191> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18191> .
-<http://data.linkedmdb.org/resource/performance/18191> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/18191> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "18191"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/18191> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/18191> <http://data.linkedmdb.org/resource/movie/performance_actor> "Suniel Shetty" .
-<http://data.linkedmdb.org/resource/performance/18191> <http://www.w3.org/2000/01/rdf-schema#label> "performance #18191" .
-<http://data.linkedmdb.org/resource/performance/18191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/18191> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001100ca7> .
-<http://data.linkedmdb.org/resource/actor/38898> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18192> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18192> .
-<http://data.linkedmdb.org/resource/performance/18192> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/18192> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "18192"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/18192> <http://data.linkedmdb.org/resource/movie/performance_actor> "Akshaye Khanna" .
-<http://data.linkedmdb.org/resource/performance/18192> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/18192> <http://www.w3.org/2000/01/rdf-schema#label> "performance #18192" .
-<http://data.linkedmdb.org/resource/performance/18192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/18192> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001100cac> .
-<http://data.linkedmdb.org/resource/actor/37055> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18193> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18193> .
-<http://data.linkedmdb.org/resource/performance/18193> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/18193> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "18193"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/18193> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/18193> <http://data.linkedmdb.org/resource/movie/performance_actor> "Saif Ali Khan" .
-<http://data.linkedmdb.org/resource/performance/18193> <http://www.w3.org/2000/01/rdf-schema#label> "performance #18193" .
-<http://data.linkedmdb.org/resource/performance/18193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/18193> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001100cb1> .
-<http://data.linkedmdb.org/resource/actor/33140> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18194> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18194> .
-<http://data.linkedmdb.org/resource/performance/18194> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/18194> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "18194"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/18194> <http://data.linkedmdb.org/resource/movie/performance_actor> "Abhishek Bachchan" .
-<http://data.linkedmdb.org/resource/performance/18194> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/18194> <http://www.w3.org/2000/01/rdf-schema#label> "performance #18194" .
-<http://data.linkedmdb.org/resource/performance/18194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/18194> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001100cb6> .
-<http://data.linkedmdb.org/resource/actor/32234> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18195> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18195> .
-<http://data.linkedmdb.org/resource/performance/18195> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/18195> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "18195"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/18195> <http://data.linkedmdb.org/resource/movie/performance_actor> "Kareena Kapoor" .
-<http://data.linkedmdb.org/resource/performance/18195> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/18195> <http://www.w3.org/2000/01/rdf-schema#label> "performance #18195" .
-<http://data.linkedmdb.org/resource/performance/18195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/18195> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001100cbb> .
-<http://data.linkedmdb.org/resource/actor/49768> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/192316> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/192316> .
-<http://data.linkedmdb.org/resource/performance/192316> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/192316> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "192316"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/192316> <http://data.linkedmdb.org/resource/movie/performance_actor> "Ashutosh Rana" .
-<http://data.linkedmdb.org/resource/performance/192316> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/192316> <http://www.w3.org/2000/01/rdf-schema#label> "performance #192316" .
-<http://data.linkedmdb.org/resource/performance/192316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/192316> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000012ff024c> .
-<http://data.linkedmdb.org/resource/actor/38110> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/65578> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/65578> .
-<http://data.linkedmdb.org/resource/performance/65578> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/65578> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "65578"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/65578> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/65578> <http://data.linkedmdb.org/resource/movie/performance_actor> "Sanjay Kapoor" .
-<http://data.linkedmdb.org/resource/performance/65578> <http://www.w3.org/2000/01/rdf-schema#label> "performance #65578" .
-<http://data.linkedmdb.org/resource/performance/65578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/65578> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000005a5ca3a> .
-<http://data.linkedmdb.org/resource/actor/48792> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/76264> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/76264> .
-<http://data.linkedmdb.org/resource/performance/76264> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/76264> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "76264"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/76264> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/76264> <http://data.linkedmdb.org/resource/movie/performance_actor> "Priya Gill" .
-<http://data.linkedmdb.org/resource/performance/76264> <http://www.w3.org/2000/01/rdf-schema#label> "performance #76264" .
-<http://data.linkedmdb.org/resource/performance/76264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/76264> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070aabad> .
-<http://data.linkedmdb.org/resource/actor/36969> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/77447> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/77447> .
-<http://data.linkedmdb.org/resource/performance/77447> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/77447> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "77447"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/77447> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/77447> <http://data.linkedmdb.org/resource/movie/performance_actor> "Preeti Jhangiani" .
-<http://data.linkedmdb.org/resource/performance/77447> <http://www.w3.org/2000/01/rdf-schema#label> "performance #77447" .
-<http://data.linkedmdb.org/resource/performance/77447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/77447> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070ada7c> .
-<http://data.linkedmdb.org/resource/actor/39854> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/80267> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/80267> .
-<http://data.linkedmdb.org/resource/performance/80267> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/80267> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "80267"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/80267> <http://data.linkedmdb.org/resource/movie/performance_actor> "Ishaa Koppikar" .
-<http://data.linkedmdb.org/resource/performance/80267> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/80267> <http://www.w3.org/2000/01/rdf-schema#label> "performance #80267" .
-<http://data.linkedmdb.org/resource/performance/80267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/80267> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070b4ad7> .
-<http://data.linkedmdb.org/resource/actor/35028> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/80354> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/80354> .
-<http://data.linkedmdb.org/resource/performance/80354> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/80354> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "80354"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/80354> <http://data.linkedmdb.org/resource/movie/performance_actor> "Esha Deol" .
-<http://data.linkedmdb.org/resource/performance/80354> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/80354> <http://www.w3.org/2000/01/rdf-schema#label> "performance #80354" .
-<http://data.linkedmdb.org/resource/performance/80354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/80354> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070b4e4a> .
-<http://data.linkedmdb.org/resource/actor/34655> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/82709> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/82709> .
-<http://data.linkedmdb.org/resource/performance/82709> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/82709> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "82709"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/82709> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/82709> <http://data.linkedmdb.org/resource/movie/performance_actor> "Namrata Shirodkar" .
-<http://data.linkedmdb.org/resource/performance/82709> <http://www.w3.org/2000/01/rdf-schema#label> "performance #82709" .
-<http://data.linkedmdb.org/resource/performance/82709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/82709> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070ba6d8> .
-<http://data.linkedmdb.org/resource/actor/35616> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/84248> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/84248> .
-<http://data.linkedmdb.org/resource/performance/84248> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/84248> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "84248"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/84248> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/84248> <http://data.linkedmdb.org/resource/movie/performance_actor> "Mahima Chaudhry" .
-<http://data.linkedmdb.org/resource/performance/84248> <http://www.w3.org/2000/01/rdf-schema#label> "performance #84248" .
-<http://data.linkedmdb.org/resource/performance/84248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/84248> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070be25a> .
-<http://data.linkedmdb.org/resource/actor/34656> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/84668> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/84668> .
-<http://data.linkedmdb.org/resource/performance/84668> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/84668> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "84668"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/84668> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/84668> <http://data.linkedmdb.org/resource/movie/performance_actor> "Raveena Tandon" .
-<http://data.linkedmdb.org/resource/performance/84668> <http://www.w3.org/2000/01/rdf-schema#label> "performance #84668" .
-<http://data.linkedmdb.org/resource/performance/84668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/84668> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070bf2e7> .
-<http://data.linkedmdb.org/resource/actor/41401> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/85656> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/85656> .
-<http://data.linkedmdb.org/resource/performance/85656> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/85656> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "85656"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/85656> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/85656> <http://data.linkedmdb.org/resource/movie/performance_actor> "Manoj Bajpai" .
-<http://data.linkedmdb.org/resource/performance/85656> <http://www.w3.org/2000/01/rdf-schema#label> "performance #85656" .
-<http://data.linkedmdb.org/resource/performance/85656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/85656> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070c19c9> .
-<http://data.linkedmdb.org/resource/actor/41757> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/87999> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/87999> .
-<http://data.linkedmdb.org/resource/performance/87999> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/87999> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "87999"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/87999> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/87999> <http://data.linkedmdb.org/resource/movie/performance_actor> "Mohnish Behl" .
-<http://data.linkedmdb.org/resource/performance/87999> <http://www.w3.org/2000/01/rdf-schema#label> "performance #87999" .
-<http://data.linkedmdb.org/resource/performance/87999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/87999> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070c6e47> .
-<http://data.linkedmdb.org/resource/actor/40768> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/88214> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/88214> .
-<http://data.linkedmdb.org/resource/performance/88214> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/88214> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "88214"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/88214> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/88214> <http://data.linkedmdb.org/resource/movie/performance_actor> "Raj Babbar" .
-<http://data.linkedmdb.org/resource/performance/88214> <http://www.w3.org/2000/01/rdf-schema#label> "performance #88214" .
-<http://data.linkedmdb.org/resource/performance/88214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/88214> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070c75f3> .
-<http://data.linkedmdb.org/resource/actor/37687> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/88253> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/88253> .
-<http://data.linkedmdb.org/resource/performance/88253> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
-<http://data.linkedmdb.org/resource/performance/88253> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "88253"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/88253> <http://data.linkedmdb.org/resource/movie/performance_actor> "Divya Dutta" .
-<http://data.linkedmdb.org/resource/performance/88253> <http://data.linkedmdb.org/resource/movie/performance_film> "LOC Kargil" .
-<http://data.linkedmdb.org/resource/performance/88253> <http://www.w3.org/2000/01/rdf-schema#label> "performance #88253" .
-<http://data.linkedmdb.org/resource/performance/88253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
-<http://data.linkedmdb.org/resource/performance/88253> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070c775a> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/3418> .
-<http://data.linkedmdb.org/resource/producer/3418> <http://data.linkedmdb.org/resource/movie/producer_producerid> "3418"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/producer/3418> <http://www.w3.org/2000/01/rdf-schema#label> "Bindiya Goswami (Producer)" .
-<http://data.linkedmdb.org/resource/producer/3418> <http://data.linkedmdb.org/resource/movie/producer_name> "Bindiya Goswami" .
-<http://data.linkedmdb.org/resource/producer/3418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
-<http://data.linkedmdb.org/resource/producer/3418> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001100c8f> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/5941> .
-<http://data.linkedmdb.org/resource/producer/5941> <http://data.linkedmdb.org/resource/movie/producer_producerid> "5941"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/producer/5941> <http://www.w3.org/2000/01/rdf-schema#label> "Bindiya Goswami (Producer)" .
-<http://data.linkedmdb.org/resource/producer/5941> <http://data.linkedmdb.org/resource/movie/producer_name> "Bindiya Goswami" .
-<http://data.linkedmdb.org/resource/producer/5941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
-<http://data.linkedmdb.org/resource/producer/5941> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000004670e43> .
-<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/3493> .
-<http://data.linkedmdb.org/resource/writer/3493> <http://data.linkedmdb.org/resource/movie/writer_writerid> "3493"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/writer/3493> <http://www.w3.org/2000/01/rdf-schema#label> "J.P. Dutta (Writer)" .
-<http://data.linkedmdb.org/resource/writer/3493> <http://data.linkedmdb.org/resource/movie/writer_name> "J.P. Dutta" .
-<http://data.linkedmdb.org/resource/writer/3493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
-<http://data.linkedmdb.org/resource/writer/3493> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001100c89> .
-<http://data.linkedmdb.org/resource/writer/3493> <http://www.w3.org/2000/01/rdf-schema#SeeAlso> <http://www4.wiwiss.fu-berlin.de/bookmashup/persons/J.P.+Dutta> .
-<http://data.linkedmdb.org/resource/interlink/56735> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56777> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56788> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56812> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56814> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56849> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56850> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56854> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56855> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56857> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56879> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56884> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56885> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56890> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56899> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56901> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56905> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56911> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56912> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/56978> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/57006> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/57038> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/57048> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/57091> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/57135> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/57159> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/57213> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/57236> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/57308> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/57391> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/58018> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/58104> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/58107> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/58123> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/58156> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/58168> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/58239> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/58271> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/interlink/58285> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/country/IN> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/10513> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/10872> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/11148> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/11371> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/11941> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/12329> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/12792> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/13355> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/13585> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/14559> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/15555> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/17852> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/18667> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/18684> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/18931> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/19416> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/19611> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/20740> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/21264> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/21330> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/21521> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/42051> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/42140> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/42678> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/44042> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/44555> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/44818> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/45412> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/46728> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/46878> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/47207> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/47393> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/47442> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/47951> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/48047> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/48067> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/48207> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/48310> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/48320> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/48396> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/48418> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/48527> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/48529> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/48538> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/48646> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/49290> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/49298> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/49378> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/49380> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/49558> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/49734> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/49833> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/50107> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/50248> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/50542> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/50551> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/50637> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/52581> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/52946> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/52996> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/53089> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/53444> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/5467> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/6708> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/6930> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/6975> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/7219> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/7242> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/7897> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/7969> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/7970> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/8086> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/8089> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/8115> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/8442> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/8503> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/8533> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/8578> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/8721> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/8912> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/8920> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/8994> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/9039> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/9056> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/9257> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1269750/> .
-<http://data.linkedmdb.org/resource/film/44555> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000008dd9e3> .
+<http://data.linkedmdb.o

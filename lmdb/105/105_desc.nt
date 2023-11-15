@@ -36,16 +36,11 @@
 <http://data.linkedmdb.org/resource/film/2108> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0329028> .
 <http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/2108> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0329028> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2003-06-13" .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/filmid> "2108"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/runtime> "85" .
 <http://data.linkedmdb.org/resource/film_cut/2019> <http://data.linkedmdb.org/resource/movie/runtime> "85" .
 <http://data.linkedmdb.org/resource/performance/70982> <http://data.linkedmdb.org/resource/movie/performance_film> "Dumb & Dumberer" .
 <http://data.linkedmdb.org/resource/performance/9656> <http://data.linkedmdb.org/resource/movie/performance_film> "Dumb & Dumberer" .
 <http://data.linkedmdb.org/resource/performance/9657> <http://data.linkedmdb.org/resource/movie/performance_film> "Dumb & Dumberer" .
 <http://data.linkedmdb.org/resource/performance/9658> <http://data.linkedmdb.org/resource/movie/performance_film> "Dumb & Dumberer" .
-<http://data.linkedmdb.org/resource/film/2108> <http://purl.org/dc/terms/title> "Dumb & Dumberer" .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32287> .
 <http://data.linkedmdb.org/resource/actor/32287> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/32287> <http://data.linkedmdb.org/resource/movie/actor_actorid> "32287"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/32287> <http://www.w3.org/2000/01/rdf-schema#label> "Eugene Levy (Actor)" .
@@ -91,7 +86,6 @@
 <http://data.linkedmdb.org/resource/actor/32287> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9658> .
 <http://data.linkedmdb.org/resource/actor/32287> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000002444a7> .
 <http://data.linkedmdb.org/resource/actor/32287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/3355> .
 <http://data.linkedmdb.org/resource/actor/3355> <http://data.linkedmdb.org/resource/movie/actor_actorid> "3355"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/3355> <http://www.w3.org/2000/01/rdf-schema#label> "Derek Richardson (Actor)" .
 <http://data.linkedmdb.org/resource/actor/3355> <http://data.linkedmdb.org/resource/movie/actor_name> "Derek Richardson" .
@@ -103,7 +97,6 @@
 <http://data.linkedmdb.org/resource/actor/3355> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010e4fc4> .
 <http://data.linkedmdb.org/resource/actor/3355> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Derek_Richardson> .
 <http://data.linkedmdb.org/resource/actor/3355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/42558> .
 <http://data.linkedmdb.org/resource/actor/42558> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/42558> <http://data.linkedmdb.org/resource/movie/actor_actorid> "42558"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/42558> <http://www.w3.org/2000/01/rdf-schema#label> "Eric Christian Olsen (Actor)" .
@@ -124,7 +117,6 @@
 <http://data.linkedmdb.org/resource/actor/42558> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9657> .
 <http://data.linkedmdb.org/resource/actor/42558> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000092a6b4> .
 <http://data.linkedmdb.org/resource/actor/42558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/9452> .
 <http://data.linkedmdb.org/resource/actor/9452> <http://data.linkedmdb.org/resource/movie/actor_actorid> "9452"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/9452> <http://www.w3.org/2000/01/rdf-schema#label> "Derek Richardson (Actor)" .
 <http://data.linkedmdb.org/resource/actor/9452> <http://data.linkedmdb.org/resource/movie/actor_name> "Derek Richardson" .
@@ -137,30 +129,25 @@
 <http://data.linkedmdb.org/resource/actor/9452> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000004678e4e> .
 <http://data.linkedmdb.org/resource/actor/9452> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Derek_Richardson> .
 <http://data.linkedmdb.org/resource/actor/9452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/1193> .
 <http://data.linkedmdb.org/resource/film/44377> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/1193> .
 <http://data.linkedmdb.org/resource/director/1193> <http://data.linkedmdb.org/resource/movie/director_directorid> "1193"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/director/1193> <http://www.w3.org/2000/01/rdf-schema#label> "Troy Miller (Director)" .
 <http://data.linkedmdb.org/resource/director/1193> <http://data.linkedmdb.org/resource/movie/director_name> "Troy Miller" .
-<http://data.linkedmdb.org/resource/director/1193> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2108> .
 <http://data.linkedmdb.org/resource/director/1193> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/44377> .
 <http://data.linkedmdb.org/resource/director/1193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/1193> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010e4fbe> .
 <http://data.linkedmdb.org/resource/director/1193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2917> .
 <http://data.linkedmdb.org/resource/film/3417> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2917> .
 <http://data.linkedmdb.org/resource/film/44377> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2917> .
 <http://data.linkedmdb.org/resource/director/2917> <http://data.linkedmdb.org/resource/movie/director_directorid> "2917"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/director/2917> <http://www.w3.org/2000/01/rdf-schema#label> "Troy Miller (Director)" .
 <http://data.linkedmdb.org/resource/director/2917> <http://data.linkedmdb.org/resource/movie/director_name> "Troy Miller" .
-<http://data.linkedmdb.org/resource/director/2917> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2108> .
 <http://data.linkedmdb.org/resource/director/2917> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/3417> .
 <http://data.linkedmdb.org/resource/director/2917> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/44377> .
 <http://data.linkedmdb.org/resource/director/2917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/2917> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000467bd89> .
 <http://data.linkedmdb.org/resource/director/2917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film_film_distributor_relationship/7081> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/1351> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/1351> .
 <http://data.linkedmdb.org/resource/interlink/135210> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/1351> .
 <http://data.linkedmdb.org/resource/interlink/70825> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/1351> .
 <http://data.linkedmdb.org/resource/director/9686> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/1351> .
@@ -184,7 +171,6 @@
 <http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/9686> .
 <http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/9687> .
 <http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/2850> .
-<http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/2108> .
 <http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/17201> .
 <http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/2018> .
 <http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/featured_film_location> <http://data.linkedmdb.org/resource/film_location/423> .
@@ -215,9 +201,7 @@
 <http://data.linkedmdb.org/resource/film/1351> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0109686/> .
 <http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/1351> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0109686/> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/2019> .
 <http://data.linkedmdb.org/resource/film_cut/2019> <http://data.linkedmdb.org/resource/movie/film_cut_film_cutid> "2019"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/film_cut/2019> <http://data.linkedmdb.org/resource/movie/runtime> "85" .
 <http://data.linkedmdb.org/resource/film_cut/2019> <http://www.w3.org/2000/01/rdf-schema#label> "Film Cut #2019" .
 <http://data.linkedmdb.org/resource/film_cut/2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film_cut> .
 <http://data.linkedmdb.org/resource/film_cut/2019> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010e4ff1> .
@@ -295,7 +279,6 @@
 <http://data.linkedmdb.org/resource/film/13439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/1346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/13481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/1351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/13524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/13525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/13526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -423,7 +406,6 @@
 <http://data.linkedmdb.org/resource/film/2095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/2105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/2108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/21167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/2116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/21264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1185,117 +1167,89 @@
 <http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/actor/9452> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/70982> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/70982> .
 <http://data.linkedmdb.org/resource/performance/70982> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/70982> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "70982"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/70982> <http://data.linkedmdb.org/resource/movie/performance_actor> "Derek Richardson" .
-<http://data.linkedmdb.org/resource/performance/70982> <http://data.linkedmdb.org/resource/movie/performance_film> "Dumb & Dumberer" .
 <http://data.linkedmdb.org/resource/performance/70982> <http://www.w3.org/2000/01/rdf-schema#label> "performance #70982" .
 <http://data.linkedmdb.org/resource/performance/70982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/70982> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000005a6098e> .
-<http://data.linkedmdb.org/resource/actor/3355> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9656> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9656> .
 <http://data.linkedmdb.org/resource/performance/9656> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/9656> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "9656"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/9656> <http://data.linkedmdb.org/resource/movie/performance_actor> "Derek Richardson" .
-<http://data.linkedmdb.org/resource/performance/9656> <http://data.linkedmdb.org/resource/movie/performance_film> "Dumb & Dumberer" .
 <http://data.linkedmdb.org/resource/performance/9656> <http://www.w3.org/2000/01/rdf-schema#label> "performance #9656" .
 <http://data.linkedmdb.org/resource/performance/9656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/9656> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010e4fdc> .
-<http://data.linkedmdb.org/resource/actor/42558> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9657> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9657> .
 <http://data.linkedmdb.org/resource/performance/9657> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/9657> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "9657"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/9657> <http://data.linkedmdb.org/resource/movie/performance_film> "Dumb & Dumberer" .
 <http://data.linkedmdb.org/resource/performance/9657> <http://data.linkedmdb.org/resource/movie/performance_actor> "Eric Christian Olsen" .
 <http://data.linkedmdb.org/resource/performance/9657> <http://www.w3.org/2000/01/rdf-schema#label> "performance #9657" .
 <http://data.linkedmdb.org/resource/performance/9657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/9657> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010e4fe1> .
-<http://data.linkedmdb.org/resource/actor/32287> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9658> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9658> .
 <http://data.linkedmdb.org/resource/performance/9658> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/9658> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "9658"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/9658> <http://data.linkedmdb.org/resource/movie/performance_film> "Dumb & Dumberer" .
 <http://data.linkedmdb.org/resource/performance/9658> <http://data.linkedmdb.org/resource/movie/performance_actor> "Eugene Levy" .
 <http://data.linkedmdb.org/resource/performance/9658> <http://www.w3.org/2000/01/rdf-schema#label> "performance #9658" .
 <http://data.linkedmdb.org/resource/performance/9658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/9658> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010e4fe6> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/13754> .
 <http://data.linkedmdb.org/resource/film/2274> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/13754> .
 <http://data.linkedmdb.org/resource/producer/13754> <http://data.linkedmdb.org/resource/movie/producer_producerid> "13754"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/13754> <http://www.w3.org/2000/01/rdf-schema#label> "Toby Emmerich (Producer)" .
 <http://data.linkedmdb.org/resource/producer/13754> <http://data.linkedmdb.org/resource/movie/producer_name> "Toby Emmerich" .
 <http://data.linkedmdb.org/resource/producer/13754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/13754> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000006b4d6d9> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/14177> .
 <http://data.linkedmdb.org/resource/producer/14177> <http://data.linkedmdb.org/resource/movie/producer_producerid> "14177"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/14177> <http://www.w3.org/2000/01/rdf-schema#label> "Oren Koules (Producer)" .
 <http://data.linkedmdb.org/resource/producer/14177> <http://data.linkedmdb.org/resource/movie/producer_name> "Oren Koules" .
 <http://data.linkedmdb.org/resource/producer/14177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/14177> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000008bcb18d> .
-<http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/16678> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/16678> .
 <http://data.linkedmdb.org/resource/producer/16678> <http://data.linkedmdb.org/resource/movie/producer_producerid> "16678"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/16678> <http://www.w3.org/2000/01/rdf-schema#label> "Brad Krevoy (Producer)" .
 <http://data.linkedmdb.org/resource/producer/16678> <http://data.linkedmdb.org/resource/movie/producer_name> "Brad Krevoy" .
 <http://data.linkedmdb.org/resource/producer/16678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/16678> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000b64de31> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/2158> .
 <http://data.linkedmdb.org/resource/producer/2158> <http://data.linkedmdb.org/resource/movie/producer_producerid> "2158"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/2158> <http://www.w3.org/2000/01/rdf-schema#label> "Troy Miller (Producer)" .
 <http://data.linkedmdb.org/resource/producer/2158> <http://data.linkedmdb.org/resource/movie/producer_name> "Troy Miller" .
 <http://data.linkedmdb.org/resource/producer/2158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/2158> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010e4fd2> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/5946> .
 <http://data.linkedmdb.org/resource/producer/5946> <http://data.linkedmdb.org/resource/movie/producer_producerid> "5946"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/5946> <http://www.w3.org/2000/01/rdf-schema#label> "Troy Miller (Producer)" .
 <http://data.linkedmdb.org/resource/producer/5946> <http://data.linkedmdb.org/resource/movie/producer_name> "Troy Miller" .
 <http://data.linkedmdb.org/resource/producer/5946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/5946> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000467bd89> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/698> .
 <http://data.linkedmdb.org/resource/producer/698> <http://data.linkedmdb.org/resource/movie/producer_producerid> "698"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/698> <http://www.w3.org/2000/01/rdf-schema#label> "Steven Stabler (Producer)" .
 <http://data.linkedmdb.org/resource/producer/698> <http://data.linkedmdb.org/resource/movie/producer_name> "Steven Stabler" .
 <http://data.linkedmdb.org/resource/producer/698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/698> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010c98b8> .
-<http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/15304> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/15304> .
 <http://data.linkedmdb.org/resource/writer/15304> <http://data.linkedmdb.org/resource/movie/writer_writerid> "15304"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/15304> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Farrelly (Writer)" .
 <http://data.linkedmdb.org/resource/writer/15304> <http://data.linkedmdb.org/resource/movie/writer_name> "Peter Farrelly" .
 <http://data.linkedmdb.org/resource/writer/15304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/15304> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000003ee04d> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/15305> .
 <http://data.linkedmdb.org/resource/writer/15305> <http://data.linkedmdb.org/resource/movie/writer_writerid> "15305"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/15305> <http://www.w3.org/2000/01/rdf-schema#label> "Bobby Farrelly (Writer)" .
 <http://data.linkedmdb.org/resource/writer/15305> <http://data.linkedmdb.org/resource/movie/writer_name> "Bobby Farrelly" .
 <http://data.linkedmdb.org/resource/writer/15305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/15305> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000003ee26e> .
-<http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/2275> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/2275> .
 <http://data.linkedmdb.org/resource/writer/2275> <http://data.linkedmdb.org/resource/movie/writer_writerid> "2275"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/2275> <http://www.w3.org/2000/01/rdf-schema#label> "Bennett Yellin (Writer)" .
 <http://data.linkedmdb.org/resource/writer/2275> <http://data.linkedmdb.org/resource/movie/writer_name> "Bennett Yellin" .
 <http://data.linkedmdb.org/resource/writer/2275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/2275> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010e4f85> .
 <http://data.linkedmdb.org/resource/writer/2275> <http://www.w3.org/2000/01/rdf-schema#SeeAlso> <http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Bennett+Yellin> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/2276> .
 <http://data.linkedmdb.org/resource/writer/2276> <http://data.linkedmdb.org/resource/movie/writer_writerid> "2276"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/2276> <http://www.w3.org/2000/01/rdf-schema#label> "Troy Miller (Writer)" .
 <http://data.linkedmdb.org/resource/writer/2276> <http://data.linkedmdb.org/resource/movie/writer_name> "Troy Miller" .
 <http://data.linkedmdb.org/resource/writer/2276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/2276> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010e4fbe> .
 <http://data.linkedmdb.org/resource/writer/2276> <http://www.w3.org/2000/01/rdf-schema#SeeAlso> <http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Troy+Miller> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/6220> .
 <http://data.linkedmdb.org/resource/writer/6220> <http://data.linkedmdb.org/resource/movie/writer_writerid> "6220"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/6220> <http://www.w3.org/2000/01/rdf-schema#label> "Troy Miller (Writer)" .
 <http://data.linkedmdb.org/resource/writer/6220> <http://data.linkedmdb.org/resource/movie/writer_name> "Troy Miller" .
 <http://data.linkedmdb.org/resource/writer/6220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/6220> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000467bd89> .
 <http://data.linkedmdb.org/resource/writer/6220> <http://www.w3.org/2000/01/rdf-schema#SeeAlso> <http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Troy+Miller> .
-<http://data.linkedmdb.org/resource/film/2108> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000048fea0> .
-<http://data.linkedmdb.org/resource/film/2108> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0329028> .
 <http://data.linkedmdb.org/resource/film/10232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10289> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10336> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1334,7 +1288,6 @@
 <http://data.linkedmdb.org/resource/film/1337> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/1346> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/1351> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/13789> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/13832> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/13855> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1407,7 +1360,6 @@
 <http://data.linkedmdb.org/resource/film/20724> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/2078> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/2105> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/2116> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/21357> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/21433> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1691,4 +1643,3 @@
 <http://data.linkedmdb.org/resource/interlink/151035> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/152117> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/152119> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/2108> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0329028> .

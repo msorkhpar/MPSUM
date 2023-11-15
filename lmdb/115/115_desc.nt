@@ -42,10 +42,7 @@
 <http://data.linkedmdb.org/resource/film/6213> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0099731> .
 <http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/relatedBook> <http://www4.wiwiss.fu-berlin.de/bookmashup/books/0771008139> .
 <http://data.linkedmdb.org/resource/film/6213> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Handmaid's_Tale_(film)> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/runtime> "109" .
 <http://data.linkedmdb.org/resource/film_cut/6866> <http://data.linkedmdb.org/resource/movie/runtime> "109" .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1990-02-15" .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/filmid> "6213"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/118941> <http://data.linkedmdb.org/resource/movie/performance_film> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/performance/152723> <http://data.linkedmdb.org/resource/movie/performance_film> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/performance/31800> <http://data.linkedmdb.org/resource/movie/performance_film> "The Handmaid's Tale" .
@@ -53,9 +50,7 @@
 <http://data.linkedmdb.org/resource/performance/31802> <http://data.linkedmdb.org/resource/movie/performance_film> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/performance/31803> <http://data.linkedmdb.org/resource/movie/performance_film> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/performance/40287> <http://data.linkedmdb.org/resource/movie/performance_film> "The Handmaid's Tale" .
-<http://data.linkedmdb.org/resource/film/6213> <http://purl.org/dc/terms/title> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/film/16872> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30004> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30004> .
 <http://data.linkedmdb.org/resource/actor/30004> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/30004> <http://data.linkedmdb.org/resource/movie/actor_actorid> "30004"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/30004> <http://www.w3.org/2000/01/rdf-schema#label> "Faye Dunaway (Actor)" .
@@ -118,7 +113,6 @@
 <http://data.linkedmdb.org/resource/actor/30004> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000007ed4c> .
 <http://data.linkedmdb.org/resource/actor/30004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/40118> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30559> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30559> .
 <http://data.linkedmdb.org/resource/actor/30559> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/30559> <http://data.linkedmdb.org/resource/movie/actor_actorid> "30559"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/30559> <http://www.w3.org/2000/01/rdf-schema#label> "Robert Duvall (Actor)" .
@@ -204,7 +198,6 @@
 <http://data.linkedmdb.org/resource/actor/30559> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/99914> .
 <http://data.linkedmdb.org/resource/actor/30559> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000012ac8e> .
 <http://data.linkedmdb.org/resource/actor/30559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31745> .
 <http://data.linkedmdb.org/resource/actor/31745> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/31745> <http://data.linkedmdb.org/resource/movie/actor_actorid> "31745"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/31745> <http://www.w3.org/2000/01/rdf-schema#label> "Elizabeth McGovern (Actor)" .
@@ -230,7 +223,6 @@
 <http://data.linkedmdb.org/resource/actor/31745> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/90191> .
 <http://data.linkedmdb.org/resource/actor/31745> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000001e130a> .
 <http://data.linkedmdb.org/resource/actor/31745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/33031> .
 <http://data.linkedmdb.org/resource/actor/33031> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/33031> <http://data.linkedmdb.org/resource/movie/actor_actorid> "33031"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/33031> <http://www.w3.org/2000/01/rdf-schema#label> "Natasha Richardson (Actor)" .
@@ -256,7 +248,6 @@
 <http://data.linkedmdb.org/resource/actor/33031> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/152728> .
 <http://data.linkedmdb.org/resource/actor/33031> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000002cc4e4> .
 <http://data.linkedmdb.org/resource/actor/33031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35239> .
 <http://data.linkedmdb.org/resource/actor/35239> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/35239> <http://data.linkedmdb.org/resource/movie/actor_actorid> "35239"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/35239> <http://www.w3.org/2000/01/rdf-schema#label> "Aidan Quinn (Actor)" .
@@ -307,7 +298,6 @@
 <http://data.linkedmdb.org/resource/actor/35239> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/97562> .
 <http://data.linkedmdb.org/resource/actor/35239> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000042acc6> .
 <http://data.linkedmdb.org/resource/actor/35239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47463> .
 <http://data.linkedmdb.org/resource/actor/47463> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/47463> <http://data.linkedmdb.org/resource/movie/actor_actorid> "47463"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/47463> <http://www.w3.org/2000/01/rdf-schema#label> "Blanche Baker (Actor)" .
@@ -324,7 +314,6 @@
 <http://data.linkedmdb.org/resource/actor/47463> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/90044> .
 <http://data.linkedmdb.org/resource/actor/47463> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000dc3021> .
 <http://data.linkedmdb.org/resource/actor/47463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/52659> .
 <http://data.linkedmdb.org/resource/actor/52659> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/52659> <http://data.linkedmdb.org/resource/movie/actor_actorid> "52659"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/52659> <http://www.w3.org/2000/01/rdf-schema#label> "Traci Lind (Actor)" .
@@ -338,7 +327,6 @@
 <http://data.linkedmdb.org/resource/actor/52659> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/40288> .
 <http://data.linkedmdb.org/resource/actor/52659> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000006aeedb2> .
 <http://data.linkedmdb.org/resource/actor/52659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/cinematographer> <http://data.linkedmdb.org/resource/cinematographer/1292> .
 <http://data.linkedmdb.org/resource/cinematographer/1292> <http://data.linkedmdb.org/resource/movie/cinematographer_cinematographerid> "1292"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/cinematographer/1292> <http://www.w3.org/2000/01/rdf-schema#label> "Igor Luther (Cinematographer)" .
 <http://data.linkedmdb.org/resource/cinematographer/1292> <http://data.linkedmdb.org/resource/movie/cinematographer_name> "Igor Luther" .
@@ -356,7 +344,6 @@
 <http://data.linkedmdb.org/resource/film/46348> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8982> .
 <http://data.linkedmdb.org/resource/film/47629> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8982> .
 <http://data.linkedmdb.org/resource/film/55310> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8982> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8982> .
 <http://data.linkedmdb.org/resource/film/6602> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8982> .
 <http://data.linkedmdb.org/resource/film/78422> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8982> .
 <http://data.linkedmdb.org/resource/film/812> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8982> .
@@ -377,7 +364,6 @@
 <http://data.linkedmdb.org/resource/director/8982> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/46348> .
 <http://data.linkedmdb.org/resource/director/8982> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/47629> .
 <http://data.linkedmdb.org/resource/director/8982> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/55310> .
-<http://data.linkedmdb.org/resource/director/8982> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/6213> .
 <http://data.linkedmdb.org/resource/director/8982> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/6602> .
 <http://data.linkedmdb.org/resource/director/8982> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/78422> .
 <http://data.linkedmdb.org/resource/director/8982> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/812> .
@@ -387,22 +373,18 @@
 <http://data.linkedmdb.org/resource/director/8982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/8982> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000001c6f69> .
 <http://data.linkedmdb.org/resource/director/8982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/1656> .
 <http://data.linkedmdb.org/resource/editor/1656> <http://data.linkedmdb.org/resource/movie/editor_editorid> "1656"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/editor/1656> <http://www.w3.org/2000/01/rdf-schema#label> "David Ray (Editor)" .
 <http://data.linkedmdb.org/resource/editor/1656> <http://data.linkedmdb.org/resource/movie/editor_name> "David Ray" .
 <http://data.linkedmdb.org/resource/editor/1656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/editor> .
 <http://data.linkedmdb.org/resource/editor/1656> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000045d3225> .
 <http://data.linkedmdb.org/resource/editor/1656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/94> .
 <http://data.linkedmdb.org/resource/editor/94> <http://data.linkedmdb.org/resource/movie/editor_editorid> "94"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/editor/94> <http://www.w3.org/2000/01/rdf-schema#label> "David Ray (Editor)" .
 <http://data.linkedmdb.org/resource/editor/94> <http://data.linkedmdb.org/resource/movie/editor_name> "David Ray" .
 <http://data.linkedmdb.org/resource/editor/94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/editor> .
 <http://data.linkedmdb.org/resource/editor/94> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010c54f8> .
 <http://data.linkedmdb.org/resource/editor/94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/6866> .
-<http://data.linkedmdb.org/resource/film_cut/6866> <http://data.linkedmdb.org/resource/movie/runtime> "109" .
 <http://data.linkedmdb.org/resource/film_cut/6866> <http://data.linkedmdb.org/resource/movie/film_cut_film_cutid> "6866"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film_cut/6866> <http://www.w3.org/2000/01/rdf-schema#label> "Film Cut #6866" .
 <http://data.linkedmdb.org/resource/film_cut/6866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film_cut> .
@@ -430,7 +412,6 @@
 <http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/23> .
 <http://data.linkedmdb.org/resource/film/5711> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/23> .
 <http://data.linkedmdb.org/resource/film/5732> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/23> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/23> .
 <http://data.linkedmdb.org/resource/film/7007> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/23> .
 <http://data.linkedmdb.org/resource/film/7150> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/23> .
 <http://data.linkedmdb.org/resource/film/8672> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/23> .
@@ -439,7 +420,6 @@
 <http://data.linkedmdb.org/resource/film_genre/23> <http://data.linkedmdb.org/resource/movie/film_genre_name> "Indie" .
 <http://data.linkedmdb.org/resource/film_genre/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film_genre> .
 <http://data.linkedmdb.org/resource/film_genre/23> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000020a79f> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/281> .
 <http://data.linkedmdb.org/resource/film_subject/281> <http://data.linkedmdb.org/resource/movie/film_subject_film_subjectid> "281"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film_subject/281> <http://www.w3.org/2000/01/rdf-schema#label> "Feminism (Film Subject)" .
 <http://data.linkedmdb.org/resource/film_subject/281> <http://data.linkedmdb.org/resource/movie/film_subject_name> "Feminism" .
@@ -1073,7 +1053,6 @@
 <http://data.linkedmdb.org/resource/film/61927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/61941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/6195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/6220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/62301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/62913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1409,97 +1388,70 @@
 <http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/4082> .
 <http://data.linkedmdb.org/resource/music_contributor/4082> <http://data.linkedmdb.org/resource/movie/music_contributor_music_contributorid> "4082"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/music_contributor/4082> <http://www.w3.org/2000/01/rdf-schema#label> "Ryuichi Sakamoto (Music Contributor)" .
 <http://data.linkedmdb.org/resource/music_contributor/4082> <http://data.linkedmdb.org/resource/movie/music_contributor_name> "Ryuichi Sakamoto" .
 <http://data.linkedmdb.org/resource/music_contributor/4082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/music_contributor> .
 <http://data.linkedmdb.org/resource/music_contributor/4082> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000034402> .
-<http://data.linkedmdb.org/resource/actor/47463> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/118941> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/118941> .
 <http://data.linkedmdb.org/resource/performance/118941> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/118941> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "118941"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/118941> <http://data.linkedmdb.org/resource/movie/performance_actor> "Blanche Baker" .
-<http://data.linkedmdb.org/resource/performance/118941> <http://data.linkedmdb.org/resource/movie/performance_film> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/performance/118941> <http://www.w3.org/2000/01/rdf-schema#label> "performance #118941" .
 <http://data.linkedmdb.org/resource/performance/118941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/118941> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000008fd265f> .
-<http://data.linkedmdb.org/resource/actor/33031> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/152723> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/152723> .
 <http://data.linkedmdb.org/resource/performance/152723> <http://data.linkedmdb.org/resource/movie/performance_name> "" .
 <http://data.linkedmdb.org/resource/performance/152723> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "152723"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/152723> <http://data.linkedmdb.org/resource/movie/performance_character> "Kate/Offred" .
 <http://data.linkedmdb.org/resource/performance/152723> <http://data.linkedmdb.org/resource/movie/performance_actor> "Natasha Richardson" .
-<http://data.linkedmdb.org/resource/performance/152723> <http://data.linkedmdb.org/resource/movie/performance_film> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/performance/152723> <http://www.w3.org/2000/01/rdf-schema#label> "performance #152723" .
 <http://data.linkedmdb.org/resource/performance/152723> <http://data.linkedmdb.org/resource/movie/film_character> <http://data.linkedmdb.org/resource/film_character/8874> .
 <http://data.linkedmdb.org/resource/performance/152723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/152723> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000b29bed8> .
-<http://data.linkedmdb.org/resource/actor/30004> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/31800> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/31800> .
 <http://data.linkedmdb.org/resource/performance/31800> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/31800> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "31800"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/31800> <http://data.linkedmdb.org/resource/movie/performance_actor> "Faye Dunaway" .
-<http://data.linkedmdb.org/resource/performance/31800> <http://data.linkedmdb.org/resource/movie/performance_film> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/performance/31800> <http://www.w3.org/2000/01/rdf-schema#label> "performance #31800" .
 <http://data.linkedmdb.org/resource/performance/31800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/31800> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000112a603> .
-<http://data.linkedmdb.org/resource/actor/30559> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/31801> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/31801> .
 <http://data.linkedmdb.org/resource/performance/31801> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/31801> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "31801"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/31801> <http://data.linkedmdb.org/resource/movie/performance_actor> "Robert Duvall" .
-<http://data.linkedmdb.org/resource/performance/31801> <http://data.linkedmdb.org/resource/movie/performance_film> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/performance/31801> <http://www.w3.org/2000/01/rdf-schema#label> "performance #31801" .
 <http://data.linkedmdb.org/resource/performance/31801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/31801> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000112a608> .
-<http://data.linkedmdb.org/resource/actor/35239> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/31802> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/31802> .
 <http://data.linkedmdb.org/resource/performance/31802> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/31802> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "31802"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/31802> <http://data.linkedmdb.org/resource/movie/performance_actor> "Aidan Quinn" .
-<http://data.linkedmdb.org/resource/performance/31802> <http://data.linkedmdb.org/resource/movie/performance_film> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/performance/31802> <http://www.w3.org/2000/01/rdf-schema#label> "performance #31802" .
 <http://data.linkedmdb.org/resource/performance/31802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/31802> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000112a60d> .
-<http://data.linkedmdb.org/resource/actor/31745> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/31803> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/31803> .
 <http://data.linkedmdb.org/resource/performance/31803> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/31803> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "31803"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/31803> <http://data.linkedmdb.org/resource/movie/performance_actor> "Elizabeth McGovern" .
-<http://data.linkedmdb.org/resource/performance/31803> <http://data.linkedmdb.org/resource/movie/performance_film> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/performance/31803> <http://www.w3.org/2000/01/rdf-schema#label> "performance #31803" .
 <http://data.linkedmdb.org/resource/performance/31803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/31803> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000112a612> .
-<http://data.linkedmdb.org/resource/actor/52659> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/40287> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/40287> .
 <http://data.linkedmdb.org/resource/performance/40287> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/40287> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "40287"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/40287> <http://data.linkedmdb.org/resource/movie/performance_film> "The Handmaid's Tale" .
 <http://data.linkedmdb.org/resource/performance/40287> <http://data.linkedmdb.org/resource/movie/performance_actor> "Traci Lind" .
 <http://data.linkedmdb.org/resource/performance/40287> <http://www.w3.org/2000/01/rdf-schema#label> "performance #40287" .
 <http://data.linkedmdb.org/resource/performance/40287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/40287> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000003cbd9f7> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/11068> .
 <http://data.linkedmdb.org/resource/producer/11068> <http://data.linkedmdb.org/resource/movie/producer_producerid> "11068"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/11068> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel Wilson (Producer)" .
 <http://data.linkedmdb.org/resource/producer/11068> <http://data.linkedmdb.org/resource/movie/producer_name> "Daniel Wilson" .
 <http://data.linkedmdb.org/resource/producer/11068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/11068> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000004c4ef7> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13441> .
 <http://data.linkedmdb.org/resource/writer/13441> <http://data.linkedmdb.org/resource/movie/writer_writerid> "13441"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/13441> <http://www.w3.org/2000/01/rdf-schema#label> "Margaret Atwood (Writer)" .
 <http://data.linkedmdb.org/resource/writer/13441> <http://data.linkedmdb.org/resource/movie/writer_name> "Margaret Atwood" .
 <http://data.linkedmdb.org/resource/writer/13441> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/13441> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000000730be> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13572> .
 <http://data.linkedmdb.org/resource/writer/13572> <http://data.linkedmdb.org/resource/movie/writer_writerid> "13572"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/13572> <http://www.w3.org/2000/01/rdf-schema#label> "Harold Pinter (Writer)" .
 <http://data.linkedmdb.org/resource/writer/13572> <http://data.linkedmdb.org/resource/movie/writer_name> "Harold Pinter" .
 <http://data.linkedmdb.org/resource/writer/13572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/13572> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000009a8bc> .
-<http://data.linkedmdb.org/resource/film/6213> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000ac8dbc> .
-<http://data.linkedmdb.org/resource/film/6213> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0099731> .
 <http://data.linkedmdb.org/resource/film/10232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10289> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10336> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1698,7 +1650,6 @@
 <http://data.linkedmdb.org/resource/film/5889> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/5964> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/6195> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/6220> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/6435> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1824,78 +1775,4 @@
 <http://data.linkedmdb.org/resource/interlink/138488> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/138717> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/138817> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/138895> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/139291> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/139299> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/139305> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/139488> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/139511> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/139579> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/139591> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/139886> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/139950> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/139996> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/140036> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/140055> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/140124> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/140208> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/140209> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/140699> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/140949> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/141051> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/141053> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/141421> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/141484> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/141487> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/141509> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/142002> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/142046> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/142223> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/142475> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/142828> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/142829> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/143011> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/143012> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/143259> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/143659> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/143680> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/143779> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/143782> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/144038> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/144445> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/144941> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/144960> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/145197> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/145301> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/145469> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/146023> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/146366> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/146709> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/147234> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/147295> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/147317> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/147480> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/148665> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/148748> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/148784> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/148889> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/148913> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149166> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149167> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149259> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149410> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149424> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149480> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149483> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149487> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149788> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149789> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/150276> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/150533> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/151035> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/152117> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/152119> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/6213> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0099731> .
-<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/relatedBook> <http://www4.wiwiss.fu-berlin.de/bookmashup/books/0771008139> .
-<http://data.linkedmdb.org/resource/interlink/55701> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www4.wiwiss.fu-berlin.de/bookmashup/books/0771008139> .
-<http://data.linkedmdb.org/resource/film/6213> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Handmaid's_Tale_(film)> .
+<http://data.linkedmdb.org/resource/interlink/138895> <http://data.linkedmdb.org/reso

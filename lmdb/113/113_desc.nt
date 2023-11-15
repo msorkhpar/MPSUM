@@ -35,9 +35,6 @@
 <http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/5232> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0035096> .
 <http://data.linkedmdb.org/resource/film/5232> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Mummy's_Tomb> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1942-10-23" .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/filmid> "5232"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/runtime> "61" .
 <http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/runtime> "61" .
 <http://data.linkedmdb.org/resource/film_cut/7260> <http://data.linkedmdb.org/resource/movie/runtime> "61" .
 <http://data.linkedmdb.org/resource/performance/192397> <http://data.linkedmdb.org/resource/movie/performance_film> "The Mummy's Tomb" .
@@ -45,12 +42,10 @@
 <http://data.linkedmdb.org/resource/performance/33557> <http://data.linkedmdb.org/resource/movie/performance_film> "The Mummy's Tomb" .
 <http://data.linkedmdb.org/resource/performance/79968> <http://data.linkedmdb.org/resource/movie/performance_film> "The Mummy's Tomb" .
 <http://data.linkedmdb.org/resource/performance/95522> <http://data.linkedmdb.org/resource/movie/performance_film> "The Mummy's Tomb" .
-<http://data.linkedmdb.org/resource/film/5232> <http://purl.org/dc/terms/title> "The Mummy's Tomb" .
 <http://data.linkedmdb.org/resource/film/113> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30295> .
 <http://data.linkedmdb.org/resource/film/14447> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30295> .
 <http://data.linkedmdb.org/resource/film/49389> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30295> .
 <http://data.linkedmdb.org/resource/film/4995> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30295> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30295> .
 <http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30295> .
 <http://data.linkedmdb.org/resource/film/5271> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30295> .
 <http://data.linkedmdb.org/resource/actor/30295> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
@@ -106,7 +101,6 @@
 <http://data.linkedmdb.org/resource/actor/30295> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/99326> .
 <http://data.linkedmdb.org/resource/actor/30295> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000010f20c> .
 <http://data.linkedmdb.org/resource/actor/30295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36482> .
 <http://data.linkedmdb.org/resource/actor/36482> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/36482> <http://data.linkedmdb.org/resource/movie/actor_actorid> "36482"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/36482> <http://www.w3.org/2000/01/rdf-schema#label> "John Hubbard (Actor)" .
@@ -116,7 +110,6 @@
 <http://data.linkedmdb.org/resource/actor/36482> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/55472> .
 <http://data.linkedmdb.org/resource/actor/36482> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000050dff0> .
 <http://data.linkedmdb.org/resource/actor/36482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/43277> .
 <http://data.linkedmdb.org/resource/actor/43277> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/43277> <http://data.linkedmdb.org/resource/movie/actor_actorid> "43277"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/43277> <http://www.w3.org/2000/01/rdf-schema#label> "Elyse Knox (Actor)" .
@@ -127,7 +120,6 @@
 <http://data.linkedmdb.org/resource/actor/43277> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000009cfccd> .
 <http://data.linkedmdb.org/resource/actor/43277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/46810> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/46810> .
 <http://data.linkedmdb.org/resource/actor/46810> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/46810> <http://data.linkedmdb.org/resource/movie/actor_actorid> "46810"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/46810> <http://www.w3.org/2000/01/rdf-schema#label> "Dick Foran (Actor)" .
@@ -151,7 +143,6 @@
 <http://data.linkedmdb.org/resource/actor/46810> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/90493> .
 <http://data.linkedmdb.org/resource/actor/46810> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000d16d8b> .
 <http://data.linkedmdb.org/resource/actor/46810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/55256> .
 <http://data.linkedmdb.org/resource/actor/55256> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/55256> <http://data.linkedmdb.org/resource/movie/actor_actorid> "55256"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/55256> <http://www.w3.org/2000/01/rdf-schema#label> "John Hubbard (Actor)" .
@@ -163,17 +154,14 @@
 <http://data.linkedmdb.org/resource/actor/55256> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/196422> .
 <http://data.linkedmdb.org/resource/actor/55256> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000008756a58> .
 <http://data.linkedmdb.org/resource/actor/55256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2475> .
 <http://data.linkedmdb.org/resource/director/2475> <http://data.linkedmdb.org/resource/movie/director_directorid> "2475"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/director/2475> <http://www.w3.org/2000/01/rdf-schema#label> "Harold Young (Director)" .
 <http://data.linkedmdb.org/resource/director/2475> <http://data.linkedmdb.org/resource/movie/director_name> "Harold Young" .
-<http://data.linkedmdb.org/resource/director/2475> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/5232> .
 <http://data.linkedmdb.org/resource/director/2475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/2475> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000112f8ba> .
 <http://data.linkedmdb.org/resource/director/2475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/13789> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2954> .
 <http://data.linkedmdb.org/resource/film/14447> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2954> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2954> .
 <http://data.linkedmdb.org/resource/film/93208> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2954> .
 <http://data.linkedmdb.org/resource/film/93232> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2954> .
 <http://data.linkedmdb.org/resource/film/93319> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2954> .
@@ -182,7 +170,6 @@
 <http://data.linkedmdb.org/resource/director/2954> <http://data.linkedmdb.org/resource/movie/director_name> "Harold Young" .
 <http://data.linkedmdb.org/resource/director/2954> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/13789> .
 <http://data.linkedmdb.org/resource/director/2954> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/14447> .
-<http://data.linkedmdb.org/resource/director/2954> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/5232> .
 <http://data.linkedmdb.org/resource/director/2954> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/93208> .
 <http://data.linkedmdb.org/resource/director/2954> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/93232> .
 <http://data.linkedmdb.org/resource/director/2954> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/93319> .
@@ -190,7 +177,6 @@
 <http://data.linkedmdb.org/resource/director/2954> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000046b5038> .
 <http://data.linkedmdb.org/resource/director/2954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film_film_distributor_relationship/2038> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/5226> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/5226> .
 <http://data.linkedmdb.org/resource/film/646> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/5226> .
 <http://data.linkedmdb.org/resource/interlink/138477> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5226> .
 <http://data.linkedmdb.org/resource/interlink/21020> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5226> .
@@ -205,11 +191,9 @@
 <http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38590> .
 <http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/46374> .
 <http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/46421> .
-<http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/46810> .
 <http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/49081> .
 <http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/7659> .
 <http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/14262> .
-<http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/5232> .
 <http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/646> .
 <http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/7258> .
 <http://data.linkedmdb.org/resource/film/5226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -232,7 +216,6 @@
 <http://data.linkedmdb.org/resource/film/5226> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Mummy's_Hand> .
 <http://data.linkedmdb.org/resource/film_film_distributor_relationship/2032> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/5240> .
 <http://data.linkedmdb.org/resource/film/5271> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/5240> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/5240> .
 <http://data.linkedmdb.org/resource/interlink/138488> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5240> .
 <http://data.linkedmdb.org/resource/interlink/21028> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5240> .
 <http://data.linkedmdb.org/resource/interlink/2495> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5240> .
@@ -240,14 +223,11 @@
 <http://data.linkedmdb.org/resource/director/15991> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/5240> .
 <http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1944-07-07" .
 <http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/filmid> "5240"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/runtime> "61" .
 <http://data.linkedmdb.org/resource/film/5240> <http://purl.org/dc/terms/title> "The Mummy's Ghost" .
-<http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30295> .
 <http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31995> .
 <http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/7658> .
 <http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/784> .
 <http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/15991> .
-<http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/5232> .
 <http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/5271> .
 <http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/7257> .
 <http://data.linkedmdb.org/resource/film/5240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -265,8 +245,6 @@
 <http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/5240> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0037099> .
 <http://data.linkedmdb.org/resource/film/5240> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Mummy's_Ghost> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/7260> .
-<http://data.linkedmdb.org/resource/film_cut/7260> <http://data.linkedmdb.org/resource/movie/runtime> "61" .
 <http://data.linkedmdb.org/resource/film_cut/7260> <http://data.linkedmdb.org/resource/movie/film_cut_film_cutid> "7260"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film_cut/7260> <http://www.w3.org/2000/01/rdf-schema#label> "Film Cut #7260" .
 <http://data.linkedmdb.org/resource/film_cut/7260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film_cut> .
@@ -804,12 +782,9 @@
 <http://data.linkedmdb.org/resource/film/51845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/5215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/52243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/5226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/52320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/5232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/5235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/52376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/5240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/52489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/52543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/52581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1235,54 +1210,36 @@
 <http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/actor/55256> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/192397> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/192397> .
 <http://data.linkedmdb.org/resource/performance/192397> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/192397> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "192397"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/192397> <http://data.linkedmdb.org/resource/movie/performance_actor> "John Hubbard" .
-<http://data.linkedmdb.org/resource/performance/192397> <http://data.linkedmdb.org/resource/movie/performance_film> "The Mummy's Tomb" .
 <http://data.linkedmdb.org/resource/performance/192397> <http://www.w3.org/2000/01/rdf-schema#label> "performance #192397" .
 <http://data.linkedmdb.org/resource/performance/192397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/192397> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000012ff0d8c> .
-<http://data.linkedmdb.org/resource/actor/46810> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33556> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33556> .
 <http://data.linkedmdb.org/resource/performance/33556> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/33556> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "33556"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/33556> <http://data.linkedmdb.org/resource/movie/performance_actor> "Dick Foran" .
-<http://data.linkedmdb.org/resource/performance/33556> <http://data.linkedmdb.org/resource/movie/performance_film> "The Mummy's Tomb" .
 <http://data.linkedmdb.org/resource/performance/33556> <http://www.w3.org/2000/01/rdf-schema#label> "performance #33556" .
 <http://data.linkedmdb.org/resource/performance/33556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/33556> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000112f8ca> .
-<http://data.linkedmdb.org/resource/actor/36482> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33557> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/33557> .
 <http://data.linkedmdb.org/resource/performance/33557> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/33557> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "33557"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/33557> <http://data.linkedmdb.org/resource/movie/performance_actor> "John Hubbard" .
-<http://data.linkedmdb.org/resource/performance/33557> <http://data.linkedmdb.org/resource/movie/performance_film> "The Mummy's Tomb" .
 <http://data.linkedmdb.org/resource/performance/33557> <http://www.w3.org/2000/01/rdf-schema#label> "performance #33557" .
 <http://data.linkedmdb.org/resource/performance/33557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/33557> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000112f8cf> .
-<http://data.linkedmdb.org/resource/actor/43277> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/79968> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/79968> .
 <http://data.linkedmdb.org/resource/performance/79968> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/79968> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "79968"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/79968> <http://data.linkedmdb.org/resource/movie/performance_actor> "Elyse Knox" .
-<http://data.linkedmdb.org/resource/performance/79968> <http://data.linkedmdb.org/resource/movie/performance_film> "The Mummy's Tomb" .
 <http://data.linkedmdb.org/resource/performance/79968> <http://www.w3.org/2000/01/rdf-schema#label> "performance #79968" .
 <http://data.linkedmdb.org/resource/performance/79968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/79968> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070b3fbb> .
-<http://data.linkedmdb.org/resource/actor/30295> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/95522> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/95522> .
 <http://data.linkedmdb.org/resource/performance/95522> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/95522> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "95522"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/95522> <http://data.linkedmdb.org/resource/movie/performance_actor> "Lon Chaney, Jr." .
-<http://data.linkedmdb.org/resource/performance/95522> <http://data.linkedmdb.org/resource/movie/performance_film> "The Mummy's Tomb" .
 <http://data.linkedmdb.org/resource/performance/95522> <http://www.w3.org/2000/01/rdf-schema#label> "performance #95522" .
 <http://data.linkedmdb.org/resource/performance/95522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/95522> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000726c069> .
-<http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/5155> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/5155> .
-<http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/5155> .
 <http://data.linkedmdb.org/resource/producer/5155> <http://data.linkedmdb.org/resource/movie/producer_producerid> "5155"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/5155> <http://www.w3.org/2000/01/rdf-schema#label> "Ben Pivar (Producer)" .
 <http://data.linkedmdb.org/resource/producer/5155> <http://data.linkedmdb.org/resource/movie/producer_name> "Ben Pivar" .
@@ -1293,8 +1250,6 @@
 <http://data.linkedmdb.org/resource/film/38338> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/30> .
 <http://data.linkedmdb.org/resource/film/42765> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/30> .
 <http://data.linkedmdb.org/resource/film/4995> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/30> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/30> .
-<http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/30> .
 <http://data.linkedmdb.org/resource/film/5271> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/30> .
 <http://data.linkedmdb.org/resource/film/646> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/30> .
 <http://data.linkedmdb.org/resource/film/6555> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/30> .
@@ -1304,15 +1259,12 @@
 <http://data.linkedmdb.org/resource/production_company/30> <http://data.linkedmdb.org/resource/movie/production_company_name> "Universal Studios" .
 <http://data.linkedmdb.org/resource/production_company/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/production_company> .
 <http://data.linkedmdb.org/resource/production_company/30> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000136763> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/5326> .
 <http://data.linkedmdb.org/resource/writer/5326> <http://data.linkedmdb.org/resource/movie/writer_writerid> "5326"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/5326> <http://www.w3.org/2000/01/rdf-schema#label> "Neil P. Varnick (Writer)" .
 <http://data.linkedmdb.org/resource/writer/5326> <http://data.linkedmdb.org/resource/movie/writer_name> "Neil P. Varnick" .
 <http://data.linkedmdb.org/resource/writer/5326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/5326> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000112f8c1> .
 <http://data.linkedmdb.org/resource/writer/5326> <http://www.w3.org/2000/01/rdf-schema#SeeAlso> <http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Neil+P.+Varnick> .
-<http://data.linkedmdb.org/resource/film/5232> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000009746be> .
-<http://data.linkedmdb.org/resource/film/5232> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0035096> .
 <http://data.linkedmdb.org/resource/film/10232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10289> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10336> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1493,10 +1445,7 @@
 <http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/5167> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/5215> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/5235> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/5240> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/5266> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/5271> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/5509> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1708,5 +1657,3 @@
 <http://data.linkedmdb.org/resource/interlink/151035> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/152117> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/152119> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/5232> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0035096> .
-<http://data.linkedmdb.org/resource/film/5232> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/The_Mummy's_Tomb> .

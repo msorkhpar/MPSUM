@@ -35,16 +35,11 @@
 <http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/fr> .
 <http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0329706> .
 <http://data.linkedmdb.org/resource/film/4053> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/A_Man,_a_Real_One> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/runtime> "120" .
 <http://data.linkedmdb.org/resource/film_cut/165> <http://data.linkedmdb.org/resource/movie/runtime> "120" .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2003-05-28" .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/filmid> "4053"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/777> <http://data.linkedmdb.org/resource/movie/performance_film> "A Man, a Real One" .
 <http://data.linkedmdb.org/resource/performance/778> <http://data.linkedmdb.org/resource/movie/performance_film> "A Man, a Real One" .
 <http://data.linkedmdb.org/resource/performance/779> <http://data.linkedmdb.org/resource/movie/performance_film> "A Man, a Real One" .
 <http://data.linkedmdb.org/resource/performance/84776> <http://data.linkedmdb.org/resource/movie/performance_film> "A Man, a Real One" .
-<http://data.linkedmdb.org/resource/film/4053> <http://purl.org/dc/terms/title> "A Man, a Real One" .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/10974> .
 <http://data.linkedmdb.org/resource/actor/10974> <http://data.linkedmdb.org/resource/movie/actor_actorid> "10974"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/10974> <http://www.w3.org/2000/01/rdf-schema#label> "Mathieu Amalric (Actor)" .
 <http://data.linkedmdb.org/resource/actor/10974> <http://data.linkedmdb.org/resource/movie/actor_name> "Mathieu Amalric" .
@@ -71,7 +66,6 @@
 <http://data.linkedmdb.org/resource/actor/10974> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000569b2d3> .
 <http://data.linkedmdb.org/resource/actor/10974> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Mathieu_Amalric> .
 <http://data.linkedmdb.org/resource/actor/10974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/1569> .
 <http://data.linkedmdb.org/resource/actor/1569> <http://data.linkedmdb.org/resource/movie/actor_actorid> "1569"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/1569> <http://www.w3.org/2000/01/rdf-schema#label> "HÃ©lÃ¨ne FilliÃ¨res (Actor)" .
 <http://data.linkedmdb.org/resource/actor/1569> <http://data.linkedmdb.org/resource/movie/actor_name> "HÃ©lÃ¨ne FilliÃ¨res" .
@@ -79,7 +73,6 @@
 <http://data.linkedmdb.org/resource/actor/1569> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/778> .
 <http://data.linkedmdb.org/resource/actor/1569> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010c6653> .
 <http://data.linkedmdb.org/resource/actor/1569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/1570> .
 <http://data.linkedmdb.org/resource/actor/1570> <http://data.linkedmdb.org/resource/movie/actor_actorid> "1570"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/1570> <http://www.w3.org/2000/01/rdf-schema#label> "Pierre Pellet (Actor)" .
 <http://data.linkedmdb.org/resource/actor/1570> <http://data.linkedmdb.org/resource/movie/actor_name> "Pierre Pellet" .
@@ -87,7 +80,6 @@
 <http://data.linkedmdb.org/resource/actor/1570> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/779> .
 <http://data.linkedmdb.org/resource/actor/1570> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010c6659> .
 <http://data.linkedmdb.org/resource/actor/1570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35688> .
 <http://data.linkedmdb.org/resource/actor/35688> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/35688> <http://data.linkedmdb.org/resource/movie/actor_actorid> "35688"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/35688> <http://www.w3.org/2000/01/rdf-schema#label> "Eva Ionesco (Actor)" .
@@ -99,7 +91,6 @@
 <http://data.linkedmdb.org/resource/actor/35688> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000482ccc> .
 <http://data.linkedmdb.org/resource/actor/35688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/1773> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/FR> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/FR> .
 <http://data.linkedmdb.org/resource/film/42230> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/FR> .
 <http://data.linkedmdb.org/resource/film/944> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/FR> .
 <http://data.linkedmdb.org/resource/country/FR> <http://data.linkedmdb.org/resource/movie/country_id> "120"^^<http://www.w3.org/2001/XMLSchema#int> .
@@ -116,32 +107,26 @@
 <http://data.linkedmdb.org/resource/country/FR> <http://data.linkedmdb.org/resource/movie/country_languages> "fr-FR,frp,br,co,ca,eu" .
 <http://data.linkedmdb.org/resource/country/FR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/country> .
 <http://data.linkedmdb.org/resource/country/FR> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/3017382/> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/19714> .
 <http://data.linkedmdb.org/resource/film/43489> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/19714> .
 <http://data.linkedmdb.org/resource/film/93768> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/19714> .
 <http://data.linkedmdb.org/resource/director/19714> <http://data.linkedmdb.org/resource/movie/director_directorid> "19714"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/director/19714> <http://www.w3.org/2000/01/rdf-schema#label> "Arnaud Larrieu (Director)" .
 <http://data.linkedmdb.org/resource/director/19714> <http://data.linkedmdb.org/resource/movie/director_name> "Arnaud Larrieu" .
-<http://data.linkedmdb.org/resource/director/19714> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/4053> .
 <http://data.linkedmdb.org/resource/director/19714> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/43489> .
 <http://data.linkedmdb.org/resource/director/19714> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/93768> .
 <http://data.linkedmdb.org/resource/director/19714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/19714> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000beb4594> .
 <http://data.linkedmdb.org/resource/director/19714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/632> .
 <http://data.linkedmdb.org/resource/film/43489> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/632> .
 <http://data.linkedmdb.org/resource/film/93768> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/632> .
 <http://data.linkedmdb.org/resource/director/632> <http://data.linkedmdb.org/resource/movie/director_directorid> "632"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/director/632> <http://www.w3.org/2000/01/rdf-schema#label> "Jean-Marie Larrieu (Director)" .
 <http://data.linkedmdb.org/resource/director/632> <http://data.linkedmdb.org/resource/movie/director_name> "Jean-Marie Larrieu" .
-<http://data.linkedmdb.org/resource/director/632> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/4053> .
 <http://data.linkedmdb.org/resource/director/632> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/43489> .
 <http://data.linkedmdb.org/resource/director/632> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/93768> .
 <http://data.linkedmdb.org/resource/director/632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/632> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010c6647> .
 <http://data.linkedmdb.org/resource/director/632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/165> .
-<http://data.linkedmdb.org/resource/film_cut/165> <http://data.linkedmdb.org/resource/movie/runtime> "120" .
 <http://data.linkedmdb.org/resource/film_cut/165> <http://data.linkedmdb.org/resource/movie/film_cut_film_cutid> "165"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film_cut/165> <http://www.w3.org/2000/01/rdf-schema#label> "Film Cut #165" .
 <http://data.linkedmdb.org/resource/film_cut/165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film_cut> .
@@ -187,7 +172,6 @@
 <http://data.linkedmdb.org/resource/film/3535> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
 <http://data.linkedmdb.org/resource/film/3633> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
 <http://data.linkedmdb.org/resource/film/4005> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
 <http://data.linkedmdb.org/resource/film/4232> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
 <http://data.linkedmdb.org/resource/film/4897> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
 <http://data.linkedmdb.org/resource/film/5732> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
@@ -550,7 +534,6 @@
 <http://data.linkedmdb.org/resource/film/40490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/40491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/40536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/4053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/40637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/40703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/40851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1176,62 +1159,46 @@
 <http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/actor/10974> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/777> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/777> .
 <http://data.linkedmdb.org/resource/performance/777> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/777> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "777"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/777> <http://data.linkedmdb.org/resource/movie/performance_film> "A Man, a Real One" .
 <http://data.linkedmdb.org/resource/performance/777> <http://data.linkedmdb.org/resource/movie/performance_actor> "Mathieu Amalric" .
 <http://data.linkedmdb.org/resource/performance/777> <http://www.w3.org/2000/01/rdf-schema#label> "performance #777" .
 <http://data.linkedmdb.org/resource/performance/777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/777> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010c6672> .
-<http://data.linkedmdb.org/resource/actor/1569> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/778> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/778> .
 <http://data.linkedmdb.org/resource/performance/778> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/778> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "778"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/778> <http://data.linkedmdb.org/resource/movie/performance_film> "A Man, a Real One" .
 <http://data.linkedmdb.org/resource/performance/778> <http://data.linkedmdb.org/resource/movie/performance_actor> "HÃ©lÃ¨ne FilliÃ¨res" .
 <http://data.linkedmdb.org/resource/performance/778> <http://www.w3.org/2000/01/rdf-schema#label> "performance #778" .
 <http://data.linkedmdb.org/resource/performance/778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/778> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010c6677> .
-<http://data.linkedmdb.org/resource/actor/1570> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/779> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/779> .
 <http://data.linkedmdb.org/resource/performance/779> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/779> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "779"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/779> <http://data.linkedmdb.org/resource/movie/performance_film> "A Man, a Real One" .
 <http://data.linkedmdb.org/resource/performance/779> <http://data.linkedmdb.org/resource/movie/performance_actor> "Pierre Pellet" .
 <http://data.linkedmdb.org/resource/performance/779> <http://www.w3.org/2000/01/rdf-schema#label> "performance #779" .
 <http://data.linkedmdb.org/resource/performance/779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/779> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010c667c> .
-<http://data.linkedmdb.org/resource/actor/35688> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/84776> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/84776> .
 <http://data.linkedmdb.org/resource/performance/84776> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/84776> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "84776"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/84776> <http://data.linkedmdb.org/resource/movie/performance_film> "A Man, a Real One" .
 <http://data.linkedmdb.org/resource/performance/84776> <http://data.linkedmdb.org/resource/movie/performance_actor> "Eva Ionesco" .
 <http://data.linkedmdb.org/resource/performance/84776> <http://www.w3.org/2000/01/rdf-schema#label> "performance #84776" .
 <http://data.linkedmdb.org/resource/performance/84776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/84776> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070bf719> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/526> .
 <http://data.linkedmdb.org/resource/producer/526> <http://data.linkedmdb.org/resource/movie/producer_producerid> "526"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/526> <http://www.w3.org/2000/01/rdf-schema#label> "Philippe Martin (Producer)" .
 <http://data.linkedmdb.org/resource/producer/526> <http://data.linkedmdb.org/resource/movie/producer_name> "Philippe Martin" .
 <http://data.linkedmdb.org/resource/producer/526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/526> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010c6667> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/23034> .
 <http://data.linkedmdb.org/resource/writer/23034> <http://data.linkedmdb.org/resource/movie/writer_writerid> "23034"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/23034> <http://www.w3.org/2000/01/rdf-schema#label> "Arnaud Larrieu (Writer)" .
 <http://data.linkedmdb.org/resource/writer/23034> <http://data.linkedmdb.org/resource/movie/writer_name> "Arnaud Larrieu" .
 <http://data.linkedmdb.org/resource/writer/23034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/23034> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000beb4594> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/796> .
 <http://data.linkedmdb.org/resource/writer/796> <http://data.linkedmdb.org/resource/movie/writer_writerid> "796"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/796> <http://www.w3.org/2000/01/rdf-schema#label> "Jean-Marie Larrieu (Writer)" .
 <http://data.linkedmdb.org/resource/writer/796> <http://data.linkedmdb.org/resource/movie/writer_name> "Jean-Marie Larrieu" .
 <http://data.linkedmdb.org/resource/writer/796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/796> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010c6647> .
 <http://data.linkedmdb.org/resource/writer/796> <http://www.w3.org/2000/01/rdf-schema#SeeAlso> <http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Jean-Marie+Larrieu> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/797> .
 <http://data.linkedmdb.org/resource/writer/797> <http://data.linkedmdb.org/resource/movie/writer_writerid> "797"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/797> <http://www.w3.org/2000/01/rdf-schema#label> "Sophie FilliÃ¨res (Writer)" .
 <http://data.linkedmdb.org/resource/writer/797> <http://data.linkedmdb.org/resource/movie/writer_name> "Sophie FilliÃ¨res" .
@@ -1241,18 +1208,14 @@
 <http://data.linkedmdb.org/resource/interlink/66474> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/3017382/> .
 <http://data.linkedmdb.org/resource/interlink/66500> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/3017382/> .
 <http://data.linkedmdb.org/resource/interlink/66572> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/3017382/> .
-<http://data.linkedmdb.org/resource/country/FR> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/3017382/> .
 <http://data.linkedmdb.org/resource/film/1773> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3017382/> .
 <http://data.linkedmdb.org/resource/film/1787> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3017382/> .
 <http://data.linkedmdb.org/resource/film/39000> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3017382/> .
-<http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3017382/> .
 <http://data.linkedmdb.org/resource/film/42230> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3017382/> .
 <http://data.linkedmdb.org/resource/film/43489> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3017382/> .
 <http://data.linkedmdb.org/resource/film/6602> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3017382/> .
 <http://data.linkedmdb.org/resource/film/812> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3017382/> .
 <http://data.linkedmdb.org/resource/film/944> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/3017382/> .
-<http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000007afaba> .
-<http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0329706> .
 <http://data.linkedmdb.org/resource/film/10232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10289> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10336> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1414,7 +1377,6 @@
 <http://data.linkedmdb.org/resource/film/3928> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/4005> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/4028> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/4108> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/4232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/4344> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1649,8 +1611,5 @@
 <http://data.linkedmdb.org/resource/interlink/152117> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/152119> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/fr> .
-<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/fr> .
 <http://data.linkedmdb.org/resource/interlink/136102> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/fr> .
 <http://data.linkedmdb.org/resource/interlink/137540> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/fr> .
-<http://data.linkedmdb.org/resource/film/4053> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0329706> .
-<http://data.linkedmdb.org/resource/film/4053> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/A_Man,_a_Real_One> .

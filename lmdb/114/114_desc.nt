@@ -28,16 +28,11 @@
 <http://data.linkedmdb.org/resource/film/6191> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0086244> .
 <http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/6191> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0086244> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/runtime> "136" .
 <http://data.linkedmdb.org/resource/film_cut/5444> <http://data.linkedmdb.org/resource/movie/runtime> "136" .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1983-10-12" .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/filmid> "6191"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/25385> <http://data.linkedmdb.org/resource/movie/performance_film> "Satomi Hakkenden" .
 <http://data.linkedmdb.org/resource/performance/25386> <http://data.linkedmdb.org/resource/movie/performance_film> "Satomi Hakkenden" .
 <http://data.linkedmdb.org/resource/performance/25387> <http://data.linkedmdb.org/resource/movie/performance_film> "Satomi Hakkenden" .
 <http://data.linkedmdb.org/resource/performance/87740> <http://data.linkedmdb.org/resource/movie/performance_film> "Satomi Hakkenden" .
-<http://data.linkedmdb.org/resource/film/6191> <http://purl.org/dc/terms/title> "Satomi Hakkenden" .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32168> .
 <http://data.linkedmdb.org/resource/actor/32168> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/32168> <http://data.linkedmdb.org/resource/movie/actor_actorid> "32168"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/32168> <http://www.w3.org/2000/01/rdf-schema#label> "Sonny Chiba (Actor)" .
@@ -90,7 +85,6 @@
 <http://data.linkedmdb.org/resource/actor/32168> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9456> .
 <http://data.linkedmdb.org/resource/actor/32168> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000022d0fe> .
 <http://data.linkedmdb.org/resource/actor/32168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34973> .
 <http://data.linkedmdb.org/resource/actor/34973> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/34973> <http://data.linkedmdb.org/resource/movie/actor_actorid> "34973"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/34973> <http://www.w3.org/2000/01/rdf-schema#label> "Hiroyuki Sanada (Actor)" .
@@ -117,7 +111,6 @@
 <http://data.linkedmdb.org/resource/actor/34973> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/94443> .
 <http://data.linkedmdb.org/resource/actor/34973> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000003ff257> .
 <http://data.linkedmdb.org/resource/actor/34973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36373> .
 <http://data.linkedmdb.org/resource/actor/36373> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/36373> <http://data.linkedmdb.org/resource/movie/actor_actorid> "36373"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/36373> <http://www.w3.org/2000/01/rdf-schema#label> "Hiroko Yakushimaru (Actor)" .
@@ -132,7 +125,6 @@
 <http://data.linkedmdb.org/resource/actor/36373> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/92437> .
 <http://data.linkedmdb.org/resource/actor/36373> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000004f574e> .
 <http://data.linkedmdb.org/resource/actor/36373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/44257> .
 <http://data.linkedmdb.org/resource/actor/44257> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/44257> <http://data.linkedmdb.org/resource/movie/actor_actorid> "44257"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/44257> <http://www.w3.org/2000/01/rdf-schema#label> "Mari Natsuki (Actor)" .
@@ -145,7 +137,6 @@
 <http://data.linkedmdb.org/resource/actor/44257> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/87740> .
 <http://data.linkedmdb.org/resource/actor/44257> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000abbcc5> .
 <http://data.linkedmdb.org/resource/actor/44257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/cinematographer> <http://data.linkedmdb.org/resource/cinematographer/1122> .
 <http://data.linkedmdb.org/resource/cinematographer/1122> <http://data.linkedmdb.org/resource/movie/cinematographer_cinematographerid> "1122"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/cinematographer/1122> <http://www.w3.org/2000/01/rdf-schema#label> "SeizÅ Sengen (Cinematographer)" .
 <http://data.linkedmdb.org/resource/cinematographer/1122> <http://data.linkedmdb.org/resource/movie/cinematographer_name> "SeizÅ Sengen" .
@@ -156,7 +147,6 @@
 <http://data.linkedmdb.org/resource/film/18644> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/JP> .
 <http://data.linkedmdb.org/resource/film/2473> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/JP> .
 <http://data.linkedmdb.org/resource/film/49130> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/JP> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/JP> .
 <http://data.linkedmdb.org/resource/country/JP> <http://data.linkedmdb.org/resource/movie/country_population> "127288000" .
 <http://data.linkedmdb.org/resource/country/JP> <http://data.linkedmdb.org/resource/movie/country_areaInSqKm> "377835.0"^^<http://www.w3.org/2001/XMLSchema#double> .
 <http://data.linkedmdb.org/resource/country/JP> <http://data.linkedmdb.org/resource/movie/country_iso_numeric> "392" .
@@ -204,7 +194,6 @@
 <http://data.linkedmdb.org/resource/film/43916> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8972> .
 <http://data.linkedmdb.org/resource/film/44686> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8972> .
 <http://data.linkedmdb.org/resource/film/49842> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8972> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8972> .
 <http://data.linkedmdb.org/resource/film/62934> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8972> .
 <http://data.linkedmdb.org/resource/film/6675> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8972> .
 <http://data.linkedmdb.org/resource/film/723> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8972> .
@@ -244,7 +233,6 @@
 <http://data.linkedmdb.org/resource/director/8972> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/43916> .
 <http://data.linkedmdb.org/resource/director/8972> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/44686> .
 <http://data.linkedmdb.org/resource/director/8972> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/49842> .
-<http://data.linkedmdb.org/resource/director/8972> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/6191> .
 <http://data.linkedmdb.org/resource/director/8972> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/62934> .
 <http://data.linkedmdb.org/resource/director/8972> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/6675> .
 <http://data.linkedmdb.org/resource/director/8972> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/723> .
@@ -252,8 +240,6 @@
 <http://data.linkedmdb.org/resource/director/8972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/8972> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000001bff3f> .
 <http://data.linkedmdb.org/resource/director/8972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/5444> .
-<http://data.linkedmdb.org/resource/film_cut/5444> <http://data.linkedmdb.org/resource/movie/runtime> "136" .
 <http://data.linkedmdb.org/resource/film_cut/5444> <http://data.linkedmdb.org/resource/movie/film_cut_film_cutid> "5444"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film_cut/5444> <http://www.w3.org/2000/01/rdf-schema#label> "Film Cut #5444" .
 <http://data.linkedmdb.org/resource/film_cut/5444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film_cut> .
@@ -882,7 +868,6 @@
 <http://data.linkedmdb.org/resource/film/61561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/61791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/61816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/61927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/61941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/6195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1222,67 +1207,50 @@
 <http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/180> .
 <http://data.linkedmdb.org/resource/music_contributor/180> <http://data.linkedmdb.org/resource/movie/music_contributor_music_contributorid> "180"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/music_contributor/180> <http://www.w3.org/2000/01/rdf-schema#label> "Nobody (Music Contributor)" .
 <http://data.linkedmdb.org/resource/music_contributor/180> <http://data.linkedmdb.org/resource/movie/music_contributor_name> "Nobody" .
 <http://data.linkedmdb.org/resource/music_contributor/180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/music_contributor> .
 <http://data.linkedmdb.org/resource/music_contributor/180> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000f380ec> .
-<http://data.linkedmdb.org/resource/actor/36373> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/25385> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/25385> .
 <http://data.linkedmdb.org/resource/performance/25385> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/25385> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "25385"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/25385> <http://data.linkedmdb.org/resource/movie/performance_actor> "Hiroko Yakushimaru" .
-<http://data.linkedmdb.org/resource/performance/25385> <http://data.linkedmdb.org/resource/movie/performance_film> "Satomi Hakkenden" .
 <http://data.linkedmdb.org/resource/performance/25385> <http://www.w3.org/2000/01/rdf-schema#label> "performance #25385" .
 <http://data.linkedmdb.org/resource/performance/25385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/25385> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001117025> .
-<http://data.linkedmdb.org/resource/actor/34973> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/25386> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/25386> .
 <http://data.linkedmdb.org/resource/performance/25386> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/25386> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "25386"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/25386> <http://data.linkedmdb.org/resource/movie/performance_actor> "Hiroyuki Sanada" .
-<http://data.linkedmdb.org/resource/performance/25386> <http://data.linkedmdb.org/resource/movie/performance_film> "Satomi Hakkenden" .
 <http://data.linkedmdb.org/resource/performance/25386> <http://www.w3.org/2000/01/rdf-schema#label> "performance #25386" .
 <http://data.linkedmdb.org/resource/performance/25386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/25386> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000111702a> .
-<http://data.linkedmdb.org/resource/actor/32168> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/25387> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/25387> .
 <http://data.linkedmdb.org/resource/performance/25387> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/25387> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "25387"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/25387> <http://data.linkedmdb.org/resource/movie/performance_film> "Satomi Hakkenden" .
 <http://data.linkedmdb.org/resource/performance/25387> <http://data.linkedmdb.org/resource/movie/performance_actor> "Sonny Chiba" .
 <http://data.linkedmdb.org/resource/performance/25387> <http://www.w3.org/2000/01/rdf-schema#label> "performance #25387" .
 <http://data.linkedmdb.org/resource/performance/25387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/25387> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000111702f> .
-<http://data.linkedmdb.org/resource/actor/44257> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/87740> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/87740> .
 <http://data.linkedmdb.org/resource/performance/87740> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/87740> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "87740"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/87740> <http://data.linkedmdb.org/resource/movie/performance_actor> "Mari Natsuki" .
-<http://data.linkedmdb.org/resource/performance/87740> <http://data.linkedmdb.org/resource/movie/performance_film> "Satomi Hakkenden" .
 <http://data.linkedmdb.org/resource/performance/87740> <http://www.w3.org/2000/01/rdf-schema#label> "performance #87740" .
 <http://data.linkedmdb.org/resource/performance/87740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/87740> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000070c65b7> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/14066> .
 <http://data.linkedmdb.org/resource/producer/14066> <http://data.linkedmdb.org/resource/movie/producer_producerid> "14066"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/14066> <http://www.w3.org/2000/01/rdf-schema#label> "Haruki Kadokawa (Producer)" .
 <http://data.linkedmdb.org/resource/producer/14066> <http://data.linkedmdb.org/resource/movie/producer_name> "Haruki Kadokawa" .
 <http://data.linkedmdb.org/resource/producer/14066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/14066> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000007d959cb> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/4154> .
 <http://data.linkedmdb.org/resource/producer/4154> <http://data.linkedmdb.org/resource/movie/producer_producerid> "4154"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/4154> <http://www.w3.org/2000/01/rdf-schema#label> "Haruki Kadokawa (Producer)" .
 <http://data.linkedmdb.org/resource/producer/4154> <http://data.linkedmdb.org/resource/movie/producer_name> "Haruki Kadokawa" .
 <http://data.linkedmdb.org/resource/producer/4154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/4154> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000011136bf> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/14150> .
 <http://data.linkedmdb.org/resource/writer/14150> <http://data.linkedmdb.org/resource/movie/writer_writerid> "14150"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/14150> <http://www.w3.org/2000/01/rdf-schema#label> "Kinji Fukasaku (Writer)" .
 <http://data.linkedmdb.org/resource/writer/14150> <http://data.linkedmdb.org/resource/movie/writer_name> "Kinji Fukasaku" .
 <http://data.linkedmdb.org/resource/writer/14150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/14150> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000001bff3f> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/4410> .
 <http://data.linkedmdb.org/resource/writer/4410> <http://data.linkedmdb.org/resource/movie/writer_writerid> "4410"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/4410> <http://www.w3.org/2000/01/rdf-schema#label> "Toshio Kamata (Writer)" .
 <http://data.linkedmdb.org/resource/writer/4410> <http://data.linkedmdb.org/resource/movie/writer_name> "Toshio Kamata" .
@@ -1291,7 +1259,6 @@
 <http://data.linkedmdb.org/resource/writer/4410> <http://www.w3.org/2000/01/rdf-schema#SeeAlso> <http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Toshio+Kamata> .
 <http://data.linkedmdb.org/resource/interlink/61136> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1861060/> .
 <http://data.linkedmdb.org/resource/interlink/61271> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/1861060/> .
-<http://data.linkedmdb.org/resource/country/JP> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/1861060/> .
 <http://data.linkedmdb.org/resource/film/12047> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1861060/> .
 <http://data.linkedmdb.org/resource/film/12442> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1861060/> .
 <http://data.linkedmdb.org/resource/film/12443> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1861060/> .
@@ -1317,13 +1284,10 @@
 <http://data.linkedmdb.org/resource/film/44686> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1861060/> .
 <http://data.linkedmdb.org/resource/film/49130> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1861060/> .
 <http://data.linkedmdb.org/resource/film/49842> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1861060/> .
-<http://data.linkedmdb.org/resource/film/6191> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1861060/> .
 <http://data.linkedmdb.org/resource/film/6623> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1861060/> .
 <http://data.linkedmdb.org/resource/film/6675> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1861060/> .
 <http://data.linkedmdb.org/resource/film/6900> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1861060/> .
 <http://data.linkedmdb.org/resource/film/723> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1861060/> .
-<http://data.linkedmdb.org/resource/film/6191> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000abf0a2> .
-<http://data.linkedmdb.org/resource/film/6191> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0086244> .
 <http://data.linkedmdb.org/resource/film/12442> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/12443> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/13386> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
@@ -1346,7 +1310,6 @@
 <http://data.linkedmdb.org/resource/film/3848> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
-<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/6623> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/6675> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/film/723> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
@@ -1356,4 +1319,3 @@
 <http://data.linkedmdb.org/resource/interlink/137396> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/interlink/137895> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/ja> .
 <http://data.linkedmdb.org/resource/interlink/139288> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/ja> .
-<http://data.linkedmdb.org/resource/film/6191> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0086244> .

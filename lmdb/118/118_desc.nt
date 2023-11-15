@@ -29,19 +29,14 @@
 <http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/7348> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0085247> .
 <http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/runtime> "100" .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/runtime> "100" .
 <http://data.linkedmdb.org/resource/film_cut/872> <http://data.linkedmdb.org/resource/movie/runtime> "100" .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1983" .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/filmid> "7348"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/159456> <http://data.linkedmdb.org/resource/movie/performance_film> "Bill: On His Own" .
 <http://data.linkedmdb.org/resource/performance/4367> <http://data.linkedmdb.org/resource/movie/performance_film> "Bill: On His Own" .
 <http://data.linkedmdb.org/resource/performance/4368> <http://data.linkedmdb.org/resource/movie/performance_film> "Bill: On His Own" .
 <http://data.linkedmdb.org/resource/performance/4369> <http://data.linkedmdb.org/resource/movie/performance_film> "Bill: On His Own" .
 <http://data.linkedmdb.org/resource/performance/4370> <http://data.linkedmdb.org/resource/movie/performance_film> "Bill: On His Own" .
 <http://data.linkedmdb.org/resource/performance/4371> <http://data.linkedmdb.org/resource/movie/performance_film> "Bill: On His Own" .
-<http://data.linkedmdb.org/resource/film/7348> <http://purl.org/dc/terms/title> "Bill: On His Own" .
 <http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29477> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29477> .
 <http://data.linkedmdb.org/resource/actor/29477> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/29477> <http://data.linkedmdb.org/resource/movie/actor_actorid> "29477"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/29477> <http://www.w3.org/2000/01/rdf-schema#label> "Gary Busey (Actor)" .
@@ -95,7 +90,6 @@
 <http://data.linkedmdb.org/resource/actor/29477> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/985> .
 <http://data.linkedmdb.org/resource/actor/29477> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000001b303> .
 <http://data.linkedmdb.org/resource/actor/29477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29778> .
 <http://data.linkedmdb.org/resource/actor/29778> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/29778> <http://data.linkedmdb.org/resource/movie/actor_actorid> "29778"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/29778> <http://www.w3.org/2000/01/rdf-schema#label> "Helen Hunt (Actor)" .
@@ -127,7 +121,6 @@
 <http://data.linkedmdb.org/resource/actor/29778> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000000591a4> .
 <http://data.linkedmdb.org/resource/actor/29778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30114> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30114> .
 <http://data.linkedmdb.org/resource/actor/30114> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/30114> <http://data.linkedmdb.org/resource/movie/actor_actorid> "30114"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/30114> <http://www.w3.org/2000/01/rdf-schema#label> "Mickey Rooney (Actor)" .
@@ -213,7 +206,6 @@
 <http://data.linkedmdb.org/resource/actor/30114> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000098296> .
 <http://data.linkedmdb.org/resource/actor/30114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/15764> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30837> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30837> .
 <http://data.linkedmdb.org/resource/actor/30837> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/30837> <http://data.linkedmdb.org/resource/movie/actor_actorid> "30837"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/30837> <http://www.w3.org/2000/01/rdf-schema#label> "Teresa Wright (Actor)" .
@@ -244,7 +236,6 @@
 <http://data.linkedmdb.org/resource/actor/30837> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000145ae9> .
 <http://data.linkedmdb.org/resource/actor/30837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/49090> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38081> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38081> .
 <http://data.linkedmdb.org/resource/actor/38081> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/38081> <http://data.linkedmdb.org/resource/movie/actor_actorid> "38081"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/38081> <http://www.w3.org/2000/01/rdf-schema#label> "Edie McClurg (Actor)" .
@@ -265,7 +256,6 @@
 <http://data.linkedmdb.org/resource/actor/38081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/1848> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/46165> .
 <http://data.linkedmdb.org/resource/film/40536> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/46165> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/46165> .
 <http://data.linkedmdb.org/resource/actor/46165> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/46165> <http://data.linkedmdb.org/resource/movie/actor_actorid> "46165"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/46165> <http://www.w3.org/2000/01/rdf-schema#label> "Tracey Walter (Actor)" .
@@ -298,7 +288,6 @@
 <http://data.linkedmdb.org/resource/film/6778> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/15854> .
 <http://data.linkedmdb.org/resource/film/71277> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/15854> .
 <http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/15854> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/15854> .
 <http://data.linkedmdb.org/resource/film/80362> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/15854> .
 <http://data.linkedmdb.org/resource/director/15854> <http://data.linkedmdb.org/resource/movie/director_directorid> "15854"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/director/15854> <http://www.w3.org/2000/01/rdf-schema#label> "Anthony Page (Director)" .
@@ -312,28 +301,21 @@
 <http://data.linkedmdb.org/resource/director/15854> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/6778> .
 <http://data.linkedmdb.org/resource/director/15854> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/71277> .
 <http://data.linkedmdb.org/resource/director/15854> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/7347> .
-<http://data.linkedmdb.org/resource/director/15854> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/7348> .
 <http://data.linkedmdb.org/resource/director/15854> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/80362> .
 <http://data.linkedmdb.org/resource/director/15854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/15854> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000087d015c> .
 <http://data.linkedmdb.org/resource/director/15854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/7347> .
 <http://data.linkedmdb.org/resource/interlink/140208> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/7347> .
 <http://data.linkedmdb.org/resource/interlink/21877> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/7347> .
 <http://data.linkedmdb.org/resource/interlink/3344> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/7347> .
 <http://data.linkedmdb.org/resource/interlink/40410> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/7347> .
-<http://data.linkedmdb.org/resource/director/15854> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/7347> .
-<http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/runtime> "100" .
 <http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1981" .
 <http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/filmid> "7347"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film/7347> <http://purl.org/dc/terms/title> "Bill" .
 <http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/2345> .
-<http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30114> .
 <http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31644> .
 <http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32248> .
 <http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/42109> .
-<http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/15854> .
-<http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/7348> .
 <http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/868> .
 <http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/30> .
 <http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
@@ -353,8 +335,6 @@
 <http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/7347> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0082075> .
 <http://data.linkedmdb.org/resource/film/7347> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Bill_(film)> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/872> .
-<http://data.linkedmdb.org/resource/film_cut/872> <http://data.linkedmdb.org/resource/movie/runtime> "100" .
 <http://data.linkedmdb.org/resource/film_cut/872> <http://data.linkedmdb.org/resource/movie/film_cut_film_cutid> "872"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film_cut/872> <http://www.w3.org/2000/01/rdf-schema#label> "Film Cut #872" .
 <http://data.linkedmdb.org/resource/film_cut/872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film_cut> .
@@ -362,8 +342,6 @@
 <http://data.linkedmdb.org/resource/film/1040> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/30> .
 <http://data.linkedmdb.org/resource/film/1773> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/30> .
 <http://data.linkedmdb.org/resource/film/341> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/30> .
-<http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/30> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/30> .
 <http://data.linkedmdb.org/resource/film/9082> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/30> .
 <http://data.linkedmdb.org/resource/film_genre/30> <http://data.linkedmdb.org/resource/movie/film_genre_film_genreid> "30"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/film_genre/30> <http://www.w3.org/2000/01/rdf-schema#label> "Biographical (Film Genre)" .
@@ -421,8 +399,6 @@
 <http://data.linkedmdb.org/resource/film/6852> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
 <http://data.linkedmdb.org/resource/film/6900> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
 <http://data.linkedmdb.org/resource/film/72> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
-<http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
 <http://data.linkedmdb.org/resource/film/734> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
 <http://data.linkedmdb.org/resource/film/812> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
 <http://data.linkedmdb.org/resource/film/8292> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
@@ -1200,8 +1176,6 @@
 <http://data.linkedmdb.org/resource/film/728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/73281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/73597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/73676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1400,70 +1374,48 @@
 <http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/actor/29477> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/159456> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/159456> .
 <http://data.linkedmdb.org/resource/performance/159456> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/159456> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "159456"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/159456> <http://data.linkedmdb.org/resource/movie/performance_film> "Bill: On His Own" .
 <http://data.linkedmdb.org/resource/performance/159456> <http://data.linkedmdb.org/resource/movie/performance_actor> "Gary Busey" .
 <http://data.linkedmdb.org/resource/performance/159456> <http://www.w3.org/2000/01/rdf-schema#label> "performance #159456" .
 <http://data.linkedmdb.org/resource/performance/159456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/159456> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000b93ba58> .
-<http://data.linkedmdb.org/resource/actor/30114> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4367> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4367> .
 <http://data.linkedmdb.org/resource/performance/4367> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4367> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4367"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/4367> <http://data.linkedmdb.org/resource/movie/performance_film> "Bill: On His Own" .
 <http://data.linkedmdb.org/resource/performance/4367> <http://data.linkedmdb.org/resource/movie/performance_actor> "Mickey Rooney" .
 <http://data.linkedmdb.org/resource/performance/4367> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4367" .
 <http://data.linkedmdb.org/resource/performance/4367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4367> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d2f19> .
-<http://data.linkedmdb.org/resource/actor/29778> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4368> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4368> .
 <http://data.linkedmdb.org/resource/performance/4368> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4368> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4368"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/4368> <http://data.linkedmdb.org/resource/movie/performance_film> "Bill: On His Own" .
 <http://data.linkedmdb.org/resource/performance/4368> <http://data.linkedmdb.org/resource/movie/performance_actor> "Helen Hunt" .
 <http://data.linkedmdb.org/resource/performance/4368> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4368" .
 <http://data.linkedmdb.org/resource/performance/4368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4368> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d2f1e> .
-<http://data.linkedmdb.org/resource/actor/38081> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4369> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4369> .
 <http://data.linkedmdb.org/resource/performance/4369> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4369> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4369"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/4369> <http://data.linkedmdb.org/resource/movie/performance_film> "Bill: On His Own" .
 <http://data.linkedmdb.org/resource/performance/4369> <http://data.linkedmdb.org/resource/movie/performance_actor> "Edie McClurg" .
 <http://data.linkedmdb.org/resource/performance/4369> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4369" .
 <http://data.linkedmdb.org/resource/performance/4369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4369> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d2f23> .
-<http://data.linkedmdb.org/resource/actor/46165> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4370> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4370> .
 <http://data.linkedmdb.org/resource/performance/4370> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4370> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4370"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/4370> <http://data.linkedmdb.org/resource/movie/performance_film> "Bill: On His Own" .
 <http://data.linkedmdb.org/resource/performance/4370> <http://data.linkedmdb.org/resource/movie/performance_actor> "Tracey Walter" .
 <http://data.linkedmdb.org/resource/performance/4370> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4370" .
 <http://data.linkedmdb.org/resource/performance/4370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4370> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d2f28> .
-<http://data.linkedmdb.org/resource/actor/30837> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4371> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/4371> .
 <http://data.linkedmdb.org/resource/performance/4371> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/4371> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "4371"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/4371> <http://data.linkedmdb.org/resource/movie/performance_film> "Bill: On His Own" .
 <http://data.linkedmdb.org/resource/performance/4371> <http://data.linkedmdb.org/resource/movie/performance_actor> "Teresa Wright" .
 <http://data.linkedmdb.org/resource/performance/4371> <http://www.w3.org/2000/01/rdf-schema#label> "performance #4371" .
 <http://data.linkedmdb.org/resource/performance/4371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/4371> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d2f2d> .
-<http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1389> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1389> .
 <http://data.linkedmdb.org/resource/writer/1389> <http://data.linkedmdb.org/resource/movie/writer_writerid> "1389"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/1389> <http://www.w3.org/2000/01/rdf-schema#label> "Barry Morrow (Writer)" .
 <http://data.linkedmdb.org/resource/writer/1389> <http://data.linkedmdb.org/resource/movie/writer_name> "Barry Morrow" .
 <http://data.linkedmdb.org/resource/writer/1389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/1389> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d2e53> .
 <http://data.linkedmdb.org/resource/writer/1389> <http://www.w3.org/2000/01/rdf-schema#SeeAlso> <http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Barry+Morrow> .
-<http://data.linkedmdb.org/resource/film/7348> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000c6ae93> .
-<http://data.linkedmdb.org/resource/film/7348> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0085247> .
 <http://data.linkedmdb.org/resource/film/10232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10289> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10336> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1685,8 +1637,6 @@
 <http://data.linkedmdb.org/resource/film/7238> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/728> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/72> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/7347> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/734> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/73> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/7489> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1829,34 +1779,4 @@
 <http://data.linkedmdb.org/resource/interlink/144445> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/144941> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/144960> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/145197> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/145301> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/145469> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/146023> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/146366> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/146709> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/147234> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/147295> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/147317> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/147480> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/148665> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/148748> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/148784> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/148889> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/148913> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149166> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149167> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149259> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149410> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149424> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149480> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149483> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149487> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149788> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/149789> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/150276> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/150533> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/151035> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/152117> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/interlink/152119> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/7348> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0085247> .
+<http://data.linkedmdb.org/resource/interlink/145197> <http:

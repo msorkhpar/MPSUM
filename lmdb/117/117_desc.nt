@@ -21,9 +21,7 @@
 <http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/197> .
 <http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/368> .
 <http://data.linkedmdb.org/resource/film/70866> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009f30a4b> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2006" .
 <http://data.linkedmdb.org/resource/film/74508> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2006" .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/filmid> "70866"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/144085> <http://data.linkedmdb.org/resource/movie/performance_film> "Routine Check Ups 4" .
 <http://data.linkedmdb.org/resource/performance/144086> <http://data.linkedmdb.org/resource/movie/performance_film> "Routine Check Ups 4" .
 <http://data.linkedmdb.org/resource/performance/144087> <http://data.linkedmdb.org/resource/movie/performance_film> "Routine Check Ups 4" .
@@ -31,8 +29,6 @@
 <http://data.linkedmdb.org/resource/performance/144089> <http://data.linkedmdb.org/resource/movie/performance_film> "Routine Check Ups 4" .
 <http://data.linkedmdb.org/resource/performance/144090> <http://data.linkedmdb.org/resource/movie/performance_film> "Routine Check Ups 4" .
 <http://data.linkedmdb.org/resource/performance/144091> <http://data.linkedmdb.org/resource/movie/performance_film> "Routine Check Ups 4" .
-<http://data.linkedmdb.org/resource/film/70866> <http://purl.org/dc/terms/title> "Routine Check Ups 4" .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/59932> .
 <http://data.linkedmdb.org/resource/actor/59932> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/59932> <http://data.linkedmdb.org/resource/movie/actor_actorid> "59932"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/59932> <http://www.w3.org/2000/01/rdf-schema#label> "Jason Raze (Actor)" .
@@ -61,7 +57,6 @@
 <http://data.linkedmdb.org/resource/actor/59932> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/151035> .
 <http://data.linkedmdb.org/resource/actor/59932> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009e90cee> .
 <http://data.linkedmdb.org/resource/actor/59932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/59936> .
 <http://data.linkedmdb.org/resource/actor/59936> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/59936> <http://data.linkedmdb.org/resource/movie/actor_actorid> "59936"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/59936> <http://www.w3.org/2000/01/rdf-schema#label> "Johnny Roark (Actor)" .
@@ -74,7 +69,6 @@
 <http://data.linkedmdb.org/resource/actor/59936> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144091> .
 <http://data.linkedmdb.org/resource/actor/59936> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009e97fa8> .
 <http://data.linkedmdb.org/resource/actor/59936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/59938> .
 <http://data.linkedmdb.org/resource/actor/59938> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/59938> <http://data.linkedmdb.org/resource/movie/actor_actorid> "59938"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/59938> <http://www.w3.org/2000/01/rdf-schema#label> "Blaze Corgan (Actor)" .
@@ -95,7 +89,6 @@
 <http://data.linkedmdb.org/resource/actor/59938> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144900> .
 <http://data.linkedmdb.org/resource/actor/59938> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009e98125> .
 <http://data.linkedmdb.org/resource/actor/59938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/60309> .
 <http://data.linkedmdb.org/resource/actor/60309> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/60309> <http://data.linkedmdb.org/resource/movie/actor_actorid> "60309"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/60309> <http://www.w3.org/2000/01/rdf-schema#label> "Sean Corwin (Actor)" .
@@ -126,7 +119,6 @@
 <http://data.linkedmdb.org/resource/actor/60309> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/151039> .
 <http://data.linkedmdb.org/resource/actor/60309> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009f300cb> .
 <http://data.linkedmdb.org/resource/actor/60309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/60310> .
 <http://data.linkedmdb.org/resource/actor/60310> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/60310> <http://data.linkedmdb.org/resource/movie/actor_actorid> "60310"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/60310> <http://www.w3.org/2000/01/rdf-schema#label> "Cam Kurtz (Actor)" .
@@ -143,7 +135,6 @@
 <http://data.linkedmdb.org/resource/actor/60310> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/169388> .
 <http://data.linkedmdb.org/resource/actor/60310> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009f300e5> .
 <http://data.linkedmdb.org/resource/actor/60310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/60321> .
 <http://data.linkedmdb.org/resource/actor/60321> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/60321> <http://data.linkedmdb.org/resource/movie/actor_actorid> "60321"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/60321> <http://www.w3.org/2000/01/rdf-schema#label> "Josh Vonn (Actor)" .
@@ -162,7 +153,6 @@
 <http://data.linkedmdb.org/resource/actor/60321> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144905> .
 <http://data.linkedmdb.org/resource/actor/60321> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009f30554> .
 <http://data.linkedmdb.org/resource/actor/60321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/60322> .
 <http://data.linkedmdb.org/resource/actor/60322> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/60322> <http://data.linkedmdb.org/resource/movie/actor_actorid> "60322"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/60322> <http://www.w3.org/2000/01/rdf-schema#label> "J.J. Stone (Actor)" .
@@ -206,7 +196,6 @@
 <http://data.linkedmdb.org/resource/film/70863> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/812> .
 <http://data.linkedmdb.org/resource/film/70864> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/812> .
 <http://data.linkedmdb.org/resource/film/70865> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/812> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/812> .
 <http://data.linkedmdb.org/resource/film/70868> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/812> .
 <http://data.linkedmdb.org/resource/film/70871> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/812> .
 <http://data.linkedmdb.org/resource/film/70872> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/812> .
@@ -285,7 +274,6 @@
 <http://data.linkedmdb.org/resource/director/812> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/70863> .
 <http://data.linkedmdb.org/resource/director/812> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/70864> .
 <http://data.linkedmdb.org/resource/director/812> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/70865> .
-<http://data.linkedmdb.org/resource/director/812> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/70866> .
 <http://data.linkedmdb.org/resource/director/812> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/70868> .
 <http://data.linkedmdb.org/resource/director/812> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/70871> .
 <http://data.linkedmdb.org/resource/director/812> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/70872> .
@@ -1049,7 +1037,6 @@
 <http://data.linkedmdb.org/resource/film/70863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/70864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/70865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/70866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/70868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/70871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/70872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1294,79 +1281,55 @@
 <http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/actor/60310> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144085> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144085> .
 <http://data.linkedmdb.org/resource/performance/144085> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/144085> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "144085"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/144085> <http://data.linkedmdb.org/resource/movie/performance_actor> "Cam Kurtz" .
-<http://data.linkedmdb.org/resource/performance/144085> <http://data.linkedmdb.org/resource/movie/performance_film> "Routine Check Ups 4" .
 <http://data.linkedmdb.org/resource/performance/144085> <http://www.w3.org/2000/01/rdf-schema#label> "performance #144085" .
 <http://data.linkedmdb.org/resource/performance/144085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/144085> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009f30a7c> .
-<http://data.linkedmdb.org/resource/actor/60321> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144086> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144086> .
 <http://data.linkedmdb.org/resource/performance/144086> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/144086> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "144086"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/144086> <http://data.linkedmdb.org/resource/movie/performance_actor> "Josh Vonn" .
-<http://data.linkedmdb.org/resource/performance/144086> <http://data.linkedmdb.org/resource/movie/performance_film> "Routine Check Ups 4" .
 <http://data.linkedmdb.org/resource/performance/144086> <http://www.w3.org/2000/01/rdf-schema#label> "performance #144086" .
 <http://data.linkedmdb.org/resource/performance/144086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/144086> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009f30a81> .
-<http://data.linkedmdb.org/resource/actor/59932> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144087> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144087> .
 <http://data.linkedmdb.org/resource/performance/144087> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/144087> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "144087"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/144087> <http://data.linkedmdb.org/resource/movie/performance_actor> "Jason Raze" .
-<http://data.linkedmdb.org/resource/performance/144087> <http://data.linkedmdb.org/resource/movie/performance_film> "Routine Check Ups 4" .
 <http://data.linkedmdb.org/resource/performance/144087> <http://www.w3.org/2000/01/rdf-schema#label> "performance #144087" .
 <http://data.linkedmdb.org/resource/performance/144087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/144087> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009f30a86> .
-<http://data.linkedmdb.org/resource/actor/59938> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144088> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144088> .
 <http://data.linkedmdb.org/resource/performance/144088> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/144088> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "144088"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/144088> <http://data.linkedmdb.org/resource/movie/performance_actor> "Blaze Corgan" .
-<http://data.linkedmdb.org/resource/performance/144088> <http://data.linkedmdb.org/resource/movie/performance_film> "Routine Check Ups 4" .
 <http://data.linkedmdb.org/resource/performance/144088> <http://www.w3.org/2000/01/rdf-schema#label> "performance #144088" .
 <http://data.linkedmdb.org/resource/performance/144088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/144088> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009f30a8b> .
-<http://data.linkedmdb.org/resource/actor/60309> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144089> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144089> .
 <http://data.linkedmdb.org/resource/performance/144089> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/144089> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "144089"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/144089> <http://data.linkedmdb.org/resource/movie/performance_film> "Routine Check Ups 4" .
 <http://data.linkedmdb.org/resource/performance/144089> <http://data.linkedmdb.org/resource/movie/performance_actor> "Sean Corwin" .
 <http://data.linkedmdb.org/resource/performance/144089> <http://www.w3.org/2000/01/rdf-schema#label> "performance #144089" .
 <http://data.linkedmdb.org/resource/performance/144089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/144089> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009f30a90> .
-<http://data.linkedmdb.org/resource/actor/60322> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144090> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144090> .
 <http://data.linkedmdb.org/resource/performance/144090> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/144090> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "144090"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/144090> <http://data.linkedmdb.org/resource/movie/performance_actor> "J.J. Stone" .
-<http://data.linkedmdb.org/resource/performance/144090> <http://data.linkedmdb.org/resource/movie/performance_film> "Routine Check Ups 4" .
 <http://data.linkedmdb.org/resource/performance/144090> <http://www.w3.org/2000/01/rdf-schema#label> "performance #144090" .
 <http://data.linkedmdb.org/resource/performance/144090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/144090> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009f30a95> .
-<http://data.linkedmdb.org/resource/actor/59936> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144091> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/144091> .
 <http://data.linkedmdb.org/resource/performance/144091> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/144091> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "144091"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/144091> <http://data.linkedmdb.org/resource/movie/performance_actor> "Johnny Roark" .
-<http://data.linkedmdb.org/resource/performance/144091> <http://data.linkedmdb.org/resource/movie/performance_film> "Routine Check Ups 4" .
 <http://data.linkedmdb.org/resource/performance/144091> <http://www.w3.org/2000/01/rdf-schema#label> "performance #144091" .
 <http://data.linkedmdb.org/resource/performance/144091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/144091> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009f30a9a> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/197> .
 <http://data.linkedmdb.org/resource/production_company/197> <http://data.linkedmdb.org/resource/movie/production_company_production_companyid> "197"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/production_company/197> <http://www.w3.org/2000/01/rdf-schema#label> "1R Media (Production Company)" .
 <http://data.linkedmdb.org/resource/production_company/197> <http://data.linkedmdb.org/resource/movie/production_company_name> "1R Media" .
 <http://data.linkedmdb.org/resource/production_company/197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/production_company> .
 <http://data.linkedmdb.org/resource/production_company/197> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d045d> .
-<http://data.linkedmdb.org/resource/film/70866> <http://data.linkedmdb.org/resource/movie/production_company> <http://data.linkedmdb.org/resource/production_company/368> .
 <http://data.linkedmdb.org/resource/production_company/368> <http://data.linkedmdb.org/resource/movie/production_company_production_companyid> "368"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/production_company/368> <http://www.w3.org/2000/01/rdf-schema#label> "Xtreme Productions (Production Company)" .
 <http://data.linkedmdb.org/resource/production_company/368> <http://data.linkedmdb.org/resource/movie/production_company_name> "Xtreme Productions" .
 <http://data.linkedmdb.org/resource/production_company/368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/production_company> .
 <http://data.linkedmdb.org/resource/production_company/368> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009e917e1> .
-<http://data.linkedmdb.org/resource/film/70866> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000009f30a4b> .

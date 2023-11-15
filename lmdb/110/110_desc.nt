@@ -20,15 +20,11 @@
 <http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1354> .
 <http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/16174> .
 <http://data.linkedmdb.org/resource/film/41408> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000527d33> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1946-02-06" .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/filmid> "41408"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/35119> <http://data.linkedmdb.org/resource/movie/performance_film> "The Spiral Staircase" .
 <http://data.linkedmdb.org/resource/performance/35120> <http://data.linkedmdb.org/resource/movie/performance_film> "The Spiral Staircase" .
 <http://data.linkedmdb.org/resource/performance/35121> <http://data.linkedmdb.org/resource/movie/performance_film> "The Spiral Staircase" .
 <http://data.linkedmdb.org/resource/performance/35122> <http://data.linkedmdb.org/resource/movie/performance_film> "The Spiral Staircase" .
 <http://data.linkedmdb.org/resource/performance/35123> <http://data.linkedmdb.org/resource/movie/performance_film> "The Spiral Staircase" .
-<http://data.linkedmdb.org/resource/film/41408> <http://purl.org/dc/terms/title> "The Spiral Staircase" .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30867> .
 <http://data.linkedmdb.org/resource/actor/30867> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/30867> <http://data.linkedmdb.org/resource/movie/actor_actorid> "30867"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/30867> <http://www.w3.org/2000/01/rdf-schema#label> "Dorothy McGuire (Actor)" .
@@ -54,7 +50,6 @@
 <http://data.linkedmdb.org/resource/actor/30867> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/94281> .
 <http://data.linkedmdb.org/resource/actor/30867> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000148d3d> .
 <http://data.linkedmdb.org/resource/actor/30867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32009> .
 <http://data.linkedmdb.org/resource/actor/32009> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/32009> <http://data.linkedmdb.org/resource/movie/actor_actorid> "32009"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/32009> <http://www.w3.org/2000/01/rdf-schema#label> "Ethel Barrymore (Actor)" .
@@ -76,7 +71,6 @@
 <http://data.linkedmdb.org/resource/actor/32009> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/95847> .
 <http://data.linkedmdb.org/resource/actor/32009> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000020edcd> .
 <http://data.linkedmdb.org/resource/actor/32009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/33562> .
 <http://data.linkedmdb.org/resource/actor/33562> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/33562> <http://data.linkedmdb.org/resource/movie/actor_actorid> "33562"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/33562> <http://www.w3.org/2000/01/rdf-schema#label> "George Brent (Actor)" .
@@ -121,7 +115,6 @@
 <http://data.linkedmdb.org/resource/actor/33562> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/93004> .
 <http://data.linkedmdb.org/resource/actor/33562> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000031bf36> .
 <http://data.linkedmdb.org/resource/actor/33562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36306> .
 <http://data.linkedmdb.org/resource/actor/36306> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/36306> <http://data.linkedmdb.org/resource/movie/actor_actorid> "36306"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/36306> <http://www.w3.org/2000/01/rdf-schema#label> "Kent Smith (Actor)" .
@@ -142,7 +135,6 @@
 <http://data.linkedmdb.org/resource/actor/36306> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/91971> .
 <http://data.linkedmdb.org/resource/actor/36306> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000004ec4d4> .
 <http://data.linkedmdb.org/resource/actor/36306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36329> .
 <http://data.linkedmdb.org/resource/actor/36329> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/36329> <http://data.linkedmdb.org/resource/movie/actor_actorid> "36329"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/36329> <http://www.w3.org/2000/01/rdf-schema#label> "Rhonda Fleming (Actor)" .
@@ -175,7 +167,6 @@
 <http://data.linkedmdb.org/resource/film/2624> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8475> .
 <http://data.linkedmdb.org/resource/film/2835> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8475> .
 <http://data.linkedmdb.org/resource/film/2862> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8475> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8475> .
 <http://data.linkedmdb.org/resource/film/42300> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8475> .
 <http://data.linkedmdb.org/resource/film/43092> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8475> .
 <http://data.linkedmdb.org/resource/film/43538> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8475> .
@@ -202,7 +193,6 @@
 <http://data.linkedmdb.org/resource/director/8475> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2624> .
 <http://data.linkedmdb.org/resource/director/8475> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2835> .
 <http://data.linkedmdb.org/resource/director/8475> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2862> .
-<http://data.linkedmdb.org/resource/director/8475> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/41408> .
 <http://data.linkedmdb.org/resource/director/8475> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/42300> .
 <http://data.linkedmdb.org/resource/director/8475> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/43092> .
 <http://data.linkedmdb.org/resource/director/8475> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/43538> .
@@ -219,7 +209,6 @@
 <http://data.linkedmdb.org/resource/director/8475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/8475> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000034d51> .
 <http://data.linkedmdb.org/resource/director/8475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/29> .
 <http://data.linkedmdb.org/resource/editor/29> <http://data.linkedmdb.org/resource/movie/editor_editorid> "29"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/editor/29> <http://www.w3.org/2000/01/rdf-schema#label> "Harry W. Gerstad (Editor)" .
 <http://data.linkedmdb.org/resource/editor/29> <http://data.linkedmdb.org/resource/movie/editor_name> "Harry W. Gerstad" .
@@ -580,7 +569,6 @@
 <http://data.linkedmdb.org/resource/film/41086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/4108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/41317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/41408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/41505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/41524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/41573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1190,75 +1178,55 @@
 <http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5266> .
 <http://data.linkedmdb.org/resource/film/87696> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5266> .
 <http://data.linkedmdb.org/resource/music_contributor/5266> <http://data.linkedmdb.org/resource/movie/music_contributor_music_contributorid> "5266"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/music_contributor/5266> <http://www.w3.org/2000/01/rdf-schema#label> "Roy Webb (Music Contributor)" .
 <http://data.linkedmdb.org/resource/music_contributor/5266> <http://data.linkedmdb.org/resource/movie/music_contributor_name> "Roy Webb" .
 <http://data.linkedmdb.org/resource/music_contributor/5266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/music_contributor> .
 <http://data.linkedmdb.org/resource/music_contributor/5266> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000007fbafc> .
-<http://data.linkedmdb.org/resource/actor/30867> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/35119> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/35119> .
 <http://data.linkedmdb.org/resource/performance/35119> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/35119> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "35119"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/35119> <http://data.linkedmdb.org/resource/movie/performance_actor> "Dorothy McGuire" .
-<http://data.linkedmdb.org/resource/performance/35119> <http://data.linkedmdb.org/resource/movie/performance_film> "The Spiral Staircase" .
 <http://data.linkedmdb.org/resource/performance/35119> <http://www.w3.org/2000/01/rdf-schema#label> "performance #35119" .
 <http://data.linkedmdb.org/resource/performance/35119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/35119> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000011341ef> .
-<http://data.linkedmdb.org/resource/actor/33562> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/35120> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/35120> .
 <http://data.linkedmdb.org/resource/performance/35120> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/35120> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "35120"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/35120> <http://data.linkedmdb.org/resource/movie/performance_actor> "George Brent" .
-<http://data.linkedmdb.org/resource/performance/35120> <http://data.linkedmdb.org/resource/movie/performance_film> "The Spiral Staircase" .
 <http://data.linkedmdb.org/resource/performance/35120> <http://www.w3.org/2000/01/rdf-schema#label> "performance #35120" .
 <http://data.linkedmdb.org/resource/performance/35120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/35120> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000011341f4> .
-<http://data.linkedmdb.org/resource/actor/32009> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/35121> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/35121> .
 <http://data.linkedmdb.org/resource/performance/35121> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/35121> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "35121"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/35121> <http://data.linkedmdb.org/resource/movie/performance_actor> "Ethel Barrymore" .
-<http://data.linkedmdb.org/resource/performance/35121> <http://data.linkedmdb.org/resource/movie/performance_film> "The Spiral Staircase" .
 <http://data.linkedmdb.org/resource/performance/35121> <http://www.w3.org/2000/01/rdf-schema#label> "performance #35121" .
 <http://data.linkedmdb.org/resource/performance/35121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/35121> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000011341f9> .
-<http://data.linkedmdb.org/resource/actor/36306> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/35122> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/35122> .
 <http://data.linkedmdb.org/resource/performance/35122> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/35122> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "35122"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/35122> <http://data.linkedmdb.org/resource/movie/performance_actor> "Kent Smith" .
-<http://data.linkedmdb.org/resource/performance/35122> <http://data.linkedmdb.org/resource/movie/performance_film> "The Spiral Staircase" .
 <http://data.linkedmdb.org/resource/performance/35122> <http://www.w3.org/2000/01/rdf-schema#label> "performance #35122" .
 <http://data.linkedmdb.org/resource/performance/35122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/35122> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000011341fe> .
-<http://data.linkedmdb.org/resource/actor/36329> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/35123> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/35123> .
 <http://data.linkedmdb.org/resource/performance/35123> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/35123> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "35123"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/35123> <http://data.linkedmdb.org/resource/movie/performance_actor> "Rhonda Fleming" .
-<http://data.linkedmdb.org/resource/performance/35123> <http://data.linkedmdb.org/resource/movie/performance_film> "The Spiral Staircase" .
 <http://data.linkedmdb.org/resource/performance/35123> <http://www.w3.org/2000/01/rdf-schema#label> "performance #35123" .
 <http://data.linkedmdb.org/resource/performance/35123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/35123> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000001134203> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/10319> .
 <http://data.linkedmdb.org/resource/producer/10319> <http://data.linkedmdb.org/resource/movie/producer_producerid> "10319"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/10319> <http://www.w3.org/2000/01/rdf-schema#label> "Dore Schary (Producer)" .
 <http://data.linkedmdb.org/resource/producer/10319> <http://data.linkedmdb.org/resource/movie/producer_name> "Dore Schary" .
 <http://data.linkedmdb.org/resource/producer/10319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/10319> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000201f7c> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1354> .
 <http://data.linkedmdb.org/resource/writer/1354> <http://data.linkedmdb.org/resource/movie/writer_writerid> "1354"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/1354> <http://www.w3.org/2000/01/rdf-schema#label> "Mel Dinelli (Writer)" .
 <http://data.linkedmdb.org/resource/writer/1354> <http://data.linkedmdb.org/resource/movie/writer_name> "Mel Dinelli" .
 <http://data.linkedmdb.org/resource/writer/1354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/1354> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010d248e> .
 <http://data.linkedmdb.org/resource/writer/1354> <http://www.w3.org/2000/01/rdf-schema#SeeAlso> <http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Mel+Dinelli> .
-<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/16174> .
 <http://data.linkedmdb.org/resource/writer/16174> <http://data.linkedmdb.org/resource/movie/writer_writerid> "16174"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/16174> <http://www.w3.org/2000/01/rdf-schema#label> "Ethel Lina White (Writer)" .
 <http://data.linkedmdb.org/resource/writer/16174> <http://data.linkedmdb.org/resource/movie/writer_name> "Ethel Lina White" .
 <http://data.linkedmdb.org/resource/writer/16174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/writer> .
 <http://data.linkedmdb.org/resource/writer/16174> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000005f2a4c> .
-<http://data.linkedmdb.org/resource/film/41408> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000527d33> .

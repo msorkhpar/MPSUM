@@ -27,14 +27,11 @@
 <http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0758789> .
 <http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0758789> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/filmid> "7963"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/29131> <http://data.linkedmdb.org/resource/movie/performance_film> "The Aftermath" .
 <http://data.linkedmdb.org/resource/performance/29132> <http://data.linkedmdb.org/resource/movie/performance_film> "The Aftermath" .
 <http://data.linkedmdb.org/resource/performance/29133> <http://data.linkedmdb.org/resource/movie/performance_film> "The Aftermath" .
 <http://data.linkedmdb.org/resource/performance/29134> <http://data.linkedmdb.org/resource/movie/performance_film> "The Aftermath" .
 <http://data.linkedmdb.org/resource/performance/29135> <http://data.linkedmdb.org/resource/movie/performance_film> "The Aftermath" .
-<http://data.linkedmdb.org/resource/film/7963> <http://purl.org/dc/terms/title> "The Aftermath" .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31908> .
 <http://data.linkedmdb.org/resource/actor/31908> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/31908> <http://data.linkedmdb.org/resource/movie/actor_actorid> "31908"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/31908> <http://www.w3.org/2000/01/rdf-schema#label> "Toni Collette (Actor)" .
@@ -73,7 +70,6 @@
 <http://data.linkedmdb.org/resource/actor/31908> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/89568> .
 <http://data.linkedmdb.org/resource/actor/31908> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000001fd4d9> .
 <http://data.linkedmdb.org/resource/actor/31908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32015> .
 <http://data.linkedmdb.org/resource/actor/32015> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/32015> <http://data.linkedmdb.org/resource/movie/actor_actorid> "32015"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/32015> <http://www.w3.org/2000/01/rdf-schema#label> "Tim Roth (Actor)" .
@@ -120,7 +116,6 @@
 <http://data.linkedmdb.org/resource/actor/32015> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/94683> .
 <http://data.linkedmdb.org/resource/actor/32015> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000020f7d8> .
 <http://data.linkedmdb.org/resource/actor/32015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36466> .
 <http://data.linkedmdb.org/resource/actor/36466> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/36466> <http://data.linkedmdb.org/resource/movie/actor_actorid> "36466"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/36466> <http://www.w3.org/2000/01/rdf-schema#label> "Sophie Okonedo (Actor)" .
@@ -141,7 +136,6 @@
 <http://data.linkedmdb.org/resource/actor/36466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
 <http://data.linkedmdb.org/resource/film/19258> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/37594> .
 <http://data.linkedmdb.org/resource/film/39279> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/37594> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/37594> .
 <http://data.linkedmdb.org/resource/actor/37594> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/37594> <http://data.linkedmdb.org/resource/movie/actor_actorid> "37594"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/37594> <http://www.w3.org/2000/01/rdf-schema#label> "Chiwetel Ejiofor (Actor)" .
@@ -169,7 +163,6 @@
 <http://data.linkedmdb.org/resource/actor/37594> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/87977> .
 <http://data.linkedmdb.org/resource/actor/37594> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000005d639e> .
 <http://data.linkedmdb.org/resource/actor/37594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/37715> .
 <http://data.linkedmdb.org/resource/actor/37715> <http://data.linkedmdb.org/resource/movie/actor_netflix_id> "" .
 <http://data.linkedmdb.org/resource/actor/37715> <http://data.linkedmdb.org/resource/movie/actor_actorid> "37715"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/actor/37715> <http://www.w3.org/2000/01/rdf-schema#label> "Hugh Bonneville (Actor)" .
@@ -191,7 +184,6 @@
 <http://data.linkedmdb.org/resource/actor/37715> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/91149> .
 <http://data.linkedmdb.org/resource/actor/37715> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000005e962d> .
 <http://data.linkedmdb.org/resource/actor/37715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/cinematographer> <http://data.linkedmdb.org/resource/cinematographer/692> .
 <http://data.linkedmdb.org/resource/cinematographer/692> <http://data.linkedmdb.org/resource/movie/cinematographer_cinematographerid> "692"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/cinematographer/692> <http://www.w3.org/2000/01/rdf-schema#label> "John de Borman (Cinematographer)" .
 <http://data.linkedmdb.org/resource/cinematographer/692> <http://data.linkedmdb.org/resource/movie/cinematographer_name> "John de Borman" .
@@ -255,7 +247,6 @@
 <http://data.linkedmdb.org/resource/film/6900> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/GB> .
 <http://data.linkedmdb.org/resource/film/7069> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/GB> .
 <http://data.linkedmdb.org/resource/film/7923> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/GB> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/GB> .
 <http://data.linkedmdb.org/resource/film/900> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/GB> .
 <http://data.linkedmdb.org/resource/film/9082> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/GB> .
 <http://data.linkedmdb.org/resource/film/9937> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/GB> .
@@ -277,7 +268,6 @@
 <http://data.linkedmdb.org/resource/film/1529> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/11682> .
 <http://data.linkedmdb.org/resource/film/15814> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/11682> .
 <http://data.linkedmdb.org/resource/film/16226> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/11682> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/11682> .
 <http://data.linkedmdb.org/resource/film/9937> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/11682> .
 <http://data.linkedmdb.org/resource/director/11682> <http://data.linkedmdb.org/resource/movie/director_directorid> "11682"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/director/11682> <http://www.w3.org/2000/01/rdf-schema#label> "Bharat Nalluri (Director)" .
@@ -285,12 +275,10 @@
 <http://data.linkedmdb.org/resource/director/11682> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/1529> .
 <http://data.linkedmdb.org/resource/director/11682> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/15814> .
 <http://data.linkedmdb.org/resource/director/11682> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/16226> .
-<http://data.linkedmdb.org/resource/director/11682> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/7963> .
 <http://data.linkedmdb.org/resource/director/11682> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/9937> .
 <http://data.linkedmdb.org/resource/director/11682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
 <http://data.linkedmdb.org/resource/director/11682> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000009c08cf> .
 <http://data.linkedmdb.org/resource/director/11682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/1709> .
 <http://data.linkedmdb.org/resource/editor/1709> <http://data.linkedmdb.org/resource/movie/editor_editorid> "1709"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/editor/1709> <http://www.w3.org/2000/01/rdf-schema#label> "Barney Pilling (Editor)" .
 <http://data.linkedmdb.org/resource/editor/1709> <http://data.linkedmdb.org/resource/movie/editor_name> "Barney Pilling" .
@@ -1110,7 +1098,6 @@
 <http://data.linkedmdb.org/resource/film/78974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/7897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/7923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/film/7963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/7969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/7970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/80362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
@@ -1261,58 +1248,41 @@
 <http://data.linkedmdb.org/resource/film/9911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
 <http://data.linkedmdb.org/resource/film/9937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
-<http://data.linkedmdb.org/resource/actor/32015> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/29131> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/29131> .
 <http://data.linkedmdb.org/resource/performance/29131> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/29131> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "29131"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/29131> <http://data.linkedmdb.org/resource/movie/performance_film> "The Aftermath" .
 <http://data.linkedmdb.org/resource/performance/29131> <http://data.linkedmdb.org/resource/movie/performance_actor> "Tim Roth" .
 <http://data.linkedmdb.org/resource/performance/29131> <http://www.w3.org/2000/01/rdf-schema#label> "performance #29131" .
 <http://data.linkedmdb.org/resource/performance/29131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/29131> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000011224bb> .
-<http://data.linkedmdb.org/resource/actor/31908> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/29132> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/29132> .
 <http://data.linkedmdb.org/resource/performance/29132> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/29132> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "29132"^^<http://www.w3.org/2001/XMLSchema#int> .
-<http://data.linkedmdb.org/resource/performance/29132> <http://data.linkedmdb.org/resource/movie/performance_film> "The Aftermath" .
 <http://data.linkedmdb.org/resource/performance/29132> <http://data.linkedmdb.org/resource/movie/performance_actor> "Toni Collette" .
 <http://data.linkedmdb.org/resource/performance/29132> <http://www.w3.org/2000/01/rdf-schema#label> "performance #29132" .
 <http://data.linkedmdb.org/resource/performance/29132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/29132> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000011224c0> .
-<http://data.linkedmdb.org/resource/actor/37715> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/29133> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/29133> .
 <http://data.linkedmdb.org/resource/performance/29133> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/29133> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "29133"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/29133> <http://data.linkedmdb.org/resource/movie/performance_actor> "Hugh Bonneville" .
-<http://data.linkedmdb.org/resource/performance/29133> <http://data.linkedmdb.org/resource/movie/performance_film> "The Aftermath" .
 <http://data.linkedmdb.org/resource/performance/29133> <http://www.w3.org/2000/01/rdf-schema#label> "performance #29133" .
 <http://data.linkedmdb.org/resource/performance/29133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/29133> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000011224c5> .
-<http://data.linkedmdb.org/resource/actor/37594> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/29134> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/29134> .
 <http://data.linkedmdb.org/resource/performance/29134> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/29134> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "29134"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/29134> <http://data.linkedmdb.org/resource/movie/performance_actor> "Chiwetel Ejiofor" .
-<http://data.linkedmdb.org/resource/performance/29134> <http://data.linkedmdb.org/resource/movie/performance_film> "The Aftermath" .
 <http://data.linkedmdb.org/resource/performance/29134> <http://www.w3.org/2000/01/rdf-schema#label> "performance #29134" .
 <http://data.linkedmdb.org/resource/performance/29134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/29134> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000011224ca> .
-<http://data.linkedmdb.org/resource/actor/36466> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/29135> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/29135> .
 <http://data.linkedmdb.org/resource/performance/29135> <http://data.linkedmdb.org/resource/movie/performance_character> "" .
 <http://data.linkedmdb.org/resource/performance/29135> <http://data.linkedmdb.org/resource/movie/performance_performanceid> "29135"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/performance/29135> <http://data.linkedmdb.org/resource/movie/performance_actor> "Sophie Okonedo" .
-<http://data.linkedmdb.org/resource/performance/29135> <http://data.linkedmdb.org/resource/movie/performance_film> "The Aftermath" .
 <http://data.linkedmdb.org/resource/performance/29135> <http://www.w3.org/2000/01/rdf-schema#label> "performance #29135" .
 <http://data.linkedmdb.org/resource/performance/29135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/performance> .
 <http://data.linkedmdb.org/resource/performance/29135> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000011224cf> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/997> .
 <http://data.linkedmdb.org/resource/producer/997> <http://data.linkedmdb.org/resource/movie/producer_producerid> "997"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/producer/997> <http://www.w3.org/2000/01/rdf-schema#label> "Finola Dwyer (Producer)" .
 <http://data.linkedmdb.org/resource/producer/997> <http://data.linkedmdb.org/resource/movie/producer_name> "Finola Dwyer" .
 <http://data.linkedmdb.org/resource/producer/997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/producer> .
 <http://data.linkedmdb.org/resource/producer/997> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000010cf538> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/4850> .
 <http://data.linkedmdb.org/resource/writer/4850> <http://data.linkedmdb.org/resource/movie/writer_writerid> "4850"^^<http://www.w3.org/2001/XMLSchema#int> .
 <http://data.linkedmdb.org/resource/writer/4850> <http://www.w3.org/2000/01/rdf-schema#label> "Abi Morgan (Writer)" .
 <http://data.linkedmdb.org/resource/writer/4850> <http://data.linkedmdb.org/resource/movie/writer_name> "Abi Morgan" .
@@ -1335,7 +1305,6 @@
 <http://data.linkedmdb.org/resource/interlink/63972> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/2635167/> .
 <http://data.linkedmdb.org/resource/interlink/64109> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/2635167/> .
 <http://data.linkedmdb.org/resource/interlink/64239> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://sws.geonames.org/2635167/> .
-<http://data.linkedmdb.org/resource/country/GB> <http://www.w3.org/2002/07/owl#sameAs> <http://sws.geonames.org/2635167/> .
 <http://data.linkedmdb.org/resource/film/10336> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2635167/> .
 <http://data.linkedmdb.org/resource/film/10692> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2635167/> .
 <http://data.linkedmdb.org/resource/film/12618> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2635167/> .
@@ -1393,12 +1362,9 @@
 <http://data.linkedmdb.org/resource/film/6900> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2635167/> .
 <http://data.linkedmdb.org/resource/film/7069> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2635167/> .
 <http://data.linkedmdb.org/resource/film/7923> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2635167/> .
-<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2635167/> .
 <http://data.linkedmdb.org/resource/film/900> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2635167/> .
 <http://data.linkedmdb.org/resource/film/9082> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2635167/> .
 <http://data.linkedmdb.org/resource/film/9937> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2635167/> .
-<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000d192d4> .
-<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0758789> .
 <http://data.linkedmdb.org/resource/film/10232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10289> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/10336> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1628,7 +1594,6 @@
 <http://data.linkedmdb.org/resource/film/755> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/7802> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/7923> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/826> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/8292> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/film/82> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
@@ -1794,4 +1759,3 @@
 <http://data.linkedmdb.org/resource/interlink/151035> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/152117> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
 <http://data.linkedmdb.org/resource/interlink/152119> <http://data.linkedmdb.org/resource/oddlinker/link_target> <http://www.lingvoj.org/lingvo/en> .
-<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0758789> .
