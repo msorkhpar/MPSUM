@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/2000/01/rdf-schema#label> "Yayoidai Station"@en .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/servingRailwayLine> <http://dbpedia.org/resource/Sagami_Railway_Izumino_Line> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/postalCode> "245-0008" .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/address> "神奈川県 横浜市泉区弥生台５－２"@ja .

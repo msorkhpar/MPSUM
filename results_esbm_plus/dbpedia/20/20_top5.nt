@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Triathlon_at_the_2004_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/nextEvent> <http://dbpedia.org/resource/Triathlon_at_the_2004_Summer_Olympics_–_Men's> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/silverMedalist> <http://dbpedia.org/resource/Stephan_Vuckovic> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/goldMedalist> <http://dbpedia.org/resource/Simon_Whitfield> .

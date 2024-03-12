@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/elevation> "3417.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/prominence> "761.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Fleckistock> <http://www.w3.org/2000/01/rdf-schema#label> "Fleckistock"@en .
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Sustenhorn.b.Oct.2010.JPG?width=300> .
+<http://dbpedia.org/resource/Rorspitzli> <http://dbpedia.org/ontology/parentMountainPeak> <http://dbpedia.org/resource/Fleckistock> .

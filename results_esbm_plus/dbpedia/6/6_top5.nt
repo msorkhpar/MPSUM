@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/2000/01/rdf-schema#label> "E. K. Mawlong"@en .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://xmlns.com/foaf/0.1/name> "E.K. Mawlong"@en .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/birthYear> "1946"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/deathYear> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .

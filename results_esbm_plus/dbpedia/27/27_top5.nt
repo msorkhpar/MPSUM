@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/areaCode> "04623" .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/postalCode> "24860" .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/Schleswig-Flensburg> .

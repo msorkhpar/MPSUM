@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/2117> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/5089> .
+<http://data.linkedmdb.org/resource/interlink/20959> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5089> .
+<http://data.linkedmdb.org/resource/director/13995> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/5089> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1946" .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/runtime> "91" .

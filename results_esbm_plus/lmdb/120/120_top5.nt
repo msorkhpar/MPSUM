@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/5652> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/8446> .
+<http://data.linkedmdb.org/resource/interlink/73136> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/8446> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/runtime> "114" .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/filmid> "8446"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/8446> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29405> .

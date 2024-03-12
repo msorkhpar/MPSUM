@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Don't_Ask_Me_Why_(Billy_Joel_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/runtime> "177.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://www.w3.org/2000/01/rdf-schema#label> "It's Still Rock and Roll to Me"@en .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Billy_Joel> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Person100007846> .
+<http://dbpedia.org/resource/Bringing_Up_Baby> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/elements/1.1/description> "American writer" .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th-century_American_writers> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://dbpedia.org/ontology/deathYear> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .

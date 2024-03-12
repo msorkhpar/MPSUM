@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://purl.org/dc/elements/1.1/description> "British minister" .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Burials_at_Bunhill_Fields> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://dbpedia.org/ontology/birthYear> "1725"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://dbpedia.org/ontology/deathYear> "1795"^^<http://www.w3.org/2001/XMLSchema#gYear> .

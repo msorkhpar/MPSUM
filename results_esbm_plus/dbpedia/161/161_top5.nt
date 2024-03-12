@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Think_of_You_(Usher_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Can_U_Get_wit_It> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/releaseDate> "1994-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/runtime> "296.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Arista_Records> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/Compact_disc> .

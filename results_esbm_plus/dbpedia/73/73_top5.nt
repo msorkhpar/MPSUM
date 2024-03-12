@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/Huntingdonshire> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/postalCode> "PE28 2" .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/areaCode> "01487" .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/gridReference> "TL260765" .

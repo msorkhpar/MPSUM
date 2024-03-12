@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Adelphi_Has_to_Fly> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Lucy_Ward_(musician)> .
+<http://dbpedia.org/resource/Belinda_O'Hooley> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Lucy_Ward_(musician)> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/birthYear> "1989"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/elements/1.1/description> "British musician" .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://www.w3.org/2000/01/rdf-schema#label> "Lucy Ward (musician)"@en .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://xmlns.com/foaf/0.1/givenName> "Lucy"@en .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://xmlns.com/foaf/0.1/name> "Ward, Lucy"@en .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1989_births> .
+<http://dbpedia.org/resource/Lucy_Ward_(musician)> <http://dbpedia.org/ontology/instrument> <http://dbpedia.org/resource/Concertina> .
