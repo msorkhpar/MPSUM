@@ -8,14 +8,6 @@ grd_root = 'E:\\dev\\src\\github.com\\nju-websoft\\ESBM\\v1.2\\ESBM_benchmark_v1
 top_num_regex = '(\d+)_top(\d+).nt'
 ground_match_regex = '{0}_gold_top{1}_\d+.nt'
 results = dict()
-x = {
-    'result_1': {
-        'dbpedia_5': .3,
-        'dbpedia_10': .672,
-        'lmdb_5': 1,
-        'lmdb_10': .555,
-    }
-}
 
 
 def load_nt_file(path):
