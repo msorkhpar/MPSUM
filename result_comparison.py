@@ -82,13 +82,26 @@ def read_result_folder(folder, run_name):
                         if re.match(ground_match_regex.format(entry_id, top_count), gf):
                             ground_truth = load_nt_file(ground_folder + os.sep + gf)
                             average_precision = eval_average_precision(ground_truth, predicted)
-                            print(average_precision)
                             results[run_name]['{0}_{1}_total'.format(db, top_count)] += average_precision
                             results[run_name]['{0}_{1}_count'.format(db, top_count)] += 1
-    results[run_name]['dbpedia_5'] = results[run_name]['dbpedia_5_total'] / results[run_name]['dbpedia_5_count']
-    results[run_name]['dbpedia_10'] = results[run_name]['dbpedia_10_total'] / results[run_name]['dbpedia_10_count']
-    results[run_name]['lmdb_5'] = results[run_name]['lmdb_5_total'] / results[run_name]['lmdb_5_count']
-    results[run_name]['lmdb_10'] = results[run_name]['lmdb_10_total'] / results[run_name]['lmdb_10_count']
+    results[run_name]['dbpedia_5'] = results[run_name].pop('dbpedia_5_total') / results[run_name].pop('dbpedia_5_count')
+    results[run_name]['dbpedia_10'] = results[run_name].pop('dbpedia_10_total') / results[run_name].pop('dbpedia_10_count')
+    results[run_name]['lmdb_5'] = results[run_name].pop('lmdb_5_total') / results[run_name].pop('lmdb_5_count')
+    results[run_name]['lmdb_10'] = results[run_name].pop('lmdb_10_total') / results[run_name].pop('lmdb_10_count')
+    total_dbpedia_5, total_dbpedia_10, total_lmdb_5, total_lmdb_10, run_count = 0, 0, 0, 0, 0
+    for r in results:
+        total_dbpedia_5 += results[r]['dbpedia_5']
+        total_dbpedia_10 += results[r]['dbpedia_10']
+        total_lmdb_5 += results[r]['lmdb_5']
+        total_lmdb_10 += results[r]['lmdb_10']
+        run_count += 1
+
+    results['total_average'] = {
+        'dbpedia_5': total_dbpedia_5 / run_count,
+        'dbpedia_10': total_dbpedia_10 / run_count,
+        'lmdb_5': total_lmdb_5 / run_count,
+        'lmdb_10': total_lmdb_10 / run_count,
+    }
 
 
 # Directory path: E:\dev\src\github.com\msorkhpar\MPSUM/result_9\lmdb\168
@@ -105,7 +118,7 @@ def fetch_ground_truth(node, db):
 
 def loop_results():
     dir_path = os.path.dirname(os.path.realpath(__file__))
-    for result_run in range(1, 10):
+    for result_run in range(1, 11):
         run_name = "result_" + str(result_run)
         read_result_folder(dir_path, run_name)
     pretty = json.dumps(results, indent=4)
